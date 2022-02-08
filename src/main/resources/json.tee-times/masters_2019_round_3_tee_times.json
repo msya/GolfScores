@@ -1,0 +1,322 @@
+[
+  {
+    "playerId": 54,
+    "teeTime": "2019-04-13 09:05:00 -0500",
+    "startTee": 1
+  },
+  {
+    "playerId": 60,
+    "teeTime": "2019-04-13 09:15:00 -0500",
+    "startTee": 1
+  },
+  {
+    "playerId": 64,
+    "teeTime": "2019-04-13 09:15:00 -0500",
+    "startTee": 1
+  },
+  {
+    "playerId": 59,
+    "teeTime": "2019-04-13 09:25:00 -0500",
+    "startTee": 1
+  },
+  {
+    "playerId": 61,
+    "teeTime": "2019-04-13 09:25:00 -0500",
+    "startTee": 1
+  },
+  {
+    "playerId": 63,
+    "teeTime": "2019-04-13 09:35:00 -0500",
+    "startTee": 1
+  },
+  {
+    "playerId": 57,
+    "teeTime": "2019-04-13 09:35:00 -0500",
+    "startTee": 1
+  },
+  {
+    "playerId": 53,
+    "teeTime": "2019-04-13 09:45:00 -0500",
+    "startTee": 1
+  },
+  {
+    "playerId": 41,
+    "teeTime": "2019-04-13 09:55:00 -0500",
+    "startTee": 1
+  },
+  {
+    "playerId": 43,
+    "teeTime": "2019-04-13 09:55:00 -0500",
+    "startTee": 1
+  },
+  {
+    "playerId": 44,
+    "teeTime": "2019-04-13 10:05:00 -0500",
+    "startTee": 1
+  },
+  {
+    "playerId": 17,
+    "teeTime": "2019-04-13 10:05:00 -0500",
+    "startTee": 1
+  },
+  {
+    "playerId": 58,
+    "teeTime": "2019-04-13 10:15:00 -0500",
+    "startTee": 1
+  },
+  {
+    "playerId": 10,
+    "teeTime": "2019-04-13 10:15:00 -0500",
+    "startTee": 1
+  },
+  {
+    "playerId": 34,
+    "teeTime": "2019-04-13 10:25:00 -0500",
+    "startTee": 1
+  },
+  {
+    "playerId": 51,
+    "teeTime": "2019-04-13 10:25:00 -0500",
+    "startTee": 1
+  },
+  {
+    "playerId": 62,
+    "teeTime": "2019-04-13 10:35:00 -0500",
+    "startTee": 1
+  },
+  {
+    "playerId": 46,
+    "teeTime": "2019-04-13 10:35:00 -0500",
+    "startTee": 1
+  },
+  {
+    "playerId": 56,
+    "teeTime": "2019-04-13 10:45:00 -0500",
+    "startTee": 1
+  },
+  {
+    "playerId": 25,
+    "teeTime": "2019-04-13 10:45:00 -0500",
+    "startTee": 1
+  },
+  {
+    "playerId": 50,
+    "teeTime": "2019-04-13 11:05:00 -0500",
+    "startTee": 1
+  },
+  {
+    "playerId": 21,
+    "teeTime": "2019-04-13 11:05:00 -0500",
+    "startTee": 1
+  },
+  {
+    "playerId": 24,
+    "teeTime": "2019-04-13 11:15:00 -0500",
+    "startTee": 1
+  },
+  {
+    "playerId": 23,
+    "teeTime": "2019-04-13 11:15:00 -0500",
+    "startTee": 1
+  },
+  {
+    "playerId": 45,
+    "teeTime": "2019-04-13 11:25:00 -0500",
+    "startTee": 1
+  },
+  {
+    "playerId": 12,
+    "teeTime": "2019-04-13 11:25:00 -0500",
+    "startTee": 1
+  },
+  {
+    "playerId": 47,
+    "teeTime": "2019-04-13 11:35:00 -0500",
+    "startTee": 1
+  },
+  {
+    "playerId": 38,
+    "teeTime": "2019-04-13 11:35:00 -0500",
+    "startTee": 1
+  },
+  {
+    "playerId": 35,
+    "teeTime": "2019-04-13 11:45:00 -0500",
+    "startTee": 1
+  },
+  {
+    "playerId": 39,
+    "teeTime": "2019-04-13 11:45:00 -0500",
+    "startTee": 1
+  },
+  {
+    "playerId": 37,
+    "teeTime": "2019-04-13 11:55:00 -0500",
+    "startTee": 1
+  },
+  {
+    "playerId": 6,
+    "teeTime": "2019-04-13 11:55:00 -0500",
+    "startTee": 1
+  },
+  {
+    "playerId": 26,
+    "teeTime": "2019-04-13 12:05:00 -0500",
+    "startTee": 1
+  },
+  {
+    "playerId": 40,
+    "teeTime": "2019-04-13 12:05:00 -0500",
+    "startTee": 1
+  },
+  {
+    "playerId": 65,
+    "teeTime": "2019-04-13 12:15:00 -0500",
+    "startTee": 1
+  },
+  {
+    "playerId": 36,
+    "teeTime": "2019-04-13 12:15:00 -0500",
+    "startTee": 1
+  },
+  {
+    "playerId": 30,
+    "teeTime": "2019-04-13 12:25:00 -0500",
+    "startTee": 1
+  },
+  {
+    "playerId": 42,
+    "teeTime": "2019-04-13 12:25:00 -0500",
+    "startTee": 1
+  },
+  {
+    "playerId": 66,
+    "teeTime": "2019-04-13 12:35:00 -0500",
+    "startTee": 1
+  },
+  {
+    "playerId": 27,
+    "teeTime": "2019-04-13 12:35:00 -0500",
+    "startTee": 1
+  },
+  {
+    "playerId": 28,
+    "teeTime": "2019-04-13 12:45:00 -0500",
+    "startTee": 1
+  },
+  {
+    "playerId": 22,
+    "teeTime": "2019-04-13 12:45:00 -0500",
+    "startTee": 1
+  },
+  {
+    "playerId": 33,
+    "teeTime": "2019-04-13 13:05:00 -0500",
+    "startTee": 1
+  },
+  {
+    "playerId": 11,
+    "teeTime": "2019-04-13 13:05:00 -0500",
+    "startTee": 1
+  },
+  {
+    "playerId": 48,
+    "teeTime": "2019-04-13 13:15:00 -0500",
+    "startTee": 1
+  },
+  {
+    "playerId": 8,
+    "teeTime": "2019-04-13 13:15:00 -0500",
+    "startTee": 1
+  },
+  {
+    "playerId": 29,
+    "teeTime": "2019-04-13 13:25:00 -0500",
+    "startTee": 1
+  },
+  {
+    "playerId": 13,
+    "teeTime": "2019-04-13 13:25:00 -0500",
+    "startTee": 1
+  },
+  {
+    "playerId": 32,
+    "teeTime": "2019-04-13 13:35:00 -0500",
+    "startTee": 1
+  },
+  {
+    "playerId": 49,
+    "teeTime": "2019-04-13 13:35:00 -0500",
+    "startTee": 1
+  },
+  {
+    "playerId": 15,
+    "teeTime": "2019-04-13 13:45:00 -0500",
+    "startTee": 1
+  },
+  {
+    "playerId": 18,
+    "teeTime": "2019-04-13 13:45:00 -0500",
+    "startTee": 1
+  },
+  {
+    "playerId": 9,
+    "teeTime": "2019-04-13 13:55:00 -0500",
+    "startTee": 1
+  },
+  {
+    "playerId": 20,
+    "teeTime": "2019-04-13 13:55:00 -0500",
+    "startTee": 1
+  },
+  {
+    "playerId": 1,
+    "teeTime": "2019-04-13 14:05:00 -0500",
+    "startTee": 1
+  },
+  {
+    "playerId": 16,
+    "teeTime": "2019-04-13 14:05:00 -0500",
+    "startTee": 1
+  },
+  {
+    "playerId": 14,
+    "teeTime": "2019-04-13 14:15:00 -0500",
+    "startTee": 1
+  },
+  {
+    "playerId": 2,
+    "teeTime": "2019-04-13 14:15:00 -0500",
+    "startTee": 1
+  },
+  {
+    "playerId": 31,
+    "teeTime": "2019-04-13 14:25:00 -0500",
+    "startTee": 1
+  },
+  {
+    "playerId": 3,
+    "teeTime": "2019-04-13 14:25:00 -0500",
+    "startTee": 1
+  },
+  {
+    "playerId": 4,
+    "teeTime": "2019-04-13 14:35:00 -0500",
+    "startTee": 1
+  },
+  {
+    "playerId": 19,
+    "teeTime": "2019-04-13 14:35:00 -0500",
+    "startTee": 1
+  },
+  {
+    "playerId": 7,
+    "teeTime": "2019-04-13 14:45:00 -0500",
+    "startTee": 1
+  },
+  {
+    "playerId": 5,
+    "teeTime": "2019-04-13 14:45:00 -0500",
+    "startTee": 1
+  }
+]

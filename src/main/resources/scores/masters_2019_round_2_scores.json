@@ -1,0 +1,11258 @@
+[
+  {
+    "playerId": 1,
+    "teeScores": [
+      {
+        "hole": 1,
+        "par": 4,
+        "round": 0,
+        "tot": -2,
+        "score": 4
+      },
+      {
+        "hole": 2,
+        "par": 5,
+        "round": 0,
+        "tot": -2,
+        "score": 5
+      },
+      {
+        "hole": 3,
+        "par": 4,
+        "round": 0,
+        "tot": -2,
+        "score": 4
+      },
+      {
+        "hole": 4,
+        "par": 3,
+        "round": -1,
+        "tot": -3,
+        "score": 2
+      },
+      {
+        "hole": 5,
+        "par": 4,
+        "round": 0,
+        "tot": -2,
+        "score": 5
+      },
+      {
+        "hole": 6,
+        "par": 3,
+        "round": -1,
+        "tot": -3,
+        "score": 2
+      },
+      {
+        "hole": 7,
+        "par": 4,
+        "round": -1,
+        "tot": -3,
+        "score": 4
+      },
+      {
+        "hole": 8,
+        "par": 5,
+        "round": 0,
+        "tot": -2,
+        "score": 6
+      },
+      {
+        "hole": 9,
+        "par": 4,
+        "round": -1,
+        "tot": -3,
+        "score": 3
+      },
+      {
+        "hole": 10,
+        "par": 4,
+        "round": -1,
+        "tot": -3,
+        "score": 4
+      },
+      {
+        "hole": 11,
+        "par": 4,
+        "round": -2,
+        "tot": -4,
+        "score": 3
+      },
+      {
+        "hole": 12,
+        "par": 3,
+        "round": -2,
+        "tot": -4,
+        "score": 3
+      },
+      {
+        "hole": 13,
+        "par": 5,
+        "round": -2,
+        "tot": -4,
+        "score": 5
+      },
+      {
+        "hole": 14,
+        "par": 4,
+        "round": -3,
+        "tot": -5,
+        "score": 3
+      },
+      {
+        "hole": 15,
+        "par": 5,
+        "round": -4,
+        "tot": -6,
+        "score": 4
+      },
+      {
+        "hole": 16,
+        "par": 3,
+        "round": -4,
+        "tot": -6,
+        "score": 3
+      },
+      {
+        "hole": 17,
+        "par": 4,
+        "round": -4,
+        "tot": -6,
+        "score": 4
+      },
+      {
+        "hole": 18,
+        "par": 4,
+        "round": -4,
+        "tot": -6,
+        "score": 4
+      }
+    ],
+    "outTotal": 35,
+    "inTotal": 33,
+    "total": 68
+  },
+  {
+    "playerId": 2,
+    "teeScores": [
+      {
+        "hole": 1,
+        "par": 4,
+        "round": 1,
+        "tot": 2,
+        "score": 5
+      },
+      {
+        "hole": 2,
+        "par": 5,
+        "round": 0,
+        "tot": 1,
+        "score": 4
+      },
+      {
+        "hole": 3,
+        "par": 4,
+        "round": -1,
+        "tot": 0,
+        "score": 3
+      },
+      {
+        "hole": 4,
+        "par": 3,
+        "round": -1,
+        "tot": 0,
+        "score": 3
+      },
+      {
+        "hole": 5,
+        "par": 4,
+        "round": -1,
+        "tot": 0,
+        "score": 4
+      },
+      {
+        "hole": 6,
+        "par": 3,
+        "round": -1,
+        "tot": 0,
+        "score": 3
+      },
+      {
+        "hole": 7,
+        "par": 4,
+        "round": -1,
+        "tot": 0,
+        "score": 4
+      },
+      {
+        "hole": 8,
+        "par": 5,
+        "round": -2,
+        "tot": -1,
+        "score": 4
+      },
+      {
+        "hole": 9,
+        "par": 4,
+        "round": -3,
+        "tot": -2,
+        "score": 3
+      },
+      {
+        "hole": 10,
+        "par": 4,
+        "round": -3,
+        "tot": -2,
+        "score": 4
+      },
+      {
+        "hole": 11,
+        "par": 4,
+        "round": -3,
+        "tot": -2,
+        "score": 4
+      },
+      {
+        "hole": 12,
+        "par": 3,
+        "round": -3,
+        "tot": -2,
+        "score": 3
+      },
+      {
+        "hole": 13,
+        "par": 5,
+        "round": -4,
+        "tot": -3,
+        "score": 4
+      },
+      {
+        "hole": 14,
+        "par": 4,
+        "round": -5,
+        "tot": -4,
+        "score": 3
+      },
+      {
+        "hole": 15,
+        "par": 5,
+        "round": -6,
+        "tot": -5,
+        "score": 4
+      },
+      {
+        "hole": 16,
+        "par": 3,
+        "round": -6,
+        "tot": -5,
+        "score": 3
+      },
+      {
+        "hole": 17,
+        "par": 4,
+        "round": -6,
+        "tot": -5,
+        "score": 4
+      },
+      {
+        "hole": 18,
+        "par": 4,
+        "round": -7,
+        "tot": -6,
+        "score": 3
+      }
+    ],
+    "outTotal": 33,
+    "inTotal": 32,
+    "total": 65
+  },
+  {
+    "playerId": 3,
+    "teeScores": [
+      {
+        "hole": 1,
+        "par": 4,
+        "round": 1,
+        "tot": -3,
+        "score": 5
+      },
+      {
+        "hole": 2,
+        "par": 5,
+        "round": 1,
+        "tot": -3,
+        "score": 5
+      },
+      {
+        "hole": 3,
+        "par": 4,
+        "round": 1,
+        "tot": -3,
+        "score": 4
+      },
+      {
+        "hole": 4,
+        "par": 3,
+        "round": 1,
+        "tot": -3,
+        "score": 3
+      },
+      {
+        "hole": 5,
+        "par": 4,
+        "round": 1,
+        "tot": -3,
+        "score": 4
+      },
+      {
+        "hole": 6,
+        "par": 3,
+        "round": 1,
+        "tot": -3,
+        "score": 3
+      },
+      {
+        "hole": 7,
+        "par": 4,
+        "round": 1,
+        "tot": -3,
+        "score": 4
+      },
+      {
+        "hole": 8,
+        "par": 5,
+        "round": 1,
+        "tot": -3,
+        "score": 5
+      },
+      {
+        "hole": 9,
+        "par": 4,
+        "round": 1,
+        "tot": -3,
+        "score": 4
+      },
+      {
+        "hole": 10,
+        "par": 4,
+        "round": 0,
+        "tot": -4,
+        "score": 3
+      },
+      {
+        "hole": 11,
+        "par": 4,
+        "round": 0,
+        "tot": -4,
+        "score": 4
+      },
+      {
+        "hole": 12,
+        "par": 3,
+        "round": 0,
+        "tot": -4,
+        "score": 3
+      },
+      {
+        "hole": 13,
+        "par": 5,
+        "round": -1,
+        "tot": -5,
+        "score": 4
+      },
+      {
+        "hole": 14,
+        "par": 4,
+        "round": -1,
+        "tot": -5,
+        "score": 4
+      },
+      {
+        "hole": 15,
+        "par": 5,
+        "round": -2,
+        "tot": -6,
+        "score": 4
+      },
+      {
+        "hole": 16,
+        "par": 3,
+        "round": -2,
+        "tot": -6,
+        "score": 3
+      },
+      {
+        "hole": 17,
+        "par": 4,
+        "round": -2,
+        "tot": -6,
+        "score": 4
+      },
+      {
+        "hole": 18,
+        "par": 4,
+        "round": -2,
+        "tot": -6,
+        "score": 4
+      }
+    ],
+    "outTotal": 37,
+    "inTotal": 33,
+    "total": 70
+  },
+  {
+    "playerId": 4,
+    "teeScores": [
+      {
+        "hole": 1,
+        "par": 4,
+        "round": -1,
+        "tot": -7,
+        "score": 3
+      },
+      {
+        "hole": 2,
+        "par": 5,
+        "round": 1,
+        "tot": -5,
+        "score": 7
+      },
+      {
+        "hole": 3,
+        "par": 4,
+        "round": 0,
+        "tot": -6,
+        "score": 3
+      },
+      {
+        "hole": 4,
+        "par": 3,
+        "round": 1,
+        "tot": -5,
+        "score": 4
+      },
+      {
+        "hole": 5,
+        "par": 4,
+        "round": 1,
+        "tot": -5,
+        "score": 4
+      },
+      {
+        "hole": 6,
+        "par": 3,
+        "round": 2,
+        "tot": -4,
+        "score": 4
+      },
+      {
+        "hole": 7,
+        "par": 4,
+        "round": 2,
+        "tot": -4,
+        "score": 4
+      },
+      {
+        "hole": 8,
+        "par": 5,
+        "round": 1,
+        "tot": -5,
+        "score": 4
+      },
+      {
+        "hole": 9,
+        "par": 4,
+        "round": 1,
+        "tot": -5,
+        "score": 4
+      },
+      {
+        "hole": 10,
+        "par": 4,
+        "round": 1,
+        "tot": -5,
+        "score": 4
+      },
+      {
+        "hole": 11,
+        "par": 4,
+        "round": 1,
+        "tot": -5,
+        "score": 4
+      },
+      {
+        "hole": 12,
+        "par": 3,
+        "round": 1,
+        "tot": -5,
+        "score": 3
+      },
+      {
+        "hole": 13,
+        "par": 5,
+        "round": 1,
+        "tot": -5,
+        "score": 5
+      },
+      {
+        "hole": 14,
+        "par": 4,
+        "round": 1,
+        "tot": -5,
+        "score": 4
+      },
+      {
+        "hole": 15,
+        "par": 5,
+        "round": 0,
+        "tot": -6,
+        "score": 4
+      },
+      {
+        "hole": 16,
+        "par": 3,
+        "round": 0,
+        "tot": -6,
+        "score": 3
+      },
+      {
+        "hole": 17,
+        "par": 4,
+        "round": 0,
+        "tot": -6,
+        "score": 4
+      },
+      {
+        "hole": 18,
+        "par": 4,
+        "round": -1,
+        "tot": -7,
+        "score": 3
+      }
+    ],
+    "outTotal": 37,
+    "inTotal": 34,
+    "total": 71
+  },
+  {
+    "playerId": 5,
+    "teeScores": [
+      {
+        "hole": 1,
+        "par": 4,
+        "round": 0,
+        "tot": -2,
+        "score": 4
+      },
+      {
+        "hole": 2,
+        "par": 5,
+        "round": -1,
+        "tot": -3,
+        "score": 4
+      },
+      {
+        "hole": 3,
+        "par": 4,
+        "round": -1,
+        "tot": -3,
+        "score": 4
+      },
+      {
+        "hole": 4,
+        "par": 3,
+        "round": -1,
+        "tot": -3,
+        "score": 3
+      },
+      {
+        "hole": 5,
+        "par": 4,
+        "round": -2,
+        "tot": -4,
+        "score": 3
+      },
+      {
+        "hole": 6,
+        "par": 3,
+        "round": -2,
+        "tot": -4,
+        "score": 3
+      },
+      {
+        "hole": 7,
+        "par": 4,
+        "round": -2,
+        "tot": -4,
+        "score": 4
+      },
+      {
+        "hole": 8,
+        "par": 5,
+        "round": -3,
+        "tot": -5,
+        "score": 4
+      },
+      {
+        "hole": 9,
+        "par": 4,
+        "round": -3,
+        "tot": -5,
+        "score": 4
+      },
+      {
+        "hole": 10,
+        "par": 4,
+        "round": -3,
+        "tot": -5,
+        "score": 4
+      },
+      {
+        "hole": 11,
+        "par": 4,
+        "round": -3,
+        "tot": -5,
+        "score": 4
+      },
+      {
+        "hole": 12,
+        "par": 3,
+        "round": -2,
+        "tot": -4,
+        "score": 4
+      },
+      {
+        "hole": 13,
+        "par": 5,
+        "round": -3,
+        "tot": -5,
+        "score": 4
+      },
+      {
+        "hole": 14,
+        "par": 4,
+        "round": -3,
+        "tot": -5,
+        "score": 4
+      },
+      {
+        "hole": 15,
+        "par": 5,
+        "round": -4,
+        "tot": -6,
+        "score": 4
+      },
+      {
+        "hole": 16,
+        "par": 3,
+        "round": -5,
+        "tot": -7,
+        "score": 2
+      },
+      {
+        "hole": 17,
+        "par": 4,
+        "round": -5,
+        "tot": -7,
+        "score": 4
+      },
+      {
+        "hole": 18,
+        "par": 4,
+        "round": -5,
+        "tot": -7,
+        "score": 4
+      }
+    ],
+    "outTotal": 33,
+    "inTotal": 34,
+    "total": 67
+  },
+  {
+    "playerId": 6,
+    "teeScores": [
+      {
+        "hole": 1,
+        "par": 4,
+        "round": 0,
+        "tot": 0,
+        "score": 4
+      },
+      {
+        "hole": 2,
+        "par": 5,
+        "round": -1,
+        "tot": -1,
+        "score": 4
+      },
+      {
+        "hole": 3,
+        "par": 4,
+        "round": -1,
+        "tot": -1,
+        "score": 4
+      },
+      {
+        "hole": 4,
+        "par": 3,
+        "round": -1,
+        "tot": -1,
+        "score": 3
+      },
+      {
+        "hole": 5,
+        "par": 4,
+        "round": -1,
+        "tot": -1,
+        "score": 4
+      },
+      {
+        "hole": 6,
+        "par": 3,
+        "round": -1,
+        "tot": -1,
+        "score": 3
+      },
+      {
+        "hole": 7,
+        "par": 4,
+        "round": -1,
+        "tot": -1,
+        "score": 4
+      },
+      {
+        "hole": 8,
+        "par": 5,
+        "round": -2,
+        "tot": -2,
+        "score": 4
+      },
+      {
+        "hole": 9,
+        "par": 4,
+        "round": -2,
+        "tot": -2,
+        "score": 4
+      },
+      {
+        "hole": 10,
+        "par": 4,
+        "round": -1,
+        "tot": -1,
+        "score": 5
+      },
+      {
+        "hole": 11,
+        "par": 4,
+        "round": -1,
+        "tot": -1,
+        "score": 4
+      },
+      {
+        "hole": 12,
+        "par": 3,
+        "round": -1,
+        "tot": -1,
+        "score": 3
+      },
+      {
+        "hole": 13,
+        "par": 5,
+        "round": -1,
+        "tot": -1,
+        "score": 5
+      },
+      {
+        "hole": 14,
+        "par": 4,
+        "round": -1,
+        "tot": -1,
+        "score": 4
+      },
+      {
+        "hole": 15,
+        "par": 5,
+        "round": -1,
+        "tot": -1,
+        "score": 5
+      },
+      {
+        "hole": 16,
+        "par": 3,
+        "round": -1,
+        "tot": -1,
+        "score": 3
+      },
+      {
+        "hole": 17,
+        "par": 4,
+        "round": -1,
+        "tot": -1,
+        "score": 4
+      },
+      {
+        "hole": 18,
+        "par": 4,
+        "round": -1,
+        "tot": -1,
+        "score": 4
+      }
+    ],
+    "outTotal": 34,
+    "inTotal": 37,
+    "total": 71
+  },
+  {
+    "playerId": 7,
+    "teeScores": [
+      {
+        "hole": 1,
+        "par": 4,
+        "round": 0,
+        "tot": -2,
+        "score": 4
+      },
+      {
+        "hole": 2,
+        "par": 5,
+        "round": 0,
+        "tot": -2,
+        "score": 5
+      },
+      {
+        "hole": 3,
+        "par": 4,
+        "round": -1,
+        "tot": -3,
+        "score": 3
+      },
+      {
+        "hole": 4,
+        "par": 3,
+        "round": -1,
+        "tot": -3,
+        "score": 3
+      },
+      {
+        "hole": 5,
+        "par": 4,
+        "round": -1,
+        "tot": -3,
+        "score": 4
+      },
+      {
+        "hole": 6,
+        "par": 3,
+        "round": -1,
+        "tot": -3,
+        "score": 3
+      },
+      {
+        "hole": 7,
+        "par": 4,
+        "round": -1,
+        "tot": -3,
+        "score": 4
+      },
+      {
+        "hole": 8,
+        "par": 5,
+        "round": -2,
+        "tot": -4,
+        "score": 4
+      },
+      {
+        "hole": 9,
+        "par": 4,
+        "round": -3,
+        "tot": -5,
+        "score": 3
+      },
+      {
+        "hole": 10,
+        "par": 4,
+        "round": -3,
+        "tot": -5,
+        "score": 4
+      },
+      {
+        "hole": 11,
+        "par": 4,
+        "round": -3,
+        "tot": -5,
+        "score": 4
+      },
+      {
+        "hole": 12,
+        "par": 3,
+        "round": -4,
+        "tot": -6,
+        "score": 2
+      },
+      {
+        "hole": 13,
+        "par": 5,
+        "round": -4,
+        "tot": -6,
+        "score": 5
+      },
+      {
+        "hole": 14,
+        "par": 4,
+        "round": -4,
+        "tot": -6,
+        "score": 4
+      },
+      {
+        "hole": 15,
+        "par": 5,
+        "round": -5,
+        "tot": -7,
+        "score": 4
+      },
+      {
+        "hole": 16,
+        "par": 3,
+        "round": -5,
+        "tot": -7,
+        "score": 3
+      },
+      {
+        "hole": 17,
+        "par": 4,
+        "round": -5,
+        "tot": -7,
+        "score": 4
+      },
+      {
+        "hole": 18,
+        "par": 4,
+        "round": -5,
+        "tot": -7,
+        "score": 4
+      }
+    ],
+    "outTotal": 33,
+    "inTotal": 34,
+    "total": 67
+  },
+  {
+    "playerId": 8,
+    "teeScores": [
+      {
+        "hole": 1,
+        "par": 4,
+        "round": 0,
+        "tot": -1,
+        "score": 4
+      },
+      {
+        "hole": 2,
+        "par": 5,
+        "round": 0,
+        "tot": -1,
+        "score": 5
+      },
+      {
+        "hole": 3,
+        "par": 4,
+        "round": 0,
+        "tot": -1,
+        "score": 4
+      },
+      {
+        "hole": 4,
+        "par": 3,
+        "round": 0,
+        "tot": -1,
+        "score": 3
+      },
+      {
+        "hole": 5,
+        "par": 4,
+        "round": 0,
+        "tot": -1,
+        "score": 4
+      },
+      {
+        "hole": 6,
+        "par": 3,
+        "round": 0,
+        "tot": -1,
+        "score": 3
+      },
+      {
+        "hole": 7,
+        "par": 4,
+        "round": 0,
+        "tot": -1,
+        "score": 4
+      },
+      {
+        "hole": 8,
+        "par": 5,
+        "round": -1,
+        "tot": -2,
+        "score": 4
+      },
+      {
+        "hole": 9,
+        "par": 4,
+        "round": 0,
+        "tot": -1,
+        "score": 5
+      },
+      {
+        "hole": 10,
+        "par": 4,
+        "round": -1,
+        "tot": -2,
+        "score": 3
+      },
+      {
+        "hole": 11,
+        "par": 4,
+        "round": -1,
+        "tot": -2,
+        "score": 4
+      },
+      {
+        "hole": 12,
+        "par": 3,
+        "round": -1,
+        "tot": -2,
+        "score": 3
+      },
+      {
+        "hole": 13,
+        "par": 5,
+        "round": -1,
+        "tot": -2,
+        "score": 5
+      },
+      {
+        "hole": 14,
+        "par": 4,
+        "round": -1,
+        "tot": -2,
+        "score": 4
+      },
+      {
+        "hole": 15,
+        "par": 5,
+        "round": -2,
+        "tot": -3,
+        "score": 4
+      },
+      {
+        "hole": 16,
+        "par": 3,
+        "round": -2,
+        "tot": -3,
+        "score": 3
+      },
+      {
+        "hole": 17,
+        "par": 4,
+        "round": -2,
+        "tot": -3,
+        "score": 4
+      },
+      {
+        "hole": 18,
+        "par": 4,
+        "round": -2,
+        "tot": -3,
+        "score": 4
+      }
+    ],
+    "outTotal": 36,
+    "inTotal": 34,
+    "total": 70
+  },
+  {
+    "playerId": 9,
+    "teeScores": [
+      {
+        "hole": 1,
+        "par": 4,
+        "round": 0,
+        "tot": -3,
+        "score": 4
+      },
+      {
+        "hole": 2,
+        "par": 5,
+        "round": -1,
+        "tot": -4,
+        "score": 4
+      },
+      {
+        "hole": 3,
+        "par": 4,
+        "round": -2,
+        "tot": -5,
+        "score": 3
+      },
+      {
+        "hole": 4,
+        "par": 3,
+        "round": -2,
+        "tot": -5,
+        "score": 3
+      },
+      {
+        "hole": 5,
+        "par": 4,
+        "round": -2,
+        "tot": -5,
+        "score": 4
+      },
+      {
+        "hole": 6,
+        "par": 3,
+        "round": -2,
+        "tot": -5,
+        "score": 3
+      },
+      {
+        "hole": 7,
+        "par": 4,
+        "round": -2,
+        "tot": -5,
+        "score": 4
+      },
+      {
+        "hole": 8,
+        "par": 5,
+        "round": -2,
+        "tot": -5,
+        "score": 5
+      },
+      {
+        "hole": 9,
+        "par": 4,
+        "round": -2,
+        "tot": -5,
+        "score": 4
+      },
+      {
+        "hole": 10,
+        "par": 4,
+        "round": -2,
+        "tot": -5,
+        "score": 4
+      },
+      {
+        "hole": 11,
+        "par": 4,
+        "round": -2,
+        "tot": -5,
+        "score": 4
+      },
+      {
+        "hole": 12,
+        "par": 3,
+        "round": -2,
+        "tot": -5,
+        "score": 3
+      },
+      {
+        "hole": 13,
+        "par": 5,
+        "round": -2,
+        "tot": -5,
+        "score": 5
+      },
+      {
+        "hole": 14,
+        "par": 4,
+        "round": -2,
+        "tot": -5,
+        "score": 4
+      },
+      {
+        "hole": 15,
+        "par": 5,
+        "round": -2,
+        "tot": -5,
+        "score": 5
+      },
+      {
+        "hole": 16,
+        "par": 3,
+        "round": -2,
+        "tot": -5,
+        "score": 3
+      },
+      {
+        "hole": 17,
+        "par": 4,
+        "round": -2,
+        "tot": -5,
+        "score": 4
+      },
+      {
+        "hole": 18,
+        "par": 4,
+        "round": -2,
+        "tot": -5,
+        "score": 4
+      }
+    ],
+    "outTotal": 34,
+    "inTotal": 36,
+    "total": 70
+  },
+  {
+    "playerId": 10,
+    "teeScores": [
+      {
+        "hole": 1,
+        "par": 4,
+        "round": 0,
+        "tot": 1,
+        "score": 4
+      },
+      {
+        "hole": 2,
+        "par": 5,
+        "round": 0,
+        "tot": 1,
+        "score": 5
+      },
+      {
+        "hole": 3,
+        "par": 4,
+        "round": 0,
+        "tot": 1,
+        "score": 4
+      },
+      {
+        "hole": 4,
+        "par": 3,
+        "round": 0,
+        "tot": 1,
+        "score": 3
+      },
+      {
+        "hole": 5,
+        "par": 4,
+        "round": 1,
+        "tot": 2,
+        "score": 5
+      },
+      {
+        "hole": 6,
+        "par": 3,
+        "round": 1,
+        "tot": 2,
+        "score": 3
+      },
+      {
+        "hole": 7,
+        "par": 4,
+        "round": 1,
+        "tot": 2,
+        "score": 4
+      },
+      {
+        "hole": 8,
+        "par": 5,
+        "round": 0,
+        "tot": 1,
+        "score": 4
+      },
+      {
+        "hole": 9,
+        "par": 4,
+        "round": 0,
+        "tot": 1,
+        "score": 4
+      },
+      {
+        "hole": 10,
+        "par": 4,
+        "round": 0,
+        "tot": 1,
+        "score": 4
+      },
+      {
+        "hole": 11,
+        "par": 4,
+        "round": 0,
+        "tot": 1,
+        "score": 4
+      },
+      {
+        "hole": 12,
+        "par": 3,
+        "round": 0,
+        "tot": 1,
+        "score": 3
+      },
+      {
+        "hole": 13,
+        "par": 5,
+        "round": -1,
+        "tot": 0,
+        "score": 4
+      },
+      {
+        "hole": 14,
+        "par": 4,
+        "round": 0,
+        "tot": 1,
+        "score": 5
+      },
+      {
+        "hole": 15,
+        "par": 5,
+        "round": 0,
+        "tot": 1,
+        "score": 5
+      },
+      {
+        "hole": 16,
+        "par": 3,
+        "round": 0,
+        "tot": 1,
+        "score": 3
+      },
+      {
+        "hole": 17,
+        "par": 4,
+        "round": 0,
+        "tot": 1,
+        "score": 4
+      },
+      {
+        "hole": 18,
+        "par": 4,
+        "round": 1,
+        "tot": 2,
+        "score": 5
+      }
+    ],
+    "outTotal": 36,
+    "inTotal": 37,
+    "total": 73
+  },
+  {
+    "playerId": 11,
+    "teeScores": [
+      {
+        "hole": 1,
+        "par": 4,
+        "round": 0,
+        "tot": -2,
+        "score": 4
+      },
+      {
+        "hole": 2,
+        "par": 5,
+        "round": 0,
+        "tot": -2,
+        "score": 5
+      },
+      {
+        "hole": 3,
+        "par": 4,
+        "round": 1,
+        "tot": -1,
+        "score": 5
+      },
+      {
+        "hole": 4,
+        "par": 3,
+        "round": 1,
+        "tot": -1,
+        "score": 3
+      },
+      {
+        "hole": 5,
+        "par": 4,
+        "round": 1,
+        "tot": -1,
+        "score": 4
+      },
+      {
+        "hole": 6,
+        "par": 3,
+        "round": 0,
+        "tot": -2,
+        "score": 2
+      },
+      {
+        "hole": 7,
+        "par": 4,
+        "round": 0,
+        "tot": -2,
+        "score": 4
+      },
+      {
+        "hole": 8,
+        "par": 5,
+        "round": -1,
+        "tot": -3,
+        "score": 4
+      },
+      {
+        "hole": 9,
+        "par": 4,
+        "round": -1,
+        "tot": -3,
+        "score": 4
+      },
+      {
+        "hole": 10,
+        "par": 4,
+        "round": -1,
+        "tot": -3,
+        "score": 4
+      },
+      {
+        "hole": 11,
+        "par": 4,
+        "round": 0,
+        "tot": -2,
+        "score": 5
+      },
+      {
+        "hole": 12,
+        "par": 3,
+        "round": 0,
+        "tot": -2,
+        "score": 3
+      },
+      {
+        "hole": 13,
+        "par": 5,
+        "round": 0,
+        "tot": -2,
+        "score": 5
+      },
+      {
+        "hole": 14,
+        "par": 4,
+        "round": 0,
+        "tot": -2,
+        "score": 4
+      },
+      {
+        "hole": 15,
+        "par": 5,
+        "round": -1,
+        "tot": -3,
+        "score": 4
+      },
+      {
+        "hole": 16,
+        "par": 3,
+        "round": -1,
+        "tot": -3,
+        "score": 3
+      },
+      {
+        "hole": 17,
+        "par": 4,
+        "round": -1,
+        "tot": -3,
+        "score": 4
+      },
+      {
+        "hole": 18,
+        "par": 4,
+        "round": -1,
+        "tot": -3,
+        "score": 4
+      }
+    ],
+    "outTotal": 35,
+    "inTotal": 36,
+    "total": 71
+  },
+  {
+    "playerId": 12,
+    "teeScores": [
+      {
+        "hole": 1,
+        "par": 4,
+        "round": 0,
+        "tot": 0,
+        "score": 4
+      },
+      {
+        "hole": 2,
+        "par": 5,
+        "round": -1,
+        "tot": -1,
+        "score": 4
+      },
+      {
+        "hole": 3,
+        "par": 4,
+        "round": -1,
+        "tot": -1,
+        "score": 4
+      },
+      {
+        "hole": 4,
+        "par": 3,
+        "round": -1,
+        "tot": -1,
+        "score": 3
+      },
+      {
+        "hole": 5,
+        "par": 4,
+        "round": 0,
+        "tot": 0,
+        "score": 5
+      },
+      {
+        "hole": 6,
+        "par": 3,
+        "round": 0,
+        "tot": 0,
+        "score": 3
+      },
+      {
+        "hole": 7,
+        "par": 4,
+        "round": 0,
+        "tot": 0,
+        "score": 4
+      },
+      {
+        "hole": 8,
+        "par": 5,
+        "round": 0,
+        "tot": 0,
+        "score": 5
+      },
+      {
+        "hole": 9,
+        "par": 4,
+        "round": 0,
+        "tot": 0,
+        "score": 4
+      },
+      {
+        "hole": 10,
+        "par": 4,
+        "round": 0,
+        "tot": 0,
+        "score": 4
+      },
+      {
+        "hole": 11,
+        "par": 4,
+        "round": 0,
+        "tot": 0,
+        "score": 4
+      },
+      {
+        "hole": 12,
+        "par": 3,
+        "round": 1,
+        "tot": 1,
+        "score": 4
+      },
+      {
+        "hole": 13,
+        "par": 5,
+        "round": -1,
+        "tot": -1,
+        "score": 3
+      },
+      {
+        "hole": 14,
+        "par": 4,
+        "round": -1,
+        "tot": -1,
+        "score": 4
+      },
+      {
+        "hole": 15,
+        "par": 5,
+        "round": -1,
+        "tot": -1,
+        "score": 5
+      },
+      {
+        "hole": 16,
+        "par": 3,
+        "round": -1,
+        "tot": -1,
+        "score": 3
+      },
+      {
+        "hole": 17,
+        "par": 4,
+        "round": 0,
+        "tot": 0,
+        "score": 5
+      },
+      {
+        "hole": 18,
+        "par": 4,
+        "round": 0,
+        "tot": 0,
+        "score": 4
+      }
+    ],
+    "outTotal": 36,
+    "inTotal": 36,
+    "total": 72
+  },
+  {
+    "playerId": 13,
+    "teeScores": [
+      {
+        "hole": 1,
+        "par": 4,
+        "round": 0,
+        "tot": 1,
+        "score": 4
+      },
+      {
+        "hole": 2,
+        "par": 5,
+        "round": -1,
+        "tot": 0,
+        "score": 4
+      },
+      {
+        "hole": 3,
+        "par": 4,
+        "round": -1,
+        "tot": 0,
+        "score": 4
+      },
+      {
+        "hole": 4,
+        "par": 3,
+        "round": -1,
+        "tot": 0,
+        "score": 3
+      },
+      {
+        "hole": 5,
+        "par": 4,
+        "round": -1,
+        "tot": 0,
+        "score": 4
+      },
+      {
+        "hole": 6,
+        "par": 3,
+        "round": -2,
+        "tot": -1,
+        "score": 2
+      },
+      {
+        "hole": 7,
+        "par": 4,
+        "round": -2,
+        "tot": -1,
+        "score": 4
+      },
+      {
+        "hole": 8,
+        "par": 5,
+        "round": -3,
+        "tot": -2,
+        "score": 4
+      },
+      {
+        "hole": 9,
+        "par": 4,
+        "round": -3,
+        "tot": -2,
+        "score": 4
+      },
+      {
+        "hole": 10,
+        "par": 4,
+        "round": -3,
+        "tot": -2,
+        "score": 4
+      },
+      {
+        "hole": 11,
+        "par": 4,
+        "round": -3,
+        "tot": -2,
+        "score": 4
+      },
+      {
+        "hole": 12,
+        "par": 3,
+        "round": -3,
+        "tot": -2,
+        "score": 3
+      },
+      {
+        "hole": 13,
+        "par": 5,
+        "round": -3,
+        "tot": -2,
+        "score": 5
+      },
+      {
+        "hole": 14,
+        "par": 4,
+        "round": -3,
+        "tot": -2,
+        "score": 4
+      },
+      {
+        "hole": 15,
+        "par": 5,
+        "round": -5,
+        "tot": -4,
+        "score": 3
+      },
+      {
+        "hole": 16,
+        "par": 3,
+        "round": -5,
+        "tot": -4,
+        "score": 3
+      },
+      {
+        "hole": 17,
+        "par": 4,
+        "round": -5,
+        "tot": -4,
+        "score": 4
+      },
+      {
+        "hole": 18,
+        "par": 4,
+        "round": -4,
+        "tot": -3,
+        "score": 5
+      }
+    ],
+    "outTotal": 33,
+    "inTotal": 35,
+    "total": 68
+  },
+  {
+    "playerId": 14,
+    "teeScores": [
+      {
+        "hole": 1,
+        "par": 4,
+        "round": 0,
+        "tot": -3,
+        "score": 4
+      },
+      {
+        "hole": 2,
+        "par": 5,
+        "round": 0,
+        "tot": -3,
+        "score": 5
+      },
+      {
+        "hole": 3,
+        "par": 4,
+        "round": 0,
+        "tot": -3,
+        "score": 4
+      },
+      {
+        "hole": 4,
+        "par": 3,
+        "round": 0,
+        "tot": -3,
+        "score": 3
+      },
+      {
+        "hole": 5,
+        "par": 4,
+        "round": 0,
+        "tot": -3,
+        "score": 4
+      },
+      {
+        "hole": 6,
+        "par": 3,
+        "round": 0,
+        "tot": -3,
+        "score": 3
+      },
+      {
+        "hole": 7,
+        "par": 4,
+        "round": 0,
+        "tot": -3,
+        "score": 4
+      },
+      {
+        "hole": 8,
+        "par": 5,
+        "round": 0,
+        "tot": -3,
+        "score": 5
+      },
+      {
+        "hole": 9,
+        "par": 4,
+        "round": 0,
+        "tot": -3,
+        "score": 4
+      },
+      {
+        "hole": 10,
+        "par": 4,
+        "round": 1,
+        "tot": -2,
+        "score": 5
+      },
+      {
+        "hole": 11,
+        "par": 4,
+        "round": 1,
+        "tot": -2,
+        "score": 4
+      },
+      {
+        "hole": 12,
+        "par": 3,
+        "round": 0,
+        "tot": -3,
+        "score": 2
+      },
+      {
+        "hole": 13,
+        "par": 5,
+        "round": -1,
+        "tot": -4,
+        "score": 4
+      },
+      {
+        "hole": 14,
+        "par": 4,
+        "round": -2,
+        "tot": -5,
+        "score": 3
+      },
+      {
+        "hole": 15,
+        "par": 5,
+        "round": -3,
+        "tot": -6,
+        "score": 4
+      },
+      {
+        "hole": 16,
+        "par": 3,
+        "round": -3,
+        "tot": -6,
+        "score": 3
+      },
+      {
+        "hole": 17,
+        "par": 4,
+        "round": -4,
+        "tot": -7,
+        "score": 3
+      },
+      {
+        "hole": 18,
+        "par": 4,
+        "round": -3,
+        "tot": -6,
+        "score": 5
+      }
+    ],
+    "outTotal": 36,
+    "inTotal": 33,
+    "total": 69
+  },
+  {
+    "playerId": 15,
+    "teeScores": [
+      {
+        "hole": 1,
+        "par": 4,
+        "round": 1,
+        "tot": 0,
+        "score": 5
+      },
+      {
+        "hole": 2,
+        "par": 5,
+        "round": 0,
+        "tot": -1,
+        "score": 4
+      },
+      {
+        "hole": 3,
+        "par": 4,
+        "round": 0,
+        "tot": -1,
+        "score": 4
+      },
+      {
+        "hole": 4,
+        "par": 3,
+        "round": -1,
+        "tot": -2,
+        "score": 2
+      },
+      {
+        "hole": 5,
+        "par": 4,
+        "round": -1,
+        "tot": -2,
+        "score": 4
+      },
+      {
+        "hole": 6,
+        "par": 3,
+        "round": -2,
+        "tot": -3,
+        "score": 2
+      },
+      {
+        "hole": 7,
+        "par": 4,
+        "round": -1,
+        "tot": -2,
+        "score": 5
+      },
+      {
+        "hole": 8,
+        "par": 5,
+        "round": -2,
+        "tot": -3,
+        "score": 4
+      },
+      {
+        "hole": 9,
+        "par": 4,
+        "round": -2,
+        "tot": -3,
+        "score": 4
+      },
+      {
+        "hole": 10,
+        "par": 4,
+        "round": -1,
+        "tot": -2,
+        "score": 5
+      },
+      {
+        "hole": 11,
+        "par": 4,
+        "round": -1,
+        "tot": -2,
+        "score": 4
+      },
+      {
+        "hole": 12,
+        "par": 3,
+        "round": -1,
+        "tot": -2,
+        "score": 3
+      },
+      {
+        "hole": 13,
+        "par": 5,
+        "round": -3,
+        "tot": -4,
+        "score": 3
+      },
+      {
+        "hole": 14,
+        "par": 4,
+        "round": -2,
+        "tot": -3,
+        "score": 5
+      },
+      {
+        "hole": 15,
+        "par": 5,
+        "round": -3,
+        "tot": -4,
+        "score": 4
+      },
+      {
+        "hole": 16,
+        "par": 3,
+        "round": -3,
+        "tot": -4,
+        "score": 3
+      },
+      {
+        "hole": 17,
+        "par": 4,
+        "round": -3,
+        "tot": -4,
+        "score": 4
+      },
+      {
+        "hole": 18,
+        "par": 4,
+        "round": -3,
+        "tot": -4,
+        "score": 4
+      }
+    ],
+    "outTotal": 34,
+    "inTotal": 35,
+    "total": 69
+  },
+  {
+    "playerId": 16,
+    "teeScores": [
+      {
+        "hole": 1,
+        "par": 4,
+        "round": 1,
+        "tot": -3,
+        "score": 5
+      },
+      {
+        "hole": 2,
+        "par": 5,
+        "round": 0,
+        "tot": -4,
+        "score": 4
+      },
+      {
+        "hole": 3,
+        "par": 4,
+        "round": 0,
+        "tot": -4,
+        "score": 4
+      },
+      {
+        "hole": 4,
+        "par": 3,
+        "round": 0,
+        "tot": -4,
+        "score": 3
+      },
+      {
+        "hole": 5,
+        "par": 4,
+        "round": 0,
+        "tot": -4,
+        "score": 4
+      },
+      {
+        "hole": 6,
+        "par": 3,
+        "round": 0,
+        "tot": -4,
+        "score": 3
+      },
+      {
+        "hole": 7,
+        "par": 4,
+        "round": 0,
+        "tot": -4,
+        "score": 4
+      },
+      {
+        "hole": 8,
+        "par": 5,
+        "round": 0,
+        "tot": -4,
+        "score": 5
+      },
+      {
+        "hole": 9,
+        "par": 4,
+        "round": 0,
+        "tot": -4,
+        "score": 4
+      },
+      {
+        "hole": 10,
+        "par": 4,
+        "round": 0,
+        "tot": -4,
+        "score": 4
+      },
+      {
+        "hole": 11,
+        "par": 4,
+        "round": 0,
+        "tot": -4,
+        "score": 4
+      },
+      {
+        "hole": 12,
+        "par": 3,
+        "round": -1,
+        "tot": -5,
+        "score": 2
+      },
+      {
+        "hole": 13,
+        "par": 5,
+        "round": -2,
+        "tot": -6,
+        "score": 4
+      },
+      {
+        "hole": 14,
+        "par": 4,
+        "round": -1,
+        "tot": -5,
+        "score": 5
+      },
+      {
+        "hole": 15,
+        "par": 5,
+        "round": -1,
+        "tot": -5,
+        "score": 5
+      },
+      {
+        "hole": 16,
+        "par": 3,
+        "round": -1,
+        "tot": -5,
+        "score": 3
+      },
+      {
+        "hole": 17,
+        "par": 4,
+        "round": -1,
+        "tot": -5,
+        "score": 4
+      },
+      {
+        "hole": 18,
+        "par": 4,
+        "round": -1,
+        "tot": -5,
+        "score": 4
+      }
+    ],
+    "outTotal": 36,
+    "inTotal": 35,
+    "total": 71
+  },
+  {
+    "playerId": 17,
+    "teeScores": [
+      {
+        "hole": 1,
+        "par": 4,
+        "round": 0,
+        "tot": 3,
+        "score": 4
+      },
+      {
+        "hole": 2,
+        "par": 5,
+        "round": -1,
+        "tot": 2,
+        "score": 4
+      },
+      {
+        "hole": 3,
+        "par": 4,
+        "round": -1,
+        "tot": 2,
+        "score": 4
+      },
+      {
+        "hole": 4,
+        "par": 3,
+        "round": -1,
+        "tot": 2,
+        "score": 3
+      },
+      {
+        "hole": 5,
+        "par": 4,
+        "round": 0,
+        "tot": 3,
+        "score": 5
+      },
+      {
+        "hole": 6,
+        "par": 3,
+        "round": 0,
+        "tot": 3,
+        "score": 3
+      },
+      {
+        "hole": 7,
+        "par": 4,
+        "round": 0,
+        "tot": 3,
+        "score": 4
+      },
+      {
+        "hole": 8,
+        "par": 5,
+        "round": -1,
+        "tot": 2,
+        "score": 4
+      },
+      {
+        "hole": 9,
+        "par": 4,
+        "round": 0,
+        "tot": 3,
+        "score": 5
+      },
+      {
+        "hole": 10,
+        "par": 4,
+        "round": 0,
+        "tot": 3,
+        "score": 4
+      },
+      {
+        "hole": 11,
+        "par": 4,
+        "round": 1,
+        "tot": 4,
+        "score": 5
+      },
+      {
+        "hole": 12,
+        "par": 3,
+        "round": 1,
+        "tot": 4,
+        "score": 3
+      },
+      {
+        "hole": 13,
+        "par": 5,
+        "round": 1,
+        "tot": 4,
+        "score": 5
+      },
+      {
+        "hole": 14,
+        "par": 4,
+        "round": 0,
+        "tot": 3,
+        "score": 3
+      },
+      {
+        "hole": 15,
+        "par": 5,
+        "round": -1,
+        "tot": 2,
+        "score": 4
+      },
+      {
+        "hole": 16,
+        "par": 3,
+        "round": -1,
+        "tot": 2,
+        "score": 3
+      },
+      {
+        "hole": 17,
+        "par": 4,
+        "round": -1,
+        "tot": 2,
+        "score": 4
+      },
+      {
+        "hole": 18,
+        "par": 4,
+        "round": -1,
+        "tot": 2,
+        "score": 4
+      }
+    ],
+    "outTotal": 36,
+    "inTotal": 35,
+    "total": 71
+  },
+  {
+    "playerId": 18,
+    "teeScores": [
+      {
+        "hole": 1,
+        "par": 4,
+        "round": 0,
+        "tot": -5,
+        "score": 4
+      },
+      {
+        "hole": 2,
+        "par": 5,
+        "round": -1,
+        "tot": -6,
+        "score": 4
+      },
+      {
+        "hole": 3,
+        "par": 4,
+        "round": -1,
+        "tot": -6,
+        "score": 4
+      },
+      {
+        "hole": 4,
+        "par": 3,
+        "round": -1,
+        "tot": -6,
+        "score": 3
+      },
+      {
+        "hole": 5,
+        "par": 4,
+        "round": 0,
+        "tot": -5,
+        "score": 5
+      },
+      {
+        "hole": 6,
+        "par": 3,
+        "round": 0,
+        "tot": -5,
+        "score": 3
+      },
+      {
+        "hole": 7,
+        "par": 4,
+        "round": 0,
+        "tot": -5,
+        "score": 4
+      },
+      {
+        "hole": 8,
+        "par": 5,
+        "round": 1,
+        "tot": -4,
+        "score": 6
+      },
+      {
+        "hole": 9,
+        "par": 4,
+        "round": 0,
+        "tot": -5,
+        "score": 3
+      },
+      {
+        "hole": 10,
+        "par": 4,
+        "round": 1,
+        "tot": -4,
+        "score": 5
+      },
+      {
+        "hole": 11,
+        "par": 4,
+        "round": 1,
+        "tot": -4,
+        "score": 4
+      },
+      {
+        "hole": 12,
+        "par": 3,
+        "round": 1,
+        "tot": -4,
+        "score": 3
+      },
+      {
+        "hole": 13,
+        "par": 5,
+        "round": 0,
+        "tot": -5,
+        "score": 4
+      },
+      {
+        "hole": 14,
+        "par": 4,
+        "round": 0,
+        "tot": -5,
+        "score": 4
+      },
+      {
+        "hole": 15,
+        "par": 5,
+        "round": 0,
+        "tot": -5,
+        "score": 5
+      },
+      {
+        "hole": 16,
+        "par": 3,
+        "round": 0,
+        "tot": -5,
+        "score": 3
+      },
+      {
+        "hole": 17,
+        "par": 4,
+        "round": 1,
+        "tot": -4,
+        "score": 5
+      },
+      {
+        "hole": 18,
+        "par": 4,
+        "round": 1,
+        "tot": -4,
+        "score": 4
+      }
+    ],
+    "outTotal": 36,
+    "inTotal": 37,
+    "total": 73
+  },
+  {
+    "playerId": 19,
+    "teeScores": [
+      {
+        "hole": 1,
+        "par": 4,
+        "round": 0,
+        "tot": -3,
+        "score": 4
+      },
+      {
+        "hole": 2,
+        "par": 5,
+        "round": 0,
+        "tot": -3,
+        "score": 5
+      },
+      {
+        "hole": 3,
+        "par": 4,
+        "round": 0,
+        "tot": -3,
+        "score": 4
+      },
+      {
+        "hole": 4,
+        "par": 3,
+        "round": 0,
+        "tot": -3,
+        "score": 3
+      },
+      {
+        "hole": 5,
+        "par": 4,
+        "round": 0,
+        "tot": -3,
+        "score": 4
+      },
+      {
+        "hole": 6,
+        "par": 3,
+        "round": 0,
+        "tot": -3,
+        "score": 3
+      },
+      {
+        "hole": 7,
+        "par": 4,
+        "round": 0,
+        "tot": -3,
+        "score": 4
+      },
+      {
+        "hole": 8,
+        "par": 5,
+        "round": -1,
+        "tot": -4,
+        "score": 4
+      },
+      {
+        "hole": 9,
+        "par": 4,
+        "round": -1,
+        "tot": -4,
+        "score": 4
+      },
+      {
+        "hole": 10,
+        "par": 4,
+        "round": -1,
+        "tot": -4,
+        "score": 4
+      },
+      {
+        "hole": 11,
+        "par": 4,
+        "round": -1,
+        "tot": -4,
+        "score": 4
+      },
+      {
+        "hole": 12,
+        "par": 3,
+        "round": -2,
+        "tot": -5,
+        "score": 2
+      },
+      {
+        "hole": 13,
+        "par": 5,
+        "round": -3,
+        "tot": -6,
+        "score": 4
+      },
+      {
+        "hole": 14,
+        "par": 4,
+        "round": -3,
+        "tot": -6,
+        "score": 4
+      },
+      {
+        "hole": 15,
+        "par": 5,
+        "round": -5,
+        "tot": -8,
+        "score": 3
+      },
+      {
+        "hole": 16,
+        "par": 3,
+        "round": -4,
+        "tot": -7,
+        "score": 4
+      },
+      {
+        "hole": 17,
+        "par": 4,
+        "round": -4,
+        "tot": -7,
+        "score": 4
+      },
+      {
+        "hole": 18,
+        "par": 4,
+        "round": -4,
+        "tot": -7,
+        "score": 4
+      }
+    ],
+    "outTotal": 35,
+    "inTotal": 33,
+    "total": 68
+  },
+  {
+    "playerId": 20,
+    "teeScores": [
+      {
+        "hole": 1,
+        "par": 4,
+        "round": 1,
+        "tot": -1,
+        "score": 5
+      },
+      {
+        "hole": 2,
+        "par": 5,
+        "round": 0,
+        "tot": -2,
+        "score": 4
+      },
+      {
+        "hole": 3,
+        "par": 4,
+        "round": 0,
+        "tot": -2,
+        "score": 4
+      },
+      {
+        "hole": 4,
+        "par": 3,
+        "round": 0,
+        "tot": -2,
+        "score": 3
+      },
+      {
+        "hole": 5,
+        "par": 4,
+        "round": 0,
+        "tot": -2,
+        "score": 4
+      },
+      {
+        "hole": 6,
+        "par": 3,
+        "round": 0,
+        "tot": -2,
+        "score": 3
+      },
+      {
+        "hole": 7,
+        "par": 4,
+        "round": 0,
+        "tot": -2,
+        "score": 4
+      },
+      {
+        "hole": 8,
+        "par": 5,
+        "round": 0,
+        "tot": -2,
+        "score": 5
+      },
+      {
+        "hole": 9,
+        "par": 4,
+        "round": 0,
+        "tot": -2,
+        "score": 4
+      },
+      {
+        "hole": 10,
+        "par": 4,
+        "round": 0,
+        "tot": -2,
+        "score": 4
+      },
+      {
+        "hole": 11,
+        "par": 4,
+        "round": 0,
+        "tot": -2,
+        "score": 4
+      },
+      {
+        "hole": 12,
+        "par": 3,
+        "round": 0,
+        "tot": -2,
+        "score": 3
+      },
+      {
+        "hole": 13,
+        "par": 5,
+        "round": 0,
+        "tot": -2,
+        "score": 5
+      },
+      {
+        "hole": 14,
+        "par": 4,
+        "round": -1,
+        "tot": -3,
+        "score": 3
+      },
+      {
+        "hole": 15,
+        "par": 5,
+        "round": -1,
+        "tot": -3,
+        "score": 5
+      },
+      {
+        "hole": 16,
+        "par": 3,
+        "round": -1,
+        "tot": -3,
+        "score": 3
+      },
+      {
+        "hole": 17,
+        "par": 4,
+        "round": -1,
+        "tot": -3,
+        "score": 4
+      },
+      {
+        "hole": 18,
+        "par": 4,
+        "round": -2,
+        "tot": -4,
+        "score": 3
+      }
+    ],
+    "outTotal": 36,
+    "inTotal": 34,
+    "total": 70
+  },
+  {
+    "playerId": 21,
+    "teeScores": [
+      {
+        "hole": 1,
+        "par": 4,
+        "round": 0,
+        "tot": 1,
+        "score": 4
+      },
+      {
+        "hole": 2,
+        "par": 5,
+        "round": 1,
+        "tot": 2,
+        "score": 6
+      },
+      {
+        "hole": 3,
+        "par": 4,
+        "round": 1,
+        "tot": 2,
+        "score": 4
+      },
+      {
+        "hole": 4,
+        "par": 3,
+        "round": 1,
+        "tot": 2,
+        "score": 3
+      },
+      {
+        "hole": 5,
+        "par": 4,
+        "round": 1,
+        "tot": 2,
+        "score": 4
+      },
+      {
+        "hole": 6,
+        "par": 3,
+        "round": 0,
+        "tot": 1,
+        "score": 2
+      },
+      {
+        "hole": 7,
+        "par": 4,
+        "round": 0,
+        "tot": 1,
+        "score": 4
+      },
+      {
+        "hole": 8,
+        "par": 5,
+        "round": -2,
+        "tot": -1,
+        "score": 3
+      },
+      {
+        "hole": 9,
+        "par": 4,
+        "round": -2,
+        "tot": -1,
+        "score": 4
+      },
+      {
+        "hole": 10,
+        "par": 4,
+        "round": -2,
+        "tot": -1,
+        "score": 4
+      },
+      {
+        "hole": 11,
+        "par": 4,
+        "round": -1,
+        "tot": 0,
+        "score": 5
+      },
+      {
+        "hole": 12,
+        "par": 3,
+        "round": -1,
+        "tot": 0,
+        "score": 3
+      },
+      {
+        "hole": 13,
+        "par": 5,
+        "round": 0,
+        "tot": 1,
+        "score": 6
+      },
+      {
+        "hole": 14,
+        "par": 4,
+        "round": 0,
+        "tot": 1,
+        "score": 4
+      },
+      {
+        "hole": 15,
+        "par": 5,
+        "round": 0,
+        "tot": 1,
+        "score": 5
+      },
+      {
+        "hole": 16,
+        "par": 3,
+        "round": -1,
+        "tot": 0,
+        "score": 2
+      },
+      {
+        "hole": 17,
+        "par": 4,
+        "round": -1,
+        "tot": 0,
+        "score": 4
+      },
+      {
+        "hole": 18,
+        "par": 4,
+        "round": -1,
+        "tot": 0,
+        "score": 4
+      }
+    ],
+    "outTotal": 34,
+    "inTotal": 37,
+    "total": 71
+  },
+  {
+    "playerId": 22,
+    "teeScores": [
+      {
+        "hole": 1,
+        "par": 4,
+        "round": 0,
+        "tot": -3,
+        "score": 4
+      },
+      {
+        "hole": 2,
+        "par": 5,
+        "round": 0,
+        "tot": -3,
+        "score": 5
+      },
+      {
+        "hole": 3,
+        "par": 4,
+        "round": 0,
+        "tot": -3,
+        "score": 4
+      },
+      {
+        "hole": 4,
+        "par": 3,
+        "round": 0,
+        "tot": -3,
+        "score": 3
+      },
+      {
+        "hole": 5,
+        "par": 4,
+        "round": 0,
+        "tot": -3,
+        "score": 4
+      },
+      {
+        "hole": 6,
+        "par": 3,
+        "round": 1,
+        "tot": -2,
+        "score": 4
+      },
+      {
+        "hole": 7,
+        "par": 4,
+        "round": 1,
+        "tot": -2,
+        "score": 4
+      },
+      {
+        "hole": 8,
+        "par": 5,
+        "round": 1,
+        "tot": -2,
+        "score": 5
+      },
+      {
+        "hole": 9,
+        "par": 4,
+        "round": 2,
+        "tot": -1,
+        "score": 5
+      },
+      {
+        "hole": 10,
+        "par": 4,
+        "round": 2,
+        "tot": -1,
+        "score": 4
+      },
+      {
+        "hole": 11,
+        "par": 4,
+        "round": 3,
+        "tot": 0,
+        "score": 5
+      },
+      {
+        "hole": 12,
+        "par": 3,
+        "round": 3,
+        "tot": 0,
+        "score": 3
+      },
+      {
+        "hole": 13,
+        "par": 5,
+        "round": 3,
+        "tot": 0,
+        "score": 5
+      },
+      {
+        "hole": 14,
+        "par": 4,
+        "round": 3,
+        "tot": 0,
+        "score": 4
+      },
+      {
+        "hole": 15,
+        "par": 5,
+        "round": 2,
+        "tot": -1,
+        "score": 4
+      },
+      {
+        "hole": 16,
+        "par": 3,
+        "round": 1,
+        "tot": -2,
+        "score": 2
+      },
+      {
+        "hole": 17,
+        "par": 4,
+        "round": 1,
+        "tot": -2,
+        "score": 4
+      },
+      {
+        "hole": 18,
+        "par": 4,
+        "round": 1,
+        "tot": -2,
+        "score": 4
+      }
+    ],
+    "outTotal": 38,
+    "inTotal": 35,
+    "total": 73
+  },
+  {
+    "playerId": 23,
+    "teeScores": [
+      {
+        "hole": 1,
+        "par": 4,
+        "round": 0,
+        "tot": 0,
+        "score": 4
+      },
+      {
+        "hole": 2,
+        "par": 5,
+        "round": 0,
+        "tot": 0,
+        "score": 5
+      },
+      {
+        "hole": 3,
+        "par": 4,
+        "round": 0,
+        "tot": 0,
+        "score": 4
+      },
+      {
+        "hole": 4,
+        "par": 3,
+        "round": 0,
+        "tot": 0,
+        "score": 3
+      },
+      {
+        "hole": 5,
+        "par": 4,
+        "round": 1,
+        "tot": 1,
+        "score": 5
+      },
+      {
+        "hole": 6,
+        "par": 3,
+        "round": 1,
+        "tot": 1,
+        "score": 3
+      },
+      {
+        "hole": 7,
+        "par": 4,
+        "round": 2,
+        "tot": 2,
+        "score": 5
+      },
+      {
+        "hole": 8,
+        "par": 5,
+        "round": 1,
+        "tot": 1,
+        "score": 4
+      },
+      {
+        "hole": 9,
+        "par": 4,
+        "round": 1,
+        "tot": 1,
+        "score": 4
+      },
+      {
+        "hole": 10,
+        "par": 4,
+        "round": 1,
+        "tot": 1,
+        "score": 4
+      },
+      {
+        "hole": 11,
+        "par": 4,
+        "round": 1,
+        "tot": 1,
+        "score": 4
+      },
+      {
+        "hole": 12,
+        "par": 3,
+        "round": 1,
+        "tot": 1,
+        "score": 3
+      },
+      {
+        "hole": 13,
+        "par": 5,
+        "round": 0,
+        "tot": 0,
+        "score": 4
+      },
+      {
+        "hole": 14,
+        "par": 4,
+        "round": 0,
+        "tot": 0,
+        "score": 4
+      },
+      {
+        "hole": 15,
+        "par": 5,
+        "round": 0,
+        "tot": 0,
+        "score": 5
+      },
+      {
+        "hole": 16,
+        "par": 3,
+        "round": 0,
+        "tot": 0,
+        "score": 3
+      },
+      {
+        "hole": 17,
+        "par": 4,
+        "round": 0,
+        "tot": 0,
+        "score": 4
+      },
+      {
+        "hole": 18,
+        "par": 4,
+        "round": 0,
+        "tot": 0,
+        "score": 4
+      }
+    ],
+    "outTotal": 37,
+    "inTotal": 35,
+    "total": 72
+  },
+  {
+    "playerId": 24,
+    "teeScores": [
+      {
+        "hole": 1,
+        "par": 4,
+        "round": 0,
+        "tot": 0,
+        "score": 4
+      },
+      {
+        "hole": 2,
+        "par": 5,
+        "round": 0,
+        "tot": 0,
+        "score": 5
+      },
+      {
+        "hole": 3,
+        "par": 4,
+        "round": 0,
+        "tot": 0,
+        "score": 4
+      },
+      {
+        "hole": 4,
+        "par": 3,
+        "round": 0,
+        "tot": 0,
+        "score": 3
+      },
+      {
+        "hole": 5,
+        "par": 4,
+        "round": 1,
+        "tot": 1,
+        "score": 5
+      },
+      {
+        "hole": 6,
+        "par": 3,
+        "round": 1,
+        "tot": 1,
+        "score": 3
+      },
+      {
+        "hole": 7,
+        "par": 4,
+        "round": 2,
+        "tot": 2,
+        "score": 5
+      },
+      {
+        "hole": 8,
+        "par": 5,
+        "round": 1,
+        "tot": 1,
+        "score": 4
+      },
+      {
+        "hole": 9,
+        "par": 4,
+        "round": 1,
+        "tot": 1,
+        "score": 4
+      },
+      {
+        "hole": 10,
+        "par": 4,
+        "round": 2,
+        "tot": 2,
+        "score": 5
+      },
+      {
+        "hole": 11,
+        "par": 4,
+        "round": 2,
+        "tot": 2,
+        "score": 4
+      },
+      {
+        "hole": 12,
+        "par": 3,
+        "round": 1,
+        "tot": 1,
+        "score": 2
+      },
+      {
+        "hole": 13,
+        "par": 5,
+        "round": 1,
+        "tot": 1,
+        "score": 5
+      },
+      {
+        "hole": 14,
+        "par": 4,
+        "round": 1,
+        "tot": 1,
+        "score": 4
+      },
+      {
+        "hole": 15,
+        "par": 5,
+        "round": 0,
+        "tot": 0,
+        "score": 4
+      },
+      {
+        "hole": 16,
+        "par": 3,
+        "round": 1,
+        "tot": 1,
+        "score": 4
+      },
+      {
+        "hole": 17,
+        "par": 4,
+        "round": 0,
+        "tot": 0,
+        "score": 3
+      },
+      {
+        "hole": 18,
+        "par": 4,
+        "round": 0,
+        "tot": 0,
+        "score": 4
+      }
+    ],
+    "outTotal": 37,
+    "inTotal": 35,
+    "total": 72
+  },
+  {
+    "playerId": 25,
+    "teeScores": [
+      {
+        "hole": 1,
+        "par": 4,
+        "round": 0,
+        "tot": 6,
+        "score": 4
+      },
+      {
+        "hole": 2,
+        "par": 5,
+        "round": -1,
+        "tot": 5,
+        "score": 4
+      },
+      {
+        "hole": 3,
+        "par": 4,
+        "round": -1,
+        "tot": 5,
+        "score": 4
+      },
+      {
+        "hole": 4,
+        "par": 3,
+        "round": -1,
+        "tot": 5,
+        "score": 3
+      },
+      {
+        "hole": 5,
+        "par": 4,
+        "round": -1,
+        "tot": 5,
+        "score": 4
+      },
+      {
+        "hole": 6,
+        "par": 3,
+        "round": -1,
+        "tot": 5,
+        "score": 3
+      },
+      {
+        "hole": 7,
+        "par": 4,
+        "round": -1,
+        "tot": 5,
+        "score": 4
+      },
+      {
+        "hole": 8,
+        "par": 5,
+        "round": -1,
+        "tot": 5,
+        "score": 5
+      },
+      {
+        "hole": 9,
+        "par": 4,
+        "round": -1,
+        "tot": 5,
+        "score": 4
+      },
+      {
+        "hole": 10,
+        "par": 4,
+        "round": 0,
+        "tot": 6,
+        "score": 5
+      },
+      {
+        "hole": 11,
+        "par": 4,
+        "round": 0,
+        "tot": 6,
+        "score": 4
+      },
+      {
+        "hole": 12,
+        "par": 3,
+        "round": -1,
+        "tot": 5,
+        "score": 2
+      },
+      {
+        "hole": 13,
+        "par": 5,
+        "round": -3,
+        "tot": 3,
+        "score": 3
+      },
+      {
+        "hole": 14,
+        "par": 4,
+        "round": -3,
+        "tot": 3,
+        "score": 4
+      },
+      {
+        "hole": 15,
+        "par": 5,
+        "round": -4,
+        "tot": 2,
+        "score": 4
+      },
+      {
+        "hole": 16,
+        "par": 3,
+        "round": -5,
+        "tot": 1,
+        "score": 2
+      },
+      {
+        "hole": 17,
+        "par": 4,
+        "round": -5,
+        "tot": 1,
+        "score": 4
+      },
+      {
+        "hole": 18,
+        "par": 4,
+        "round": -5,
+        "tot": 1,
+        "score": 4
+      }
+    ],
+    "outTotal": 35,
+    "inTotal": 32,
+    "total": 67
+  },
+  {
+    "playerId": 26,
+    "teeScores": [
+      {
+        "hole": 1,
+        "par": 4,
+        "round": 1,
+        "tot": 4,
+        "score": 5
+      },
+      {
+        "hole": 2,
+        "par": 5,
+        "round": 0,
+        "tot": 3,
+        "score": 4
+      },
+      {
+        "hole": 3,
+        "par": 4,
+        "round": 0,
+        "tot": 3,
+        "score": 4
+      },
+      {
+        "hole": 4,
+        "par": 3,
+        "round": 0,
+        "tot": 3,
+        "score": 3
+      },
+      {
+        "hole": 5,
+        "par": 4,
+        "round": 0,
+        "tot": 3,
+        "score": 4
+      },
+      {
+        "hole": 6,
+        "par": 3,
+        "round": 0,
+        "tot": 3,
+        "score": 3
+      },
+      {
+        "hole": 7,
+        "par": 4,
+        "round": 0,
+        "tot": 3,
+        "score": 4
+      },
+      {
+        "hole": 8,
+        "par": 5,
+        "round": 0,
+        "tot": 3,
+        "score": 5
+      },
+      {
+        "hole": 9,
+        "par": 4,
+        "round": -1,
+        "tot": 2,
+        "score": 3
+      },
+      {
+        "hole": 10,
+        "par": 4,
+        "round": -2,
+        "tot": 1,
+        "score": 3
+      },
+      {
+        "hole": 11,
+        "par": 4,
+        "round": -2,
+        "tot": 1,
+        "score": 4
+      },
+      {
+        "hole": 12,
+        "par": 3,
+        "round": -2,
+        "tot": 1,
+        "score": 3
+      },
+      {
+        "hole": 13,
+        "par": 5,
+        "round": -3,
+        "tot": 0,
+        "score": 4
+      },
+      {
+        "hole": 14,
+        "par": 4,
+        "round": -4,
+        "tot": -1,
+        "score": 3
+      },
+      {
+        "hole": 15,
+        "par": 5,
+        "round": -4,
+        "tot": -1,
+        "score": 5
+      },
+      {
+        "hole": 16,
+        "par": 3,
+        "round": -4,
+        "tot": -1,
+        "score": 3
+      },
+      {
+        "hole": 17,
+        "par": 4,
+        "round": -4,
+        "tot": -1,
+        "score": 4
+      },
+      {
+        "hole": 18,
+        "par": 4,
+        "round": -4,
+        "tot": -1,
+        "score": 4
+      }
+    ],
+    "outTotal": 35,
+    "inTotal": 33,
+    "total": 68
+  },
+  {
+    "playerId": 27,
+    "teeScores": [
+      {
+        "hole": 1,
+        "par": 4,
+        "round": 1,
+        "tot": -1,
+        "score": 5
+      },
+      {
+        "hole": 2,
+        "par": 5,
+        "round": 1,
+        "tot": -1,
+        "score": 5
+      },
+      {
+        "hole": 3,
+        "par": 4,
+        "round": 1,
+        "tot": -1,
+        "score": 4
+      },
+      {
+        "hole": 4,
+        "par": 3,
+        "round": 1,
+        "tot": -1,
+        "score": 3
+      },
+      {
+        "hole": 5,
+        "par": 4,
+        "round": 1,
+        "tot": -1,
+        "score": 4
+      },
+      {
+        "hole": 6,
+        "par": 3,
+        "round": 1,
+        "tot": -1,
+        "score": 3
+      },
+      {
+        "hole": 7,
+        "par": 4,
+        "round": 1,
+        "tot": -1,
+        "score": 4
+      },
+      {
+        "hole": 8,
+        "par": 5,
+        "round": 0,
+        "tot": -2,
+        "score": 4
+      },
+      {
+        "hole": 9,
+        "par": 4,
+        "round": 0,
+        "tot": -2,
+        "score": 4
+      },
+      {
+        "hole": 10,
+        "par": 4,
+        "round": 0,
+        "tot": -2,
+        "score": 4
+      },
+      {
+        "hole": 11,
+        "par": 4,
+        "round": 0,
+        "tot": -2,
+        "score": 4
+      },
+      {
+        "hole": 12,
+        "par": 3,
+        "round": 0,
+        "tot": -2,
+        "score": 3
+      },
+      {
+        "hole": 13,
+        "par": 5,
+        "round": 0,
+        "tot": -2,
+        "score": 5
+      },
+      {
+        "hole": 14,
+        "par": 4,
+        "round": 0,
+        "tot": -2,
+        "score": 4
+      },
+      {
+        "hole": 15,
+        "par": 5,
+        "round": -2,
+        "tot": -4,
+        "score": 3
+      },
+      {
+        "hole": 16,
+        "par": 3,
+        "round": -1,
+        "tot": -3,
+        "score": 4
+      },
+      {
+        "hole": 17,
+        "par": 4,
+        "round": -1,
+        "tot": -3,
+        "score": 4
+      },
+      {
+        "hole": 18,
+        "par": 4,
+        "round": 0,
+        "tot": -2,
+        "score": 5
+      }
+    ],
+    "outTotal": 36,
+    "inTotal": 36,
+    "total": 72
+  },
+  {
+    "playerId": 28,
+    "teeScores": [
+      {
+        "hole": 1,
+        "par": 4,
+        "round": 0,
+        "tot": -1,
+        "score": 4
+      },
+      {
+        "hole": 2,
+        "par": 5,
+        "round": 0,
+        "tot": -1,
+        "score": 5
+      },
+      {
+        "hole": 3,
+        "par": 4,
+        "round": -1,
+        "tot": -2,
+        "score": 3
+      },
+      {
+        "hole": 4,
+        "par": 3,
+        "round": -1,
+        "tot": -2,
+        "score": 3
+      },
+      {
+        "hole": 5,
+        "par": 4,
+        "round": 0,
+        "tot": -1,
+        "score": 5
+      },
+      {
+        "hole": 6,
+        "par": 3,
+        "round": 0,
+        "tot": -1,
+        "score": 3
+      },
+      {
+        "hole": 7,
+        "par": 4,
+        "round": 0,
+        "tot": -1,
+        "score": 4
+      },
+      {
+        "hole": 8,
+        "par": 5,
+        "round": 0,
+        "tot": -1,
+        "score": 5
+      },
+      {
+        "hole": 9,
+        "par": 4,
+        "round": 0,
+        "tot": -1,
+        "score": 4
+      },
+      {
+        "hole": 10,
+        "par": 4,
+        "round": 0,
+        "tot": -1,
+        "score": 4
+      },
+      {
+        "hole": 11,
+        "par": 4,
+        "round": 0,
+        "tot": -1,
+        "score": 4
+      },
+      {
+        "hole": 12,
+        "par": 3,
+        "round": 0,
+        "tot": -1,
+        "score": 3
+      },
+      {
+        "hole": 13,
+        "par": 5,
+        "round": -1,
+        "tot": -2,
+        "score": 4
+      },
+      {
+        "hole": 14,
+        "par": 4,
+        "round": -1,
+        "tot": -2,
+        "score": 4
+      },
+      {
+        "hole": 15,
+        "par": 5,
+        "round": -2,
+        "tot": -3,
+        "score": 4
+      },
+      {
+        "hole": 16,
+        "par": 3,
+        "round": -2,
+        "tot": -3,
+        "score": 3
+      },
+      {
+        "hole": 17,
+        "par": 4,
+        "round": -1,
+        "tot": -2,
+        "score": 5
+      },
+      {
+        "hole": 18,
+        "par": 4,
+        "round": -1,
+        "tot": -2,
+        "score": 4
+      }
+    ],
+    "outTotal": 36,
+    "inTotal": 35,
+    "total": 71
+  },
+  {
+    "playerId": 29,
+    "teeScores": [
+      {
+        "hole": 1,
+        "par": 4,
+        "round": 0,
+        "tot": -6,
+        "score": 4
+      },
+      {
+        "hole": 2,
+        "par": 5,
+        "round": -1,
+        "tot": -7,
+        "score": 4
+      },
+      {
+        "hole": 3,
+        "par": 4,
+        "round": -1,
+        "tot": -7,
+        "score": 4
+      },
+      {
+        "hole": 4,
+        "par": 3,
+        "round": -1,
+        "tot": -7,
+        "score": 3
+      },
+      {
+        "hole": 5,
+        "par": 4,
+        "round": -1,
+        "tot": -7,
+        "score": 4
+      },
+      {
+        "hole": 6,
+        "par": 3,
+        "round": -1,
+        "tot": -7,
+        "score": 3
+      },
+      {
+        "hole": 7,
+        "par": 4,
+        "round": 0,
+        "tot": -6,
+        "score": 5
+      },
+      {
+        "hole": 8,
+        "par": 5,
+        "round": -1,
+        "tot": -7,
+        "score": 4
+      },
+      {
+        "hole": 9,
+        "par": 4,
+        "round": 0,
+        "tot": -6,
+        "score": 5
+      },
+      {
+        "hole": 10,
+        "par": 4,
+        "round": 2,
+        "tot": -4,
+        "score": 6
+      },
+      {
+        "hole": 11,
+        "par": 4,
+        "round": 2,
+        "tot": -4,
+        "score": 4
+      },
+      {
+        "hole": 12,
+        "par": 3,
+        "round": 3,
+        "tot": -3,
+        "score": 4
+      },
+      {
+        "hole": 13,
+        "par": 5,
+        "round": 3,
+        "tot": -3,
+        "score": 5
+      },
+      {
+        "hole": 14,
+        "par": 4,
+        "round": 3,
+        "tot": -3,
+        "score": 4
+      },
+      {
+        "hole": 15,
+        "par": 5,
+        "round": 2,
+        "tot": -4,
+        "score": 4
+      },
+      {
+        "hole": 16,
+        "par": 3,
+        "round": 3,
+        "tot": -3,
+        "score": 4
+      },
+      {
+        "hole": 17,
+        "par": 4,
+        "round": 3,
+        "tot": -3,
+        "score": 4
+      },
+      {
+        "hole": 18,
+        "par": 4,
+        "round": 3,
+        "tot": -3,
+        "score": 4
+      }
+    ],
+    "outTotal": 36,
+    "inTotal": 39,
+    "total": 75
+  },
+  {
+    "playerId": 30,
+    "teeScores": [
+      {
+        "hole": 1,
+        "par": 4,
+        "round": -1,
+        "tot": -2,
+        "score": 3
+      },
+      {
+        "hole": 2,
+        "par": 5,
+        "round": -1,
+        "tot": -2,
+        "score": 5
+      },
+      {
+        "hole": 3,
+        "par": 4,
+        "round": -1,
+        "tot": -2,
+        "score": 4
+      },
+      {
+        "hole": 4,
+        "par": 3,
+        "round": -1,
+        "tot": -2,
+        "score": 3
+      },
+      {
+        "hole": 5,
+        "par": 4,
+        "round": 0,
+        "tot": -1,
+        "score": 5
+      },
+      {
+        "hole": 6,
+        "par": 3,
+        "round": 0,
+        "tot": -1,
+        "score": 3
+      },
+      {
+        "hole": 7,
+        "par": 4,
+        "round": 0,
+        "tot": -1,
+        "score": 4
+      },
+      {
+        "hole": 8,
+        "par": 5,
+        "round": 0,
+        "tot": -1,
+        "score": 5
+      },
+      {
+        "hole": 9,
+        "par": 4,
+        "round": -1,
+        "tot": -2,
+        "score": 3
+      },
+      {
+        "hole": 10,
+        "par": 4,
+        "round": -1,
+        "tot": -2,
+        "score": 4
+      },
+      {
+        "hole": 11,
+        "par": 4,
+        "round": -1,
+        "tot": -2,
+        "score": 4
+      },
+      {
+        "hole": 12,
+        "par": 3,
+        "round": 0,
+        "tot": -1,
+        "score": 4
+      },
+      {
+        "hole": 13,
+        "par": 5,
+        "round": -1,
+        "tot": -2,
+        "score": 4
+      },
+      {
+        "hole": 14,
+        "par": 4,
+        "round": 0,
+        "tot": -1,
+        "score": 5
+      },
+      {
+        "hole": 15,
+        "par": 5,
+        "round": -1,
+        "tot": -2,
+        "score": 4
+      },
+      {
+        "hole": 16,
+        "par": 3,
+        "round": -1,
+        "tot": -2,
+        "score": 3
+      },
+      {
+        "hole": 17,
+        "par": 4,
+        "round": -1,
+        "tot": -2,
+        "score": 4
+      },
+      {
+        "hole": 18,
+        "par": 4,
+        "round": -1,
+        "tot": -2,
+        "score": 4
+      }
+    ],
+    "outTotal": 35,
+    "inTotal": 36,
+    "total": 71
+  },
+  {
+    "playerId": 31,
+    "teeScores": [
+      {
+        "hole": 1,
+        "par": 4,
+        "round": -1,
+        "tot": -2,
+        "score": 3
+      },
+      {
+        "hole": 2,
+        "par": 5,
+        "round": -1,
+        "tot": -2,
+        "score": 5
+      },
+      {
+        "hole": 3,
+        "par": 4,
+        "round": -1,
+        "tot": -2,
+        "score": 4
+      },
+      {
+        "hole": 4,
+        "par": 3,
+        "round": -2,
+        "tot": -3,
+        "score": 2
+      },
+      {
+        "hole": 5,
+        "par": 4,
+        "round": -2,
+        "tot": -3,
+        "score": 4
+      },
+      {
+        "hole": 6,
+        "par": 3,
+        "round": -3,
+        "tot": -4,
+        "score": 2
+      },
+      {
+        "hole": 7,
+        "par": 4,
+        "round": -4,
+        "tot": -5,
+        "score": 3
+      },
+      {
+        "hole": 8,
+        "par": 5,
+        "round": -3,
+        "tot": -4,
+        "score": 6
+      },
+      {
+        "hole": 9,
+        "par": 4,
+        "round": -3,
+        "tot": -4,
+        "score": 4
+      },
+      {
+        "hole": 10,
+        "par": 4,
+        "round": -3,
+        "tot": -4,
+        "score": 4
+      },
+      {
+        "hole": 11,
+        "par": 4,
+        "round": -3,
+        "tot": -4,
+        "score": 4
+      },
+      {
+        "hole": 12,
+        "par": 3,
+        "round": -4,
+        "tot": -5,
+        "score": 2
+      },
+      {
+        "hole": 13,
+        "par": 5,
+        "round": -5,
+        "tot": -6,
+        "score": 4
+      },
+      {
+        "hole": 14,
+        "par": 4,
+        "round": -5,
+        "tot": -6,
+        "score": 4
+      },
+      {
+        "hole": 15,
+        "par": 5,
+        "round": -6,
+        "tot": -7,
+        "score": 4
+      },
+      {
+        "hole": 16,
+        "par": 3,
+        "round": -6,
+        "tot": -7,
+        "score": 3
+      },
+      {
+        "hole": 17,
+        "par": 4,
+        "round": -6,
+        "tot": -7,
+        "score": 4
+      },
+      {
+        "hole": 18,
+        "par": 4,
+        "round": -6,
+        "tot": -7,
+        "score": 4
+      }
+    ],
+    "outTotal": 33,
+    "inTotal": 33,
+    "total": 66
+  },
+  {
+    "playerId": 32,
+    "teeScores": [
+      {
+        "hole": 1,
+        "par": 4,
+        "round": 0,
+        "tot": 1,
+        "score": 4
+      },
+      {
+        "hole": 2,
+        "par": 5,
+        "round": -1,
+        "tot": 0,
+        "score": 4
+      },
+      {
+        "hole": 3,
+        "par": 4,
+        "round": -1,
+        "tot": 0,
+        "score": 4
+      },
+      {
+        "hole": 4,
+        "par": 3,
+        "round": -1,
+        "tot": 0,
+        "score": 3
+      },
+      {
+        "hole": 5,
+        "par": 4,
+        "round": -2,
+        "tot": -1,
+        "score": 3
+      },
+      {
+        "hole": 6,
+        "par": 3,
+        "round": -2,
+        "tot": -1,
+        "score": 3
+      },
+      {
+        "hole": 7,
+        "par": 4,
+        "round": -2,
+        "tot": -1,
+        "score": 4
+      },
+      {
+        "hole": 8,
+        "par": 5,
+        "round": -3,
+        "tot": -2,
+        "score": 4
+      },
+      {
+        "hole": 9,
+        "par": 4,
+        "round": -4,
+        "tot": -3,
+        "score": 3
+      },
+      {
+        "hole": 10,
+        "par": 4,
+        "round": -4,
+        "tot": -3,
+        "score": 4
+      },
+      {
+        "hole": 11,
+        "par": 4,
+        "round": -3,
+        "tot": -2,
+        "score": 5
+      },
+      {
+        "hole": 12,
+        "par": 3,
+        "round": -3,
+        "tot": -2,
+        "score": 3
+      },
+      {
+        "hole": 13,
+        "par": 5,
+        "round": -5,
+        "tot": -4,
+        "score": 3
+      },
+      {
+        "hole": 14,
+        "par": 4,
+        "round": -5,
+        "tot": -4,
+        "score": 4
+      },
+      {
+        "hole": 15,
+        "par": 5,
+        "round": -5,
+        "tot": -4,
+        "score": 5
+      },
+      {
+        "hole": 16,
+        "par": 3,
+        "round": -5,
+        "tot": -4,
+        "score": 3
+      },
+      {
+        "hole": 17,
+        "par": 4,
+        "round": -5,
+        "tot": -4,
+        "score": 4
+      },
+      {
+        "hole": 18,
+        "par": 4,
+        "round": -5,
+        "tot": -4,
+        "score": 4
+      }
+    ],
+    "outTotal": 32,
+    "inTotal": 35,
+    "total": 67
+  },
+  {
+    "playerId": 33,
+    "teeScores": [
+      {
+        "hole": 1,
+        "par": 4,
+        "round": 0,
+        "tot": -2,
+        "score": 4
+      },
+      {
+        "hole": 2,
+        "par": 5,
+        "round": 0,
+        "tot": -2,
+        "score": 5
+      },
+      {
+        "hole": 3,
+        "par": 4,
+        "round": 0,
+        "tot": -2,
+        "score": 4
+      },
+      {
+        "hole": 4,
+        "par": 3,
+        "round": -1,
+        "tot": -3,
+        "score": 2
+      },
+      {
+        "hole": 5,
+        "par": 4,
+        "round": -1,
+        "tot": -3,
+        "score": 4
+      },
+      {
+        "hole": 6,
+        "par": 3,
+        "round": -1,
+        "tot": -3,
+        "score": 3
+      },
+      {
+        "hole": 7,
+        "par": 4,
+        "round": -1,
+        "tot": -3,
+        "score": 4
+      },
+      {
+        "hole": 8,
+        "par": 5,
+        "round": -2,
+        "tot": -4,
+        "score": 4
+      },
+      {
+        "hole": 9,
+        "par": 4,
+        "round": -2,
+        "tot": -4,
+        "score": 4
+      },
+      {
+        "hole": 10,
+        "par": 4,
+        "round": -2,
+        "tot": -4,
+        "score": 4
+      },
+      {
+        "hole": 11,
+        "par": 4,
+        "round": -1,
+        "tot": -3,
+        "score": 5
+      },
+      {
+        "hole": 12,
+        "par": 3,
+        "round": -1,
+        "tot": -3,
+        "score": 3
+      },
+      {
+        "hole": 13,
+        "par": 5,
+        "round": -1,
+        "tot": -3,
+        "score": 5
+      },
+      {
+        "hole": 14,
+        "par": 4,
+        "round": 0,
+        "tot": -2,
+        "score": 5
+      },
+      {
+        "hole": 15,
+        "par": 5,
+        "round": 0,
+        "tot": -2,
+        "score": 5
+      },
+      {
+        "hole": 16,
+        "par": 3,
+        "round": 0,
+        "tot": -2,
+        "score": 3
+      },
+      {
+        "hole": 17,
+        "par": 4,
+        "round": 0,
+        "tot": -2,
+        "score": 4
+      },
+      {
+        "hole": 18,
+        "par": 4,
+        "round": -1,
+        "tot": -3,
+        "score": 3
+      }
+    ],
+    "outTotal": 34,
+    "inTotal": 37,
+    "total": 71
+  },
+  {
+    "playerId": 34,
+    "teeScores": [
+      {
+        "hole": 1,
+        "par": 4,
+        "round": 0,
+        "tot": 3,
+        "score": 4
+      },
+      {
+        "hole": 2,
+        "par": 5,
+        "round": -1,
+        "tot": 2,
+        "score": 4
+      },
+      {
+        "hole": 3,
+        "par": 4,
+        "round": -1,
+        "tot": 2,
+        "score": 4
+      },
+      {
+        "hole": 4,
+        "par": 3,
+        "round": -1,
+        "tot": 2,
+        "score": 3
+      },
+      {
+        "hole": 5,
+        "par": 4,
+        "round": -1,
+        "tot": 2,
+        "score": 4
+      },
+      {
+        "hole": 6,
+        "par": 3,
+        "round": -1,
+        "tot": 2,
+        "score": 3
+      },
+      {
+        "hole": 7,
+        "par": 4,
+        "round": -1,
+        "tot": 2,
+        "score": 4
+      },
+      {
+        "hole": 8,
+        "par": 5,
+        "round": -2,
+        "tot": 1,
+        "score": 4
+      },
+      {
+        "hole": 9,
+        "par": 4,
+        "round": -2,
+        "tot": 1,
+        "score": 4
+      },
+      {
+        "hole": 10,
+        "par": 4,
+        "round": -2,
+        "tot": 1,
+        "score": 4
+      },
+      {
+        "hole": 11,
+        "par": 4,
+        "round": -1,
+        "tot": 2,
+        "score": 5
+      },
+      {
+        "hole": 12,
+        "par": 3,
+        "round": -2,
+        "tot": 1,
+        "score": 2
+      },
+      {
+        "hole": 13,
+        "par": 5,
+        "round": -1,
+        "tot": 2,
+        "score": 6
+      },
+      {
+        "hole": 14,
+        "par": 4,
+        "round": -1,
+        "tot": 2,
+        "score": 4
+      },
+      {
+        "hole": 15,
+        "par": 5,
+        "round": -2,
+        "tot": 1,
+        "score": 4
+      },
+      {
+        "hole": 16,
+        "par": 3,
+        "round": -1,
+        "tot": 2,
+        "score": 4
+      },
+      {
+        "hole": 17,
+        "par": 4,
+        "round": -1,
+        "tot": 2,
+        "score": 4
+      },
+      {
+        "hole": 18,
+        "par": 4,
+        "round": -2,
+        "tot": 1,
+        "score": 3
+      }
+    ],
+    "outTotal": 34,
+    "inTotal": 36,
+    "total": 70
+  },
+  {
+    "playerId": 35,
+    "teeScores": [
+      {
+        "hole": 1,
+        "par": 4,
+        "round": 0,
+        "tot": 0,
+        "score": 4
+      },
+      {
+        "hole": 2,
+        "par": 5,
+        "round": -1,
+        "tot": -1,
+        "score": 4
+      },
+      {
+        "hole": 3,
+        "par": 4,
+        "round": -1,
+        "tot": -1,
+        "score": 4
+      },
+      {
+        "hole": 4,
+        "par": 3,
+        "round": 0,
+        "tot": 0,
+        "score": 4
+      },
+      {
+        "hole": 5,
+        "par": 4,
+        "round": 1,
+        "tot": 1,
+        "score": 5
+      },
+      {
+        "hole": 6,
+        "par": 3,
+        "round": 1,
+        "tot": 1,
+        "score": 3
+      },
+      {
+        "hole": 7,
+        "par": 4,
+        "round": 1,
+        "tot": 1,
+        "score": 4
+      },
+      {
+        "hole": 8,
+        "par": 5,
+        "round": 1,
+        "tot": 1,
+        "score": 5
+      },
+      {
+        "hole": 9,
+        "par": 4,
+        "round": 1,
+        "tot": 1,
+        "score": 4
+      },
+      {
+        "hole": 10,
+        "par": 4,
+        "round": 0,
+        "tot": 0,
+        "score": 3
+      },
+      {
+        "hole": 11,
+        "par": 4,
+        "round": 1,
+        "tot": 1,
+        "score": 5
+      },
+      {
+        "hole": 12,
+        "par": 3,
+        "round": 1,
+        "tot": 1,
+        "score": 3
+      },
+      {
+        "hole": 13,
+        "par": 5,
+        "round": -1,
+        "tot": -1,
+        "score": 3
+      },
+      {
+        "hole": 14,
+        "par": 4,
+        "round": -1,
+        "tot": -1,
+        "score": 4
+      },
+      {
+        "hole": 15,
+        "par": 5,
+        "round": -1,
+        "tot": -1,
+        "score": 5
+      },
+      {
+        "hole": 16,
+        "par": 3,
+        "round": -1,
+        "tot": -1,
+        "score": 3
+      },
+      {
+        "hole": 17,
+        "par": 4,
+        "round": -1,
+        "tot": -1,
+        "score": 4
+      },
+      {
+        "hole": 18,
+        "par": 4,
+        "round": -1,
+        "tot": -1,
+        "score": 4
+      }
+    ],
+    "outTotal": 37,
+    "inTotal": 34,
+    "total": 71
+  },
+  {
+    "playerId": 36,
+    "teeScores": [
+      {
+        "hole": 1,
+        "par": 4,
+        "round": 0,
+        "tot": 1,
+        "score": 4
+      },
+      {
+        "hole": 2,
+        "par": 5,
+        "round": 0,
+        "tot": 1,
+        "score": 5
+      },
+      {
+        "hole": 3,
+        "par": 4,
+        "round": -1,
+        "tot": 0,
+        "score": 3
+      },
+      {
+        "hole": 4,
+        "par": 3,
+        "round": -1,
+        "tot": 0,
+        "score": 3
+      },
+      {
+        "hole": 5,
+        "par": 4,
+        "round": -2,
+        "tot": -1,
+        "score": 3
+      },
+      {
+        "hole": 6,
+        "par": 3,
+        "round": -2,
+        "tot": -1,
+        "score": 3
+      },
+      {
+        "hole": 7,
+        "par": 4,
+        "round": -2,
+        "tot": -1,
+        "score": 4
+      },
+      {
+        "hole": 8,
+        "par": 5,
+        "round": -2,
+        "tot": -1,
+        "score": 5
+      },
+      {
+        "hole": 9,
+        "par": 4,
+        "round": -2,
+        "tot": -1,
+        "score": 4
+      },
+      {
+        "hole": 10,
+        "par": 4,
+        "round": -1,
+        "tot": 0,
+        "score": 5
+      },
+      {
+        "hole": 11,
+        "par": 4,
+        "round": -1,
+        "tot": 0,
+        "score": 4
+      },
+      {
+        "hole": 12,
+        "par": 3,
+        "round": -1,
+        "tot": 0,
+        "score": 3
+      },
+      {
+        "hole": 13,
+        "par": 5,
+        "round": -1,
+        "tot": 0,
+        "score": 5
+      },
+      {
+        "hole": 14,
+        "par": 4,
+        "round": -1,
+        "tot": 0,
+        "score": 4
+      },
+      {
+        "hole": 15,
+        "par": 5,
+        "round": -2,
+        "tot": -1,
+        "score": 4
+      },
+      {
+        "hole": 16,
+        "par": 3,
+        "round": -2,
+        "tot": -1,
+        "score": 3
+      },
+      {
+        "hole": 17,
+        "par": 4,
+        "round": -2,
+        "tot": -1,
+        "score": 4
+      },
+      {
+        "hole": 18,
+        "par": 4,
+        "round": -2,
+        "tot": -1,
+        "score": 4
+      }
+    ],
+    "outTotal": 34,
+    "inTotal": 36,
+    "total": 70
+  },
+  {
+    "playerId": 37,
+    "teeScores": [
+      {
+        "hole": 1,
+        "par": 4,
+        "round": 0,
+        "tot": 1,
+        "score": 4
+      },
+      {
+        "hole": 2,
+        "par": 5,
+        "round": -1,
+        "tot": 0,
+        "score": 4
+      },
+      {
+        "hole": 3,
+        "par": 4,
+        "round": -2,
+        "tot": -1,
+        "score": 3
+      },
+      {
+        "hole": 4,
+        "par": 3,
+        "round": -1,
+        "tot": 0,
+        "score": 4
+      },
+      {
+        "hole": 5,
+        "par": 4,
+        "round": -1,
+        "tot": 0,
+        "score": 4
+      },
+      {
+        "hole": 6,
+        "par": 3,
+        "round": 0,
+        "tot": 1,
+        "score": 4
+      },
+      {
+        "hole": 7,
+        "par": 4,
+        "round": 0,
+        "tot": 1,
+        "score": 4
+      },
+      {
+        "hole": 8,
+        "par": 5,
+        "round": 0,
+        "tot": 1,
+        "score": 5
+      },
+      {
+        "hole": 9,
+        "par": 4,
+        "round": 0,
+        "tot": 1,
+        "score": 4
+      },
+      {
+        "hole": 10,
+        "par": 4,
+        "round": 0,
+        "tot": 1,
+        "score": 4
+      },
+      {
+        "hole": 11,
+        "par": 4,
+        "round": 0,
+        "tot": 1,
+        "score": 4
+      },
+      {
+        "hole": 12,
+        "par": 3,
+        "round": 0,
+        "tot": 1,
+        "score": 3
+      },
+      {
+        "hole": 13,
+        "par": 5,
+        "round": -1,
+        "tot": 0,
+        "score": 4
+      },
+      {
+        "hole": 14,
+        "par": 4,
+        "round": -1,
+        "tot": 0,
+        "score": 4
+      },
+      {
+        "hole": 15,
+        "par": 5,
+        "round": -1,
+        "tot": 0,
+        "score": 5
+      },
+      {
+        "hole": 16,
+        "par": 3,
+        "round": -1,
+        "tot": 0,
+        "score": 3
+      },
+      {
+        "hole": 17,
+        "par": 4,
+        "round": -2,
+        "tot": -1,
+        "score": 3
+      },
+      {
+        "hole": 18,
+        "par": 4,
+        "round": -2,
+        "tot": -1,
+        "score": 4
+      }
+    ],
+    "outTotal": 36,
+    "inTotal": 34,
+    "total": 70
+  },
+  {
+    "playerId": 38,
+    "teeScores": [
+      {
+        "hole": 1,
+        "par": 4,
+        "round": 0,
+        "tot": 1,
+        "score": 4
+      },
+      {
+        "hole": 2,
+        "par": 5,
+        "round": 0,
+        "tot": 1,
+        "score": 5
+      },
+      {
+        "hole": 3,
+        "par": 4,
+        "round": -1,
+        "tot": 0,
+        "score": 3
+      },
+      {
+        "hole": 4,
+        "par": 3,
+        "round": 0,
+        "tot": 1,
+        "score": 4
+      },
+      {
+        "hole": 5,
+        "par": 4,
+        "round": 0,
+        "tot": 1,
+        "score": 4
+      },
+      {
+        "hole": 6,
+        "par": 3,
+        "round": 1,
+        "tot": 2,
+        "score": 4
+      },
+      {
+        "hole": 7,
+        "par": 4,
+        "round": 1,
+        "tot": 2,
+        "score": 4
+      },
+      {
+        "hole": 8,
+        "par": 5,
+        "round": 1,
+        "tot": 2,
+        "score": 5
+      },
+      {
+        "hole": 9,
+        "par": 4,
+        "round": 1,
+        "tot": 2,
+        "score": 4
+      },
+      {
+        "hole": 10,
+        "par": 4,
+        "round": 2,
+        "tot": 3,
+        "score": 5
+      },
+      {
+        "hole": 11,
+        "par": 4,
+        "round": 3,
+        "tot": 4,
+        "score": 5
+      },
+      {
+        "hole": 12,
+        "par": 3,
+        "round": 3,
+        "tot": 4,
+        "score": 3
+      },
+      {
+        "hole": 13,
+        "par": 5,
+        "round": 3,
+        "tot": 4,
+        "score": 5
+      },
+      {
+        "hole": 14,
+        "par": 4,
+        "round": 2,
+        "tot": 3,
+        "score": 3
+      },
+      {
+        "hole": 15,
+        "par": 5,
+        "round": 0,
+        "tot": 1,
+        "score": 3
+      },
+      {
+        "hole": 16,
+        "par": 3,
+        "round": 0,
+        "tot": 1,
+        "score": 3
+      },
+      {
+        "hole": 17,
+        "par": 4,
+        "round": 0,
+        "tot": 1,
+        "score": 4
+      },
+      {
+        "hole": 18,
+        "par": 4,
+        "round": -1,
+        "tot": 0,
+        "score": 3
+      }
+    ],
+    "outTotal": 37,
+    "inTotal": 34,
+    "total": 71
+  },
+  {
+    "playerId": 39,
+    "teeScores": [
+      {
+        "hole": 1,
+        "par": 4,
+        "round": 0,
+        "tot": 0,
+        "score": 4
+      },
+      {
+        "hole": 2,
+        "par": 5,
+        "round": 1,
+        "tot": 1,
+        "score": 6
+      },
+      {
+        "hole": 3,
+        "par": 4,
+        "round": 1,
+        "tot": 1,
+        "score": 4
+      },
+      {
+        "hole": 4,
+        "par": 3,
+        "round": 1,
+        "tot": 1,
+        "score": 3
+      },
+      {
+        "hole": 5,
+        "par": 4,
+        "round": 1,
+        "tot": 1,
+        "score": 4
+      },
+      {
+        "hole": 6,
+        "par": 3,
+        "round": 1,
+        "tot": 1,
+        "score": 3
+      },
+      {
+        "hole": 7,
+        "par": 4,
+        "round": 1,
+        "tot": 1,
+        "score": 4
+      },
+      {
+        "hole": 8,
+        "par": 5,
+        "round": 1,
+        "tot": 1,
+        "score": 5
+      },
+      {
+        "hole": 9,
+        "par": 4,
+        "round": 1,
+        "tot": 1,
+        "score": 4
+      },
+      {
+        "hole": 10,
+        "par": 4,
+        "round": 1,
+        "tot": 1,
+        "score": 4
+      },
+      {
+        "hole": 11,
+        "par": 4,
+        "round": 1,
+        "tot": 1,
+        "score": 4
+      },
+      {
+        "hole": 12,
+        "par": 3,
+        "round": 1,
+        "tot": 1,
+        "score": 3
+      },
+      {
+        "hole": 13,
+        "par": 5,
+        "round": 0,
+        "tot": 0,
+        "score": 4
+      },
+      {
+        "hole": 14,
+        "par": 4,
+        "round": 0,
+        "tot": 0,
+        "score": 4
+      },
+      {
+        "hole": 15,
+        "par": 5,
+        "round": 0,
+        "tot": 0,
+        "score": 5
+      },
+      {
+        "hole": 16,
+        "par": 3,
+        "round": 0,
+        "tot": 0,
+        "score": 3
+      },
+      {
+        "hole": 17,
+        "par": 4,
+        "round": 0,
+        "tot": 0,
+        "score": 4
+      },
+      {
+        "hole": 18,
+        "par": 4,
+        "round": 0,
+        "tot": 0,
+        "score": 4
+      }
+    ],
+    "outTotal": 37,
+    "inTotal": 35,
+    "total": 72
+  },
+  {
+    "playerId": 40,
+    "teeScores": [
+      {
+        "hole": 1,
+        "par": 4,
+        "round": 1,
+        "tot": 1,
+        "score": 5
+      },
+      {
+        "hole": 2,
+        "par": 5,
+        "round": 1,
+        "tot": 1,
+        "score": 5
+      },
+      {
+        "hole": 3,
+        "par": 4,
+        "round": 1,
+        "tot": 1,
+        "score": 4
+      },
+      {
+        "hole": 4,
+        "par": 3,
+        "round": 1,
+        "tot": 1,
+        "score": 3
+      },
+      {
+        "hole": 5,
+        "par": 4,
+        "round": 2,
+        "tot": 2,
+        "score": 5
+      },
+      {
+        "hole": 6,
+        "par": 3,
+        "round": 2,
+        "tot": 2,
+        "score": 3
+      },
+      {
+        "hole": 7,
+        "par": 4,
+        "round": 2,
+        "tot": 2,
+        "score": 4
+      },
+      {
+        "hole": 8,
+        "par": 5,
+        "round": 1,
+        "tot": 1,
+        "score": 4
+      },
+      {
+        "hole": 9,
+        "par": 4,
+        "round": 1,
+        "tot": 1,
+        "score": 4
+      },
+      {
+        "hole": 10,
+        "par": 4,
+        "round": 1,
+        "tot": 1,
+        "score": 4
+      },
+      {
+        "hole": 11,
+        "par": 4,
+        "round": 1,
+        "tot": 1,
+        "score": 4
+      },
+      {
+        "hole": 12,
+        "par": 3,
+        "round": 1,
+        "tot": 1,
+        "score": 3
+      },
+      {
+        "hole": 13,
+        "par": 5,
+        "round": 0,
+        "tot": 0,
+        "score": 4
+      },
+      {
+        "hole": 14,
+        "par": 4,
+        "round": 0,
+        "tot": 0,
+        "score": 4
+      },
+      {
+        "hole": 15,
+        "par": 5,
+        "round": -1,
+        "tot": -1,
+        "score": 4
+      },
+      {
+        "hole": 16,
+        "par": 3,
+        "round": -1,
+        "tot": -1,
+        "score": 3
+      },
+      {
+        "hole": 17,
+        "par": 4,
+        "round": -1,
+        "tot": -1,
+        "score": 4
+      },
+      {
+        "hole": 18,
+        "par": 4,
+        "round": -1,
+        "tot": -1,
+        "score": 4
+      }
+    ],
+    "outTotal": 37,
+    "inTotal": 34,
+    "total": 71
+  },
+  {
+    "playerId": 41,
+    "teeScores": [
+      {
+        "hole": 1,
+        "par": 4,
+        "round": 0,
+        "tot": 2,
+        "score": 4
+      },
+      {
+        "hole": 2,
+        "par": 5,
+        "round": 0,
+        "tot": 2,
+        "score": 5
+      },
+      {
+        "hole": 3,
+        "par": 4,
+        "round": -1,
+        "tot": 1,
+        "score": 3
+      },
+      {
+        "hole": 4,
+        "par": 3,
+        "round": -1,
+        "tot": 1,
+        "score": 3
+      },
+      {
+        "hole": 5,
+        "par": 4,
+        "round": 0,
+        "tot": 2,
+        "score": 5
+      },
+      {
+        "hole": 6,
+        "par": 3,
+        "round": 0,
+        "tot": 2,
+        "score": 3
+      },
+      {
+        "hole": 7,
+        "par": 4,
+        "round": 1,
+        "tot": 3,
+        "score": 5
+      },
+      {
+        "hole": 8,
+        "par": 5,
+        "round": 0,
+        "tot": 2,
+        "score": 4
+      },
+      {
+        "hole": 9,
+        "par": 4,
+        "round": 0,
+        "tot": 2,
+        "score": 4
+      },
+      {
+        "hole": 10,
+        "par": 4,
+        "round": 0,
+        "tot": 2,
+        "score": 4
+      },
+      {
+        "hole": 11,
+        "par": 4,
+        "round": 0,
+        "tot": 2,
+        "score": 4
+      },
+      {
+        "hole": 12,
+        "par": 3,
+        "round": 0,
+        "tot": 2,
+        "score": 3
+      },
+      {
+        "hole": 13,
+        "par": 5,
+        "round": -1,
+        "tot": 1,
+        "score": 4
+      },
+      {
+        "hole": 14,
+        "par": 4,
+        "round": -1,
+        "tot": 1,
+        "score": 4
+      },
+      {
+        "hole": 15,
+        "par": 5,
+        "round": -1,
+        "tot": 1,
+        "score": 5
+      },
+      {
+        "hole": 16,
+        "par": 3,
+        "round": -1,
+        "tot": 1,
+        "score": 3
+      },
+      {
+        "hole": 17,
+        "par": 4,
+        "round": -2,
+        "tot": 0,
+        "score": 3
+      },
+      {
+        "hole": 18,
+        "par": 4,
+        "round": 0,
+        "tot": 2,
+        "score": 6
+      }
+    ],
+    "outTotal": 36,
+    "inTotal": 36,
+    "total": 72
+  },
+  {
+    "playerId": 42,
+    "teeScores": [
+      {
+        "hole": 1,
+        "par": 4,
+        "round": 1,
+        "tot": 0,
+        "score": 5
+      },
+      {
+        "hole": 2,
+        "par": 5,
+        "round": 0,
+        "tot": -1,
+        "score": 4
+      },
+      {
+        "hole": 3,
+        "par": 4,
+        "round": -1,
+        "tot": -2,
+        "score": 3
+      },
+      {
+        "hole": 4,
+        "par": 3,
+        "round": 0,
+        "tot": -1,
+        "score": 4
+      },
+      {
+        "hole": 5,
+        "par": 4,
+        "round": 0,
+        "tot": -1,
+        "score": 4
+      },
+      {
+        "hole": 6,
+        "par": 3,
+        "round": 1,
+        "tot": 0,
+        "score": 4
+      },
+      {
+        "hole": 7,
+        "par": 4,
+        "round": 1,
+        "tot": 0,
+        "score": 4
+      },
+      {
+        "hole": 8,
+        "par": 5,
+        "round": 1,
+        "tot": 0,
+        "score": 5
+      },
+      {
+        "hole": 9,
+        "par": 4,
+        "round": 1,
+        "tot": 0,
+        "score": 4
+      },
+      {
+        "hole": 10,
+        "par": 4,
+        "round": 1,
+        "tot": 0,
+        "score": 4
+      },
+      {
+        "hole": 11,
+        "par": 4,
+        "round": 1,
+        "tot": 0,
+        "score": 4
+      },
+      {
+        "hole": 12,
+        "par": 3,
+        "round": 0,
+        "tot": -1,
+        "score": 2
+      },
+      {
+        "hole": 13,
+        "par": 5,
+        "round": 1,
+        "tot": 0,
+        "score": 6
+      },
+      {
+        "hole": 14,
+        "par": 4,
+        "round": 1,
+        "tot": 0,
+        "score": 4
+      },
+      {
+        "hole": 15,
+        "par": 5,
+        "round": 0,
+        "tot": -1,
+        "score": 4
+      },
+      {
+        "hole": 16,
+        "par": 3,
+        "round": 0,
+        "tot": -1,
+        "score": 3
+      },
+      {
+        "hole": 17,
+        "par": 4,
+        "round": 0,
+        "tot": -1,
+        "score": 4
+      },
+      {
+        "hole": 18,
+        "par": 4,
+        "round": -1,
+        "tot": -2,
+        "score": 3
+      }
+    ],
+    "outTotal": 37,
+    "inTotal": 34,
+    "total": 71
+  },
+  {
+    "playerId": 43,
+    "teeScores": [
+      {
+        "hole": 1,
+        "par": 4,
+        "round": 0,
+        "tot": 0,
+        "score": 4
+      },
+      {
+        "hole": 2,
+        "par": 5,
+        "round": 0,
+        "tot": 0,
+        "score": 5
+      },
+      {
+        "hole": 3,
+        "par": 4,
+        "round": 0,
+        "tot": 0,
+        "score": 4
+      },
+      {
+        "hole": 4,
+        "par": 3,
+        "round": 0,
+        "tot": 0,
+        "score": 3
+      },
+      {
+        "hole": 5,
+        "par": 4,
+        "round": 0,
+        "tot": 0,
+        "score": 4
+      },
+      {
+        "hole": 6,
+        "par": 3,
+        "round": 1,
+        "tot": 1,
+        "score": 4
+      },
+      {
+        "hole": 7,
+        "par": 4,
+        "round": 2,
+        "tot": 2,
+        "score": 5
+      },
+      {
+        "hole": 8,
+        "par": 5,
+        "round": 1,
+        "tot": 1,
+        "score": 4
+      },
+      {
+        "hole": 9,
+        "par": 4,
+        "round": 1,
+        "tot": 1,
+        "score": 4
+      },
+      {
+        "hole": 10,
+        "par": 4,
+        "round": 1,
+        "tot": 1,
+        "score": 4
+      },
+      {
+        "hole": 11,
+        "par": 4,
+        "round": 1,
+        "tot": 1,
+        "score": 4
+      },
+      {
+        "hole": 12,
+        "par": 3,
+        "round": 1,
+        "tot": 1,
+        "score": 3
+      },
+      {
+        "hole": 13,
+        "par": 5,
+        "round": 1,
+        "tot": 1,
+        "score": 5
+      },
+      {
+        "hole": 14,
+        "par": 4,
+        "round": 1,
+        "tot": 1,
+        "score": 4
+      },
+      {
+        "hole": 15,
+        "par": 5,
+        "round": 1,
+        "tot": 1,
+        "score": 5
+      },
+      {
+        "hole": 16,
+        "par": 3,
+        "round": 1,
+        "tot": 1,
+        "score": 3
+      },
+      {
+        "hole": 17,
+        "par": 4,
+        "round": 2,
+        "tot": 2,
+        "score": 5
+      },
+      {
+        "hole": 18,
+        "par": 4,
+        "round": 2,
+        "tot": 2,
+        "score": 4
+      }
+    ],
+    "outTotal": 37,
+    "inTotal": 37,
+    "total": 74
+  },
+  {
+    "playerId": 44,
+    "teeScores": [
+      {
+        "hole": 1,
+        "par": 4,
+        "round": 0,
+        "tot": 0,
+        "score": 4
+      },
+      {
+        "hole": 2,
+        "par": 5,
+        "round": 0,
+        "tot": 0,
+        "score": 5
+      },
+      {
+        "hole": 3,
+        "par": 4,
+        "round": 0,
+        "tot": 0,
+        "score": 4
+      },
+      {
+        "hole": 4,
+        "par": 3,
+        "round": 0,
+        "tot": 0,
+        "score": 3
+      },
+      {
+        "hole": 5,
+        "par": 4,
+        "round": 0,
+        "tot": 0,
+        "score": 4
+      },
+      {
+        "hole": 6,
+        "par": 3,
+        "round": 0,
+        "tot": 0,
+        "score": 3
+      },
+      {
+        "hole": 7,
+        "par": 4,
+        "round": -2,
+        "tot": -2,
+        "score": 2
+      },
+      {
+        "hole": 8,
+        "par": 5,
+        "round": -3,
+        "tot": -3,
+        "score": 4
+      },
+      {
+        "hole": 9,
+        "par": 4,
+        "round": -2,
+        "tot": -2,
+        "score": 5
+      },
+      {
+        "hole": 10,
+        "par": 4,
+        "round": -2,
+        "tot": -2,
+        "score": 4
+      },
+      {
+        "hole": 11,
+        "par": 4,
+        "round": -1,
+        "tot": -1,
+        "score": 5
+      },
+      {
+        "hole": 12,
+        "par": 3,
+        "round": -1,
+        "tot": -1,
+        "score": 3
+      },
+      {
+        "hole": 13,
+        "par": 5,
+        "round": -1,
+        "tot": -1,
+        "score": 5
+      },
+      {
+        "hole": 14,
+        "par": 4,
+        "round": 0,
+        "tot": 0,
+        "score": 5
+      },
+      {
+        "hole": 15,
+        "par": 5,
+        "round": 0,
+        "tot": 0,
+        "score": 5
+      },
+      {
+        "hole": 16,
+        "par": 3,
+        "round": 0,
+        "tot": 0,
+        "score": 3
+      },
+      {
+        "hole": 17,
+        "par": 4,
+        "round": 1,
+        "tot": 1,
+        "score": 5
+      },
+      {
+        "hole": 18,
+        "par": 4,
+        "round": 2,
+        "tot": 2,
+        "score": 5
+      }
+    ],
+    "outTotal": 34,
+    "inTotal": 40,
+    "total": 74
+  },
+  {
+    "playerId": 45,
+    "teeScores": [
+      {
+        "hole": 1,
+        "par": 4,
+        "round": 0,
+        "tot": 4,
+        "score": 4
+      },
+      {
+        "hole": 2,
+        "par": 5,
+        "round": -1,
+        "tot": 3,
+        "score": 4
+      },
+      {
+        "hole": 3,
+        "par": 4,
+        "round": -1,
+        "tot": 3,
+        "score": 4
+      },
+      {
+        "hole": 4,
+        "par": 3,
+        "round": -2,
+        "tot": 2,
+        "score": 2
+      },
+      {
+        "hole": 5,
+        "par": 4,
+        "round": -1,
+        "tot": 3,
+        "score": 5
+      },
+      {
+        "hole": 6,
+        "par": 3,
+        "round": -1,
+        "tot": 3,
+        "score": 3
+      },
+      {
+        "hole": 7,
+        "par": 4,
+        "round": 1,
+        "tot": 5,
+        "score": 6
+      },
+      {
+        "hole": 8,
+        "par": 5,
+        "round": 0,
+        "tot": 4,
+        "score": 4
+      },
+      {
+        "hole": 9,
+        "par": 4,
+        "round": 1,
+        "tot": 5,
+        "score": 5
+      },
+      {
+        "hole": 10,
+        "par": 4,
+        "round": 0,
+        "tot": 4,
+        "score": 3
+      },
+      {
+        "hole": 11,
+        "par": 4,
+        "round": 0,
+        "tot": 4,
+        "score": 4
+      },
+      {
+        "hole": 12,
+        "par": 3,
+        "round": 0,
+        "tot": 4,
+        "score": 3
+      },
+      {
+        "hole": 13,
+        "par": 5,
+        "round": -1,
+        "tot": 3,
+        "score": 4
+      },
+      {
+        "hole": 14,
+        "par": 4,
+        "round": -1,
+        "tot": 3,
+        "score": 4
+      },
+      {
+        "hole": 15,
+        "par": 5,
+        "round": -2,
+        "tot": 2,
+        "score": 4
+      },
+      {
+        "hole": 16,
+        "par": 3,
+        "round": -3,
+        "tot": 1,
+        "score": 2
+      },
+      {
+        "hole": 17,
+        "par": 4,
+        "round": -4,
+        "tot": 0,
+        "score": 3
+      },
+      {
+        "hole": 18,
+        "par": 4,
+        "round": -4,
+        "tot": 0,
+        "score": 4
+      }
+    ],
+    "outTotal": 37,
+    "inTotal": 31,
+    "total": 68
+  },
+  {
+    "playerId": 46,
+    "teeScores": [
+      {
+        "hole": 1,
+        "par": 4,
+        "round": 0,
+        "tot": 0,
+        "score": 4
+      },
+      {
+        "hole": 2,
+        "par": 5,
+        "round": 0,
+        "tot": 0,
+        "score": 5
+      },
+      {
+        "hole": 3,
+        "par": 4,
+        "round": 0,
+        "tot": 0,
+        "score": 4
+      },
+      {
+        "hole": 4,
+        "par": 3,
+        "round": 0,
+        "tot": 0,
+        "score": 3
+      },
+      {
+        "hole": 5,
+        "par": 4,
+        "round": 0,
+        "tot": 0,
+        "score": 4
+      },
+      {
+        "hole": 6,
+        "par": 3,
+        "round": 0,
+        "tot": 0,
+        "score": 3
+      },
+      {
+        "hole": 7,
+        "par": 4,
+        "round": -1,
+        "tot": -1,
+        "score": 3
+      },
+      {
+        "hole": 8,
+        "par": 5,
+        "round": -1,
+        "tot": -1,
+        "score": 5
+      },
+      {
+        "hole": 9,
+        "par": 4,
+        "round": -1,
+        "tot": -1,
+        "score": 4
+      },
+      {
+        "hole": 10,
+        "par": 4,
+        "round": -1,
+        "tot": -1,
+        "score": 4
+      },
+      {
+        "hole": 11,
+        "par": 4,
+        "round": -1,
+        "tot": -1,
+        "score": 4
+      },
+      {
+        "hole": 12,
+        "par": 3,
+        "round": -1,
+        "tot": -1,
+        "score": 3
+      },
+      {
+        "hole": 13,
+        "par": 5,
+        "round": -1,
+        "tot": -1,
+        "score": 5
+      },
+      {
+        "hole": 14,
+        "par": 4,
+        "round": 0,
+        "tot": 0,
+        "score": 5
+      },
+      {
+        "hole": 15,
+        "par": 5,
+        "round": 0,
+        "tot": 0,
+        "score": 5
+      },
+      {
+        "hole": 16,
+        "par": 3,
+        "round": 1,
+        "tot": 1,
+        "score": 4
+      },
+      {
+        "hole": 17,
+        "par": 4,
+        "round": 1,
+        "tot": 1,
+        "score": 4
+      },
+      {
+        "hole": 18,
+        "par": 4,
+        "round": 1,
+        "tot": 1,
+        "score": 4
+      }
+    ],
+    "outTotal": 35,
+    "inTotal": 38,
+    "total": 73
+  },
+  {
+    "playerId": 47,
+    "teeScores": [
+      {
+        "hole": 1,
+        "par": 4,
+        "round": 1,
+        "tot": 0,
+        "score": 5
+      },
+      {
+        "hole": 2,
+        "par": 5,
+        "round": 1,
+        "tot": 0,
+        "score": 5
+      },
+      {
+        "hole": 3,
+        "par": 4,
+        "round": 1,
+        "tot": 0,
+        "score": 4
+      },
+      {
+        "hole": 4,
+        "par": 3,
+        "round": 1,
+        "tot": 0,
+        "score": 3
+      },
+      {
+        "hole": 5,
+        "par": 4,
+        "round": 1,
+        "tot": 0,
+        "score": 4
+      },
+      {
+        "hole": 6,
+        "par": 3,
+        "round": 1,
+        "tot": 0,
+        "score": 3
+      },
+      {
+        "hole": 7,
+        "par": 4,
+        "round": 1,
+        "tot": 0,
+        "score": 4
+      },
+      {
+        "hole": 8,
+        "par": 5,
+        "round": 1,
+        "tot": 0,
+        "score": 5
+      },
+      {
+        "hole": 9,
+        "par": 4,
+        "round": 0,
+        "tot": -1,
+        "score": 3
+      },
+      {
+        "hole": 10,
+        "par": 4,
+        "round": 1,
+        "tot": 0,
+        "score": 5
+      },
+      {
+        "hole": 11,
+        "par": 4,
+        "round": 2,
+        "tot": 1,
+        "score": 5
+      },
+      {
+        "hole": 12,
+        "par": 3,
+        "round": 1,
+        "tot": 0,
+        "score": 2
+      },
+      {
+        "hole": 13,
+        "par": 5,
+        "round": 0,
+        "tot": -1,
+        "score": 4
+      },
+      {
+        "hole": 14,
+        "par": 4,
+        "round": 1,
+        "tot": 0,
+        "score": 5
+      },
+      {
+        "hole": 15,
+        "par": 5,
+        "round": 2,
+        "tot": 1,
+        "score": 6
+      },
+      {
+        "hole": 16,
+        "par": 3,
+        "round": 1,
+        "tot": 0,
+        "score": 2
+      },
+      {
+        "hole": 17,
+        "par": 4,
+        "round": 1,
+        "tot": 0,
+        "score": 4
+      },
+      {
+        "hole": 18,
+        "par": 4,
+        "round": 1,
+        "tot": 0,
+        "score": 4
+      }
+    ],
+    "outTotal": 36,
+    "inTotal": 37,
+    "total": 73
+  },
+  {
+    "playerId": 48,
+    "teeScores": [
+      {
+        "hole": 1,
+        "par": 4,
+        "round": 0,
+        "tot": -2,
+        "score": 4
+      },
+      {
+        "hole": 2,
+        "par": 5,
+        "round": 0,
+        "tot": -2,
+        "score": 5
+      },
+      {
+        "hole": 3,
+        "par": 4,
+        "round": -1,
+        "tot": -3,
+        "score": 3
+      },
+      {
+        "hole": 4,
+        "par": 3,
+        "round": 0,
+        "tot": -2,
+        "score": 4
+      },
+      {
+        "hole": 5,
+        "par": 4,
+        "round": 0,
+        "tot": -2,
+        "score": 4
+      },
+      {
+        "hole": 6,
+        "par": 3,
+        "round": 0,
+        "tot": -2,
+        "score": 3
+      },
+      {
+        "hole": 7,
+        "par": 4,
+        "round": 1,
+        "tot": -1,
+        "score": 5
+      },
+      {
+        "hole": 8,
+        "par": 5,
+        "round": 0,
+        "tot": -2,
+        "score": 4
+      },
+      {
+        "hole": 9,
+        "par": 4,
+        "round": 0,
+        "tot": -2,
+        "score": 4
+      },
+      {
+        "hole": 10,
+        "par": 4,
+        "round": 0,
+        "tot": -2,
+        "score": 4
+      },
+      {
+        "hole": 11,
+        "par": 4,
+        "round": 1,
+        "tot": -1,
+        "score": 5
+      },
+      {
+        "hole": 12,
+        "par": 3,
+        "round": 0,
+        "tot": -2,
+        "score": 2
+      },
+      {
+        "hole": 13,
+        "par": 5,
+        "round": -1,
+        "tot": -3,
+        "score": 4
+      },
+      {
+        "hole": 14,
+        "par": 4,
+        "round": -1,
+        "tot": -3,
+        "score": 4
+      },
+      {
+        "hole": 15,
+        "par": 5,
+        "round": -2,
+        "tot": -4,
+        "score": 4
+      },
+      {
+        "hole": 16,
+        "par": 3,
+        "round": -2,
+        "tot": -4,
+        "score": 3
+      },
+      {
+        "hole": 17,
+        "par": 4,
+        "round": -2,
+        "tot": -4,
+        "score": 4
+      },
+      {
+        "hole": 18,
+        "par": 4,
+        "round": -1,
+        "tot": -3,
+        "score": 5
+      }
+    ],
+    "outTotal": 36,
+    "inTotal": 35,
+    "total": 71
+  },
+  {
+    "playerId": 49,
+    "teeScores": [
+      {
+        "hole": 1,
+        "par": 4,
+        "round": 0,
+        "tot": -3,
+        "score": 4
+      },
+      {
+        "hole": 2,
+        "par": 5,
+        "round": 0,
+        "tot": -3,
+        "score": 5
+      },
+      {
+        "hole": 3,
+        "par": 4,
+        "round": 0,
+        "tot": -3,
+        "score": 4
+      },
+      {
+        "hole": 4,
+        "par": 3,
+        "round": 0,
+        "tot": -3,
+        "score": 3
+      },
+      {
+        "hole": 5,
+        "par": 4,
+        "round": 1,
+        "tot": -2,
+        "score": 5
+      },
+      {
+        "hole": 6,
+        "par": 3,
+        "round": 1,
+        "tot": -2,
+        "score": 3
+      },
+      {
+        "hole": 7,
+        "par": 4,
+        "round": 0,
+        "tot": -3,
+        "score": 3
+      },
+      {
+        "hole": 8,
+        "par": 5,
+        "round": 0,
+        "tot": -3,
+        "score": 5
+      },
+      {
+        "hole": 9,
+        "par": 4,
+        "round": 0,
+        "tot": -3,
+        "score": 4
+      },
+      {
+        "hole": 10,
+        "par": 4,
+        "round": 0,
+        "tot": -3,
+        "score": 4
+      },
+      {
+        "hole": 11,
+        "par": 4,
+        "round": 1,
+        "tot": -2,
+        "score": 5
+      },
+      {
+        "hole": 12,
+        "par": 3,
+        "round": 0,
+        "tot": -3,
+        "score": 2
+      },
+      {
+        "hole": 13,
+        "par": 5,
+        "round": -1,
+        "tot": -4,
+        "score": 4
+      },
+      {
+        "hole": 14,
+        "par": 4,
+        "round": 0,
+        "tot": -3,
+        "score": 5
+      },
+      {
+        "hole": 15,
+        "par": 5,
+        "round": 0,
+        "tot": -3,
+        "score": 5
+      },
+      {
+        "hole": 16,
+        "par": 3,
+        "round": 0,
+        "tot": -3,
+        "score": 3
+      },
+      {
+        "hole": 17,
+        "par": 4,
+        "round": 0,
+        "tot": -3,
+        "score": 4
+      },
+      {
+        "hole": 18,
+        "par": 4,
+        "round": 0,
+        "tot": -3,
+        "score": 4
+      }
+    ],
+    "outTotal": 36,
+    "inTotal": 36,
+    "total": 72
+  },
+  {
+    "playerId": 50,
+    "teeScores": [
+      {
+        "hole": 1,
+        "par": 4,
+        "round": 0,
+        "tot": 0,
+        "score": 4
+      },
+      {
+        "hole": 2,
+        "par": 5,
+        "round": 1,
+        "tot": 1,
+        "score": 6
+      },
+      {
+        "hole": 3,
+        "par": 4,
+        "round": 1,
+        "tot": 1,
+        "score": 4
+      },
+      {
+        "hole": 4,
+        "par": 3,
+        "round": 0,
+        "tot": 0,
+        "score": 2
+      },
+      {
+        "hole": 5,
+        "par": 4,
+        "round": 0,
+        "tot": 0,
+        "score": 4
+      },
+      {
+        "hole": 6,
+        "par": 3,
+        "round": 0,
+        "tot": 0,
+        "score": 3
+      },
+      {
+        "hole": 7,
+        "par": 4,
+        "round": 0,
+        "tot": 0,
+        "score": 4
+      },
+      {
+        "hole": 8,
+        "par": 5,
+        "round": 0,
+        "tot": 0,
+        "score": 5
+      },
+      {
+        "hole": 9,
+        "par": 4,
+        "round": 0,
+        "tot": 0,
+        "score": 4
+      },
+      {
+        "hole": 10,
+        "par": 4,
+        "round": 0,
+        "tot": 0,
+        "score": 4
+      },
+      {
+        "hole": 11,
+        "par": 4,
+        "round": 0,
+        "tot": 0,
+        "score": 4
+      },
+      {
+        "hole": 12,
+        "par": 3,
+        "round": -1,
+        "tot": -1,
+        "score": 2
+      },
+      {
+        "hole": 13,
+        "par": 5,
+        "round": -1,
+        "tot": -1,
+        "score": 5
+      },
+      {
+        "hole": 14,
+        "par": 4,
+        "round": -1,
+        "tot": -1,
+        "score": 4
+      },
+      {
+        "hole": 15,
+        "par": 5,
+        "round": -1,
+        "tot": -1,
+        "score": 5
+      },
+      {
+        "hole": 16,
+        "par": 3,
+        "round": -1,
+        "tot": -1,
+        "score": 3
+      },
+      {
+        "hole": 17,
+        "par": 4,
+        "round": -1,
+        "tot": -1,
+        "score": 4
+      },
+      {
+        "hole": 18,
+        "par": 4,
+        "round": 0,
+        "tot": 0,
+        "score": 5
+      }
+    ],
+    "outTotal": 36,
+    "inTotal": 36,
+    "total": 72
+  },
+  {
+    "playerId": 51,
+    "teeScores": [
+      {
+        "hole": 1,
+        "par": 4,
+        "round": 0,
+        "tot": 2,
+        "score": 4
+      },
+      {
+        "hole": 2,
+        "par": 5,
+        "round": 0,
+        "tot": 2,
+        "score": 5
+      },
+      {
+        "hole": 3,
+        "par": 4,
+        "round": 0,
+        "tot": 2,
+        "score": 4
+      },
+      {
+        "hole": 4,
+        "par": 3,
+        "round": 0,
+        "tot": 2,
+        "score": 3
+      },
+      {
+        "hole": 5,
+        "par": 4,
+        "round": 0,
+        "tot": 2,
+        "score": 4
+      },
+      {
+        "hole": 6,
+        "par": 3,
+        "round": 0,
+        "tot": 2,
+        "score": 3
+      },
+      {
+        "hole": 7,
+        "par": 4,
+        "round": 1,
+        "tot": 3,
+        "score": 5
+      },
+      {
+        "hole": 8,
+        "par": 5,
+        "round": 0,
+        "tot": 2,
+        "score": 4
+      },
+      {
+        "hole": 9,
+        "par": 4,
+        "round": 0,
+        "tot": 2,
+        "score": 4
+      },
+      {
+        "hole": 10,
+        "par": 4,
+        "round": 2,
+        "tot": 4,
+        "score": 6
+      },
+      {
+        "hole": 11,
+        "par": 4,
+        "round": 2,
+        "tot": 4,
+        "score": 4
+      },
+      {
+        "hole": 12,
+        "par": 3,
+        "round": 2,
+        "tot": 4,
+        "score": 3
+      },
+      {
+        "hole": 13,
+        "par": 5,
+        "round": 1,
+        "tot": 3,
+        "score": 4
+      },
+      {
+        "hole": 14,
+        "par": 4,
+        "round": 1,
+        "tot": 3,
+        "score": 4
+      },
+      {
+        "hole": 15,
+        "par": 5,
+        "round": 0,
+        "tot": 2,
+        "score": 4
+      },
+      {
+        "hole": 16,
+        "par": 3,
+        "round": 0,
+        "tot": 2,
+        "score": 3
+      },
+      {
+        "hole": 17,
+        "par": 4,
+        "round": 0,
+        "tot": 2,
+        "score": 4
+      },
+      {
+        "hole": 18,
+        "par": 4,
+        "round": 0,
+        "tot": 2,
+        "score": 4
+      }
+    ],
+    "outTotal": 36,
+    "inTotal": 36,
+    "total": 72
+  },
+  {
+    "playerId": 53,
+    "teeScores": [
+      {
+        "hole": 1,
+        "par": 4,
+        "round": -1,
+        "tot": 0,
+        "score": 3
+      },
+      {
+        "hole": 2,
+        "par": 5,
+        "round": -1,
+        "tot": 0,
+        "score": 5
+      },
+      {
+        "hole": 3,
+        "par": 4,
+        "round": -1,
+        "tot": 0,
+        "score": 4
+      },
+      {
+        "hole": 4,
+        "par": 3,
+        "round": 0,
+        "tot": 1,
+        "score": 4
+      },
+      {
+        "hole": 5,
+        "par": 4,
+        "round": 1,
+        "tot": 2,
+        "score": 5
+      },
+      {
+        "hole": 6,
+        "par": 3,
+        "round": 1,
+        "tot": 2,
+        "score": 3
+      },
+      {
+        "hole": 7,
+        "par": 4,
+        "round": 1,
+        "tot": 2,
+        "score": 4
+      },
+      {
+        "hole": 8,
+        "par": 5,
+        "round": 1,
+        "tot": 2,
+        "score": 5
+      },
+      {
+        "hole": 9,
+        "par": 4,
+        "round": 1,
+        "tot": 2,
+        "score": 4
+      },
+      {
+        "hole": 10,
+        "par": 4,
+        "round": 2,
+        "tot": 3,
+        "score": 5
+      },
+      {
+        "hole": 11,
+        "par": 4,
+        "round": 2,
+        "tot": 3,
+        "score": 4
+      },
+      {
+        "hole": 12,
+        "par": 3,
+        "round": 2,
+        "tot": 3,
+        "score": 3
+      },
+      {
+        "hole": 13,
+        "par": 5,
+        "round": 1,
+        "tot": 2,
+        "score": 4
+      },
+      {
+        "hole": 14,
+        "par": 4,
+        "round": 2,
+        "tot": 3,
+        "score": 5
+      },
+      {
+        "hole": 15,
+        "par": 5,
+        "round": 1,
+        "tot": 2,
+        "score": 4
+      },
+      {
+        "hole": 16,
+        "par": 3,
+        "round": 1,
+        "tot": 2,
+        "score": 3
+      },
+      {
+        "hole": 17,
+        "par": 4,
+        "round": 2,
+        "tot": 3,
+        "score": 5
+      },
+      {
+        "hole": 18,
+        "par": 4,
+        "round": 2,
+        "tot": 3,
+        "score": 4
+      }
+    ],
+    "outTotal": 37,
+    "inTotal": 37,
+    "total": 74
+  },
+  {
+    "playerId": 54,
+    "teeScores": [
+      {
+        "hole": 1,
+        "par": 4,
+        "round": 0,
+        "tot": 2,
+        "score": 4
+      },
+      {
+        "hole": 2,
+        "par": 5,
+        "round": 0,
+        "tot": 2,
+        "score": 5
+      },
+      {
+        "hole": 3,
+        "par": 4,
+        "round": 0,
+        "tot": 2,
+        "score": 4
+      },
+      {
+        "hole": 4,
+        "par": 3,
+        "round": 0,
+        "tot": 2,
+        "score": 3
+      },
+      {
+        "hole": 5,
+        "par": 4,
+        "round": 0,
+        "tot": 2,
+        "score": 4
+      },
+      {
+        "hole": 6,
+        "par": 3,
+        "round": 0,
+        "tot": 2,
+        "score": 3
+      },
+      {
+        "hole": 7,
+        "par": 4,
+        "round": 0,
+        "tot": 2,
+        "score": 4
+      },
+      {
+        "hole": 8,
+        "par": 5,
+        "round": 0,
+        "tot": 2,
+        "score": 5
+      },
+      {
+        "hole": 9,
+        "par": 4,
+        "round": 0,
+        "tot": 2,
+        "score": 4
+      },
+      {
+        "hole": 10,
+        "par": 4,
+        "round": 0,
+        "tot": 2,
+        "score": 4
+      },
+      {
+        "hole": 11,
+        "par": 4,
+        "round": 1,
+        "tot": 3,
+        "score": 5
+      },
+      {
+        "hole": 12,
+        "par": 3,
+        "round": 1,
+        "tot": 3,
+        "score": 3
+      },
+      {
+        "hole": 13,
+        "par": 5,
+        "round": 2,
+        "tot": 4,
+        "score": 6
+      },
+      {
+        "hole": 14,
+        "par": 4,
+        "round": 3,
+        "tot": 5,
+        "score": 5
+      },
+      {
+        "hole": 15,
+        "par": 5,
+        "round": 2,
+        "tot": 4,
+        "score": 4
+      },
+      {
+        "hole": 16,
+        "par": 3,
+        "round": 1,
+        "tot": 3,
+        "score": 2
+      },
+      {
+        "hole": 17,
+        "par": 4,
+        "round": 1,
+        "tot": 3,
+        "score": 4
+      },
+      {
+        "hole": 18,
+        "par": 4,
+        "round": 1,
+        "tot": 3,
+        "score": 4
+      }
+    ],
+    "outTotal": 36,
+    "inTotal": 37,
+    "total": 73
+  },
+  {
+    "playerId": 56,
+    "teeScores": [
+      {
+        "hole": 1,
+        "par": 4,
+        "round": 1,
+        "tot": -1,
+        "score": 5
+      },
+      {
+        "hole": 2,
+        "par": 5,
+        "round": 0,
+        "tot": -2,
+        "score": 4
+      },
+      {
+        "hole": 3,
+        "par": 4,
+        "round": 0,
+        "tot": -2,
+        "score": 4
+      },
+      {
+        "hole": 4,
+        "par": 3,
+        "round": 0,
+        "tot": -2,
+        "score": 3
+      },
+      {
+        "hole": 5,
+        "par": 4,
+        "round": 1,
+        "tot": -1,
+        "score": 5
+      },
+      {
+        "hole": 6,
+        "par": 3,
+        "round": 1,
+        "tot": -1,
+        "score": 3
+      },
+      {
+        "hole": 7,
+        "par": 4,
+        "round": 1,
+        "tot": -1,
+        "score": 4
+      },
+      {
+        "hole": 8,
+        "par": 5,
+        "round": 1,
+        "tot": -1,
+        "score": 5
+      },
+      {
+        "hole": 9,
+        "par": 4,
+        "round": 1,
+        "tot": -1,
+        "score": 4
+      },
+      {
+        "hole": 10,
+        "par": 4,
+        "round": 2,
+        "tot": 0,
+        "score": 5
+      },
+      {
+        "hole": 11,
+        "par": 4,
+        "round": 3,
+        "tot": 1,
+        "score": 5
+      },
+      {
+        "hole": 12,
+        "par": 3,
+        "round": 3,
+        "tot": 1,
+        "score": 3
+      },
+      {
+        "hole": 13,
+        "par": 5,
+        "round": 4,
+        "tot": 2,
+        "score": 6
+      },
+      {
+        "hole": 14,
+        "par": 4,
+        "round": 4,
+        "tot": 2,
+        "score": 4
+      },
+      {
+        "hole": 15,
+        "par": 5,
+        "round": 3,
+        "tot": 1,
+        "score": 4
+      },
+      {
+        "hole": 16,
+        "par": 3,
+        "round": 3,
+        "tot": 1,
+        "score": 3
+      },
+      {
+        "hole": 17,
+        "par": 4,
+        "round": 2,
+        "tot": 0,
+        "score": 3
+      },
+      {
+        "hole": 18,
+        "par": 4,
+        "round": 2,
+        "tot": 0,
+        "score": 4
+      }
+    ],
+    "outTotal": 37,
+    "inTotal": 37,
+    "total": 74
+  },
+  {
+    "playerId": 57,
+    "teeScores": [
+      {
+        "hole": 1,
+        "par": 4,
+        "round": -1,
+        "tot": -1,
+        "score": 3
+      },
+      {
+        "hole": 2,
+        "par": 5,
+        "round": -2,
+        "tot": -2,
+        "score": 4
+      },
+      {
+        "hole": 3,
+        "par": 4,
+        "round": -2,
+        "tot": -2,
+        "score": 4
+      },
+      {
+        "hole": 4,
+        "par": 3,
+        "round": 0,
+        "tot": 0,
+        "score": 5
+      },
+      {
+        "hole": 5,
+        "par": 4,
+        "round": 1,
+        "tot": 1,
+        "score": 5
+      },
+      {
+        "hole": 6,
+        "par": 3,
+        "round": 1,
+        "tot": 1,
+        "score": 3
+      },
+      {
+        "hole": 7,
+        "par": 4,
+        "round": 2,
+        "tot": 2,
+        "score": 5
+      },
+      {
+        "hole": 8,
+        "par": 5,
+        "round": 1,
+        "tot": 1,
+        "score": 4
+      },
+      {
+        "hole": 9,
+        "par": 4,
+        "round": 1,
+        "tot": 1,
+        "score": 4
+      },
+      {
+        "hole": 10,
+        "par": 4,
+        "round": 1,
+        "tot": 1,
+        "score": 4
+      },
+      {
+        "hole": 11,
+        "par": 4,
+        "round": 2,
+        "tot": 2,
+        "score": 5
+      },
+      {
+        "hole": 12,
+        "par": 3,
+        "round": 2,
+        "tot": 2,
+        "score": 3
+      },
+      {
+        "hole": 13,
+        "par": 5,
+        "round": 3,
+        "tot": 3,
+        "score": 6
+      },
+      {
+        "hole": 14,
+        "par": 4,
+        "round": 4,
+        "tot": 4,
+        "score": 5
+      },
+      {
+        "hole": 15,
+        "par": 5,
+        "round": 3,
+        "tot": 3,
+        "score": 4
+      },
+      {
+        "hole": 16,
+        "par": 3,
+        "round": 4,
+        "tot": 4,
+        "score": 4
+      },
+      {
+        "hole": 17,
+        "par": 4,
+        "round": 4,
+        "tot": 4,
+        "score": 4
+      },
+      {
+        "hole": 18,
+        "par": 4,
+        "round": 3,
+        "tot": 3,
+        "score": 3
+      }
+    ],
+    "outTotal": 37,
+    "inTotal": 38,
+    "total": 75
+  },
+  {
+    "playerId": 58,
+    "teeScores": [
+      {
+        "hole": 1,
+        "par": 4,
+        "round": 1,
+        "tot": 2,
+        "score": 5
+      },
+      {
+        "hole": 2,
+        "par": 5,
+        "round": 1,
+        "tot": 2,
+        "score": 5
+      },
+      {
+        "hole": 3,
+        "par": 4,
+        "round": 1,
+        "tot": 2,
+        "score": 4
+      },
+      {
+        "hole": 4,
+        "par": 3,
+        "round": 1,
+        "tot": 2,
+        "score": 3
+      },
+      {
+        "hole": 5,
+        "par": 4,
+        "round": 1,
+        "tot": 2,
+        "score": 4
+      },
+      {
+        "hole": 6,
+        "par": 3,
+        "round": 1,
+        "tot": 2,
+        "score": 3
+      },
+      {
+        "hole": 7,
+        "par": 4,
+        "round": 1,
+        "tot": 2,
+        "score": 4
+      },
+      {
+        "hole": 8,
+        "par": 5,
+        "round": 1,
+        "tot": 2,
+        "score": 5
+      },
+      {
+        "hole": 9,
+        "par": 4,
+        "round": 1,
+        "tot": 2,
+        "score": 4
+      },
+      {
+        "hole": 10,
+        "par": 4,
+        "round": 1,
+        "tot": 2,
+        "score": 4
+      },
+      {
+        "hole": 11,
+        "par": 4,
+        "round": 1,
+        "tot": 2,
+        "score": 4
+      },
+      {
+        "hole": 12,
+        "par": 3,
+        "round": 1,
+        "tot": 2,
+        "score": 3
+      },
+      {
+        "hole": 13,
+        "par": 5,
+        "round": 2,
+        "tot": 3,
+        "score": 6
+      },
+      {
+        "hole": 14,
+        "par": 4,
+        "round": 2,
+        "tot": 3,
+        "score": 4
+      },
+      {
+        "hole": 15,
+        "par": 5,
+        "round": 1,
+        "tot": 2,
+        "score": 4
+      },
+      {
+        "hole": 16,
+        "par": 3,
+        "round": 1,
+        "tot": 2,
+        "score": 3
+      },
+      {
+        "hole": 17,
+        "par": 4,
+        "round": 1,
+        "tot": 2,
+        "score": 4
+      },
+      {
+        "hole": 18,
+        "par": 4,
+        "round": 1,
+        "tot": 2,
+        "score": 4
+      }
+    ],
+    "outTotal": 37,
+    "inTotal": 36,
+    "total": 73
+  },
+  {
+    "playerId": 59,
+    "teeScores": [
+      {
+        "hole": 1,
+        "par": 4,
+        "round": 0,
+        "tot": 2,
+        "score": 4
+      },
+      {
+        "hole": 2,
+        "par": 5,
+        "round": -1,
+        "tot": 1,
+        "score": 4
+      },
+      {
+        "hole": 3,
+        "par": 4,
+        "round": -2,
+        "tot": 0,
+        "score": 3
+      },
+      {
+        "hole": 4,
+        "par": 3,
+        "round": -2,
+        "tot": 0,
+        "score": 3
+      },
+      {
+        "hole": 5,
+        "par": 4,
+        "round": -2,
+        "tot": 0,
+        "score": 4
+      },
+      {
+        "hole": 6,
+        "par": 3,
+        "round": -2,
+        "tot": 0,
+        "score": 3
+      },
+      {
+        "hole": 7,
+        "par": 4,
+        "round": -1,
+        "tot": 1,
+        "score": 5
+      },
+      {
+        "hole": 8,
+        "par": 5,
+        "round": -1,
+        "tot": 1,
+        "score": 5
+      },
+      {
+        "hole": 9,
+        "par": 4,
+        "round": -1,
+        "tot": 1,
+        "score": 4
+      },
+      {
+        "hole": 10,
+        "par": 4,
+        "round": -1,
+        "tot": 1,
+        "score": 4
+      },
+      {
+        "hole": 11,
+        "par": 4,
+        "round": -1,
+        "tot": 1,
+        "score": 4
+      },
+      {
+        "hole": 12,
+        "par": 3,
+        "round": 0,
+        "tot": 2,
+        "score": 4
+      },
+      {
+        "hole": 13,
+        "par": 5,
+        "round": -1,
+        "tot": 1,
+        "score": 4
+      },
+      {
+        "hole": 14,
+        "par": 4,
+        "round": -1,
+        "tot": 1,
+        "score": 4
+      },
+      {
+        "hole": 15,
+        "par": 5,
+        "round": -1,
+        "tot": 1,
+        "score": 5
+      },
+      {
+        "hole": 16,
+        "par": 3,
+        "round": -1,
+        "tot": 1,
+        "score": 3
+      },
+      {
+        "hole": 17,
+        "par": 4,
+        "round": 0,
+        "tot": 2,
+        "score": 5
+      },
+      {
+        "hole": 18,
+        "par": 4,
+        "round": 1,
+        "tot": 3,
+        "score": 5
+      }
+    ],
+    "outTotal": 35,
+    "inTotal": 38,
+    "total": 73
+  },
+  {
+    "playerId": 60,
+    "teeScores": [
+      {
+        "hole": 1,
+        "par": 4,
+        "round": 1,
+        "tot": 1,
+        "score": 5
+      },
+      {
+        "hole": 2,
+        "par": 5,
+        "round": 0,
+        "tot": 0,
+        "score": 4
+      },
+      {
+        "hole": 3,
+        "par": 4,
+        "round": 1,
+        "tot": 1,
+        "score": 5
+      },
+      {
+        "hole": 4,
+        "par": 3,
+        "round": 2,
+        "tot": 2,
+        "score": 4
+      },
+      {
+        "hole": 5,
+        "par": 4,
+        "round": 2,
+        "tot": 2,
+        "score": 4
+      },
+      {
+        "hole": 6,
+        "par": 3,
+        "round": 2,
+        "tot": 2,
+        "score": 3
+      },
+      {
+        "hole": 7,
+        "par": 4,
+        "round": 2,
+        "tot": 2,
+        "score": 4
+      },
+      {
+        "hole": 8,
+        "par": 5,
+        "round": 1,
+        "tot": 1,
+        "score": 4
+      },
+      {
+        "hole": 9,
+        "par": 4,
+        "round": 2,
+        "tot": 2,
+        "score": 5
+      },
+      {
+        "hole": 10,
+        "par": 4,
+        "round": 3,
+        "tot": 3,
+        "score": 5
+      },
+      {
+        "hole": 11,
+        "par": 4,
+        "round": 3,
+        "tot": 3,
+        "score": 4
+      },
+      {
+        "hole": 12,
+        "par": 3,
+        "round": 3,
+        "tot": 3,
+        "score": 3
+      },
+      {
+        "hole": 13,
+        "par": 5,
+        "round": 2,
+        "tot": 2,
+        "score": 4
+      },
+      {
+        "hole": 14,
+        "par": 4,
+        "round": 2,
+        "tot": 2,
+        "score": 4
+      },
+      {
+        "hole": 15,
+        "par": 5,
+        "round": 2,
+        "tot": 2,
+        "score": 5
+      },
+      {
+        "hole": 16,
+        "par": 3,
+        "round": 2,
+        "tot": 2,
+        "score": 3
+      },
+      {
+        "hole": 17,
+        "par": 4,
+        "round": 2,
+        "tot": 2,
+        "score": 4
+      },
+      {
+        "hole": 18,
+        "par": 4,
+        "round": 3,
+        "tot": 3,
+        "score": 5
+      }
+    ],
+    "outTotal": 38,
+    "inTotal": 37,
+    "total": 75
+  },
+  {
+    "playerId": 61,
+    "teeScores": [
+      {
+        "hole": 1,
+        "par": 4,
+        "round": 0,
+        "tot": 1,
+        "score": 4
+      },
+      {
+        "hole": 2,
+        "par": 5,
+        "round": 0,
+        "tot": 1,
+        "score": 5
+      },
+      {
+        "hole": 3,
+        "par": 4,
+        "round": 0,
+        "tot": 1,
+        "score": 4
+      },
+      {
+        "hole": 4,
+        "par": 3,
+        "round": 1,
+        "tot": 2,
+        "score": 4
+      },
+      {
+        "hole": 5,
+        "par": 4,
+        "round": 2,
+        "tot": 3,
+        "score": 5
+      },
+      {
+        "hole": 6,
+        "par": 3,
+        "round": 2,
+        "tot": 3,
+        "score": 3
+      },
+      {
+        "hole": 7,
+        "par": 4,
+        "round": 3,
+        "tot": 4,
+        "score": 5
+      },
+      {
+        "hole": 8,
+        "par": 5,
+        "round": 3,
+        "tot": 4,
+        "score": 5
+      },
+      {
+        "hole": 9,
+        "par": 4,
+        "round": 3,
+        "tot": 4,
+        "score": 4
+      },
+      {
+        "hole": 10,
+        "par": 4,
+        "round": 3,
+        "tot": 4,
+        "score": 4
+      },
+      {
+        "hole": 11,
+        "par": 4,
+        "round": 3,
+        "tot": 4,
+        "score": 4
+      },
+      {
+        "hole": 12,
+        "par": 3,
+        "round": 3,
+        "tot": 4,
+        "score": 3
+      },
+      {
+        "hole": 13,
+        "par": 5,
+        "round": 4,
+        "tot": 5,
+        "score": 6
+      },
+      {
+        "hole": 14,
+        "par": 4,
+        "round": 4,
+        "tot": 5,
+        "score": 4
+      },
+      {
+        "hole": 15,
+        "par": 5,
+        "round": 3,
+        "tot": 4,
+        "score": 4
+      },
+      {
+        "hole": 16,
+        "par": 3,
+        "round": 2,
+        "tot": 3,
+        "score": 2
+      },
+      {
+        "hole": 17,
+        "par": 4,
+        "round": 2,
+        "tot": 3,
+        "score": 4
+      },
+      {
+        "hole": 18,
+        "par": 4,
+        "round": 2,
+        "tot": 3,
+        "score": 4
+      }
+    ],
+    "outTotal": 39,
+    "inTotal": 35,
+    "total": 74
+  },
+  {
+    "playerId": 62,
+    "teeScores": [
+      {
+        "hole": 1,
+        "par": 4,
+        "round": 0,
+        "tot": 3,
+        "score": 4
+      },
+      {
+        "hole": 2,
+        "par": 5,
+        "round": 1,
+        "tot": 4,
+        "score": 6
+      },
+      {
+        "hole": 3,
+        "par": 4,
+        "round": 1,
+        "tot": 4,
+        "score": 4
+      },
+      {
+        "hole": 4,
+        "par": 3,
+        "round": 1,
+        "tot": 4,
+        "score": 3
+      },
+      {
+        "hole": 5,
+        "par": 4,
+        "round": 1,
+        "tot": 4,
+        "score": 4
+      },
+      {
+        "hole": 6,
+        "par": 3,
+        "round": 1,
+        "tot": 4,
+        "score": 3
+      },
+      {
+        "hole": 7,
+        "par": 4,
+        "round": 0,
+        "tot": 3,
+        "score": 3
+      },
+      {
+        "hole": 8,
+        "par": 5,
+        "round": -1,
+        "tot": 2,
+        "score": 4
+      },
+      {
+        "hole": 9,
+        "par": 4,
+        "round": -1,
+        "tot": 2,
+        "score": 4
+      },
+      {
+        "hole": 10,
+        "par": 4,
+        "round": -2,
+        "tot": 1,
+        "score": 3
+      },
+      {
+        "hole": 11,
+        "par": 4,
+        "round": -2,
+        "tot": 1,
+        "score": 4
+      },
+      {
+        "hole": 12,
+        "par": 3,
+        "round": -1,
+        "tot": 2,
+        "score": 4
+      },
+      {
+        "hole": 13,
+        "par": 5,
+        "round": -2,
+        "tot": 1,
+        "score": 4
+      },
+      {
+        "hole": 14,
+        "par": 4,
+        "round": -1,
+        "tot": 2,
+        "score": 5
+      },
+      {
+        "hole": 15,
+        "par": 5,
+        "round": -2,
+        "tot": 1,
+        "score": 4
+      },
+      {
+        "hole": 16,
+        "par": 3,
+        "round": -2,
+        "tot": 1,
+        "score": 3
+      },
+      {
+        "hole": 17,
+        "par": 4,
+        "round": -2,
+        "tot": 1,
+        "score": 4
+      },
+      {
+        "hole": 18,
+        "par": 4,
+        "round": -2,
+        "tot": 1,
+        "score": 4
+      }
+    ],
+    "outTotal": 35,
+    "inTotal": 35,
+    "total": 70
+  },
+  {
+    "playerId": 63,
+    "teeScores": [
+      {
+        "hole": 1,
+        "par": 4,
+        "round": 0,
+        "tot": 3,
+        "score": 4
+      },
+      {
+        "hole": 2,
+        "par": 5,
+        "round": -1,
+        "tot": 2,
+        "score": 4
+      },
+      {
+        "hole": 3,
+        "par": 4,
+        "round": -1,
+        "tot": 2,
+        "score": 4
+      },
+      {
+        "hole": 4,
+        "par": 3,
+        "round": -1,
+        "tot": 2,
+        "score": 3
+      },
+      {
+        "hole": 5,
+        "par": 4,
+        "round": 1,
+        "tot": 4,
+        "score": 6
+      },
+      {
+        "hole": 6,
+        "par": 3,
+        "round": 1,
+        "tot": 4,
+        "score": 3
+      },
+      {
+        "hole": 7,
+        "par": 4,
+        "round": 1,
+        "tot": 4,
+        "score": 4
+      },
+      {
+        "hole": 8,
+        "par": 5,
+        "round": 1,
+        "tot": 4,
+        "score": 5
+      },
+      {
+        "hole": 9,
+        "par": 4,
+        "round": 2,
+        "tot": 5,
+        "score": 5
+      },
+      {
+        "hole": 10,
+        "par": 4,
+        "round": 2,
+        "tot": 5,
+        "score": 4
+      },
+      {
+        "hole": 11,
+        "par": 4,
+        "round": 3,
+        "tot": 6,
+        "score": 5
+      },
+      {
+        "hole": 12,
+        "par": 3,
+        "round": 3,
+        "tot": 6,
+        "score": 3
+      },
+      {
+        "hole": 13,
+        "par": 5,
+        "round": 2,
+        "tot": 5,
+        "score": 4
+      },
+      {
+        "hole": 14,
+        "par": 4,
+        "round": 2,
+        "tot": 5,
+        "score": 4
+      },
+      {
+        "hole": 15,
+        "par": 5,
+        "round": 1,
+        "tot": 4,
+        "score": 4
+      },
+      {
+        "hole": 16,
+        "par": 3,
+        "round": 1,
+        "tot": 4,
+        "score": 3
+      },
+      {
+        "hole": 17,
+        "par": 4,
+        "round": 1,
+        "tot": 4,
+        "score": 4
+      },
+      {
+        "hole": 18,
+        "par": 4,
+        "round": 0,
+        "tot": 3,
+        "score": 3
+      }
+    ],
+    "outTotal": 38,
+    "inTotal": 34,
+    "total": 72
+  },
+  {
+    "playerId": 64,
+    "teeScores": [
+      {
+        "hole": 1,
+        "par": 4,
+        "round": 0,
+        "tot": 0,
+        "score": 4
+      },
+      {
+        "hole": 2,
+        "par": 5,
+        "round": -1,
+        "tot": -1,
+        "score": 4
+      },
+      {
+        "hole": 3,
+        "par": 4,
+        "round": -1,
+        "tot": -1,
+        "score": 4
+      },
+      {
+        "hole": 4,
+        "par": 3,
+        "round": -1,
+        "tot": -1,
+        "score": 3
+      },
+      {
+        "hole": 5,
+        "par": 4,
+        "round": -1,
+        "tot": -1,
+        "score": 4
+      },
+      {
+        "hole": 6,
+        "par": 3,
+        "round": -1,
+        "tot": -1,
+        "score": 3
+      },
+      {
+        "hole": 7,
+        "par": 4,
+        "round": 0,
+        "tot": 0,
+        "score": 5
+      },
+      {
+        "hole": 8,
+        "par": 5,
+        "round": 0,
+        "tot": 0,
+        "score": 5
+      },
+      {
+        "hole": 9,
+        "par": 4,
+        "round": 1,
+        "tot": 1,
+        "score": 5
+      },
+      {
+        "hole": 10,
+        "par": 4,
+        "round": 1,
+        "tot": 1,
+        "score": 4
+      },
+      {
+        "hole": 11,
+        "par": 4,
+        "round": 3,
+        "tot": 3,
+        "score": 6
+      },
+      {
+        "hole": 12,
+        "par": 3,
+        "round": 3,
+        "tot": 3,
+        "score": 3
+      },
+      {
+        "hole": 13,
+        "par": 5,
+        "round": 2,
+        "tot": 2,
+        "score": 4
+      },
+      {
+        "hole": 14,
+        "par": 4,
+        "round": 2,
+        "tot": 2,
+        "score": 4
+      },
+      {
+        "hole": 15,
+        "par": 5,
+        "round": 3,
+        "tot": 3,
+        "score": 6
+      },
+      {
+        "hole": 16,
+        "par": 3,
+        "round": 3,
+        "tot": 3,
+        "score": 3
+      },
+      {
+        "hole": 17,
+        "par": 4,
+        "round": 2,
+        "tot": 2,
+        "score": 3
+      },
+      {
+        "hole": 18,
+        "par": 4,
+        "round": 3,
+        "tot": 3,
+        "score": 5
+      }
+    ],
+    "outTotal": 37,
+    "inTotal": 38,
+    "total": 75
+  },
+  {
+    "playerId": 65,
+    "teeScores": [
+      {
+        "hole": 1,
+        "par": 4,
+        "round": -1,
+        "tot": -2,
+        "score": 3
+      },
+      {
+        "hole": 2,
+        "par": 5,
+        "round": -1,
+        "tot": -2,
+        "score": 5
+      },
+      {
+        "hole": 3,
+        "par": 4,
+        "round": -1,
+        "tot": -2,
+        "score": 4
+      },
+      {
+        "hole": 4,
+        "par": 3,
+        "round": -1,
+        "tot": -2,
+        "score": 3
+      },
+      {
+        "hole": 5,
+        "par": 4,
+        "round": 0,
+        "tot": -1,
+        "score": 5
+      },
+      {
+        "hole": 6,
+        "par": 3,
+        "round": 1,
+        "tot": 0,
+        "score": 4
+      },
+      {
+        "hole": 7,
+        "par": 4,
+        "round": 1,
+        "tot": 0,
+        "score": 4
+      },
+      {
+        "hole": 8,
+        "par": 5,
+        "round": 1,
+        "tot": 0,
+        "score": 5
+      },
+      {
+        "hole": 9,
+        "par": 4,
+        "round": 2,
+        "tot": 1,
+        "score": 5
+      },
+      {
+        "hole": 10,
+        "par": 4,
+        "round": 3,
+        "tot": 2,
+        "score": 5
+      },
+      {
+        "hole": 11,
+        "par": 4,
+        "round": 3,
+        "tot": 2,
+        "score": 4
+      },
+      {
+        "hole": 12,
+        "par": 3,
+        "round": 3,
+        "tot": 2,
+        "score": 3
+      },
+      {
+        "hole": 13,
+        "par": 5,
+        "round": 3,
+        "tot": 2,
+        "score": 5
+      },
+      {
+        "hole": 14,
+        "par": 4,
+        "round": 2,
+        "tot": 1,
+        "score": 3
+      },
+      {
+        "hole": 15,
+        "par": 5,
+        "round": 1,
+        "tot": 0,
+        "score": 4
+      },
+      {
+        "hole": 16,
+        "par": 3,
+        "round": 1,
+        "tot": 0,
+        "score": 3
+      },
+      {
+        "hole": 17,
+        "par": 4,
+        "round": 1,
+        "tot": 0,
+        "score": 4
+      },
+      {
+        "hole": 18,
+        "par": 4,
+        "round": 0,
+        "tot": -1,
+        "score": 3
+      }
+    ],
+    "outTotal": 38,
+    "inTotal": 34,
+    "total": 72
+  },
+  {
+    "playerId": 66,
+    "teeScores": [
+      {
+        "hole": 1,
+        "par": 4,
+        "round": 1,
+        "tot": -1,
+        "score": 5
+      },
+      {
+        "hole": 2,
+        "par": 5,
+        "round": 1,
+        "tot": -1,
+        "score": 5
+      },
+      {
+        "hole": 3,
+        "par": 4,
+        "round": 2,
+        "tot": 0,
+        "score": 5
+      },
+      {
+        "hole": 4,
+        "par": 3,
+        "round": 2,
+        "tot": 0,
+        "score": 3
+      },
+      {
+        "hole": 5,
+        "par": 4,
+        "round": 2,
+        "tot": 0,
+        "score": 4
+      },
+      {
+        "hole": 6,
+        "par": 3,
+        "round": 2,
+        "tot": 0,
+        "score": 3
+      },
+      {
+        "hole": 7,
+        "par": 4,
+        "round": 2,
+        "tot": 0,
+        "score": 4
+      },
+      {
+        "hole": 8,
+        "par": 5,
+        "round": 2,
+        "tot": 0,
+        "score": 5
+      },
+      {
+        "hole": 9,
+        "par": 4,
+        "round": 2,
+        "tot": 0,
+        "score": 4
+      },
+      {
+        "hole": 10,
+        "par": 4,
+        "round": 2,
+        "tot": 0,
+        "score": 4
+      },
+      {
+        "hole": 11,
+        "par": 4,
+        "round": 2,
+        "tot": 0,
+        "score": 4
+      },
+      {
+        "hole": 12,
+        "par": 3,
+        "round": 2,
+        "tot": 0,
+        "score": 3
+      },
+      {
+        "hole": 13,
+        "par": 5,
+        "round": 1,
+        "tot": -1,
+        "score": 4
+      },
+      {
+        "hole": 14,
+        "par": 4,
+        "round": 1,
+        "tot": -1,
+        "score": 4
+      },
+      {
+        "hole": 15,
+        "par": 5,
+        "round": 1,
+        "tot": -1,
+        "score": 5
+      },
+      {
+        "hole": 16,
+        "par": 3,
+        "round": 0,
+        "tot": -2,
+        "score": 2
+      },
+      {
+        "hole": 17,
+        "par": 4,
+        "round": 0,
+        "tot": -2,
+        "score": 4
+      },
+      {
+        "hole": 18,
+        "par": 4,
+        "round": 0,
+        "tot": -2,
+        "score": 4
+      }
+    ],
+    "outTotal": 38,
+    "inTotal": 34,
+    "total": 72
+  },
+  {
+    "playerId": 67,
+    "teeScores": [
+      {
+        "hole": 1,
+        "par": 4,
+        "round": 0,
+        "tot": 4,
+        "score": 4
+      },
+      {
+        "hole": 2,
+        "par": 5,
+        "round": 0,
+        "tot": 4,
+        "score": 5
+      },
+      {
+        "hole": 3,
+        "par": 4,
+        "round": 0,
+        "tot": 4,
+        "score": 4
+      },
+      {
+        "hole": 4,
+        "par": 3,
+        "round": 0,
+        "tot": 4,
+        "score": 3
+      },
+      {
+        "hole": 5,
+        "par": 4,
+        "round": 0,
+        "tot": 4,
+        "score": 4
+      },
+      {
+        "hole": 6,
+        "par": 3,
+        "round": 0,
+        "tot": 4,
+        "score": 3
+      },
+      {
+        "hole": 7,
+        "par": 4,
+        "round": 0,
+        "tot": 4,
+        "score": 4
+      },
+      {
+        "hole": 8,
+        "par": 5,
+        "round": 0,
+        "tot": 4,
+        "score": 5
+      },
+      {
+        "hole": 9,
+        "par": 4,
+        "round": 1,
+        "tot": 5,
+        "score": 5
+      },
+      {
+        "hole": 10,
+        "par": 4,
+        "round": 0,
+        "tot": 4,
+        "score": 3
+      },
+      {
+        "hole": 11,
+        "par": 4,
+        "round": 0,
+        "tot": 4,
+        "score": 4
+      },
+      {
+        "hole": 12,
+        "par": 3,
+        "round": -1,
+        "tot": 3,
+        "score": 2
+      },
+      {
+        "hole": 13,
+        "par": 5,
+        "round": -2,
+        "tot": 2,
+        "score": 4
+      },
+      {
+        "hole": 14,
+        "par": 4,
+        "round": -2,
+        "tot": 2,
+        "score": 4
+      },
+      {
+        "hole": 15,
+        "par": 5,
+        "round": -3,
+        "tot": 1,
+        "score": 4
+      },
+      {
+        "hole": 16,
+        "par": 3,
+        "round": -2,
+        "tot": 2,
+        "score": 4
+      },
+      {
+        "hole": 17,
+        "par": 4,
+        "round": 0,
+        "tot": 4,
+        "score": 6
+      },
+      {
+        "hole": 18,
+        "par": 4,
+        "round": 0,
+        "tot": 4,
+        "score": 4
+      }
+    ],
+    "outTotal": 37,
+    "inTotal": 35,
+    "total": 72
+  },
+  {
+    "playerId": 68,
+    "teeScores": [
+      {
+        "hole": 1,
+        "par": 4,
+        "round": -1,
+        "tot": 2,
+        "score": 3
+      },
+      {
+        "hole": 2,
+        "par": 5,
+        "round": -2,
+        "tot": 1,
+        "score": 4
+      },
+      {
+        "hole": 3,
+        "par": 4,
+        "round": -1,
+        "tot": 2,
+        "score": 5
+      },
+      {
+        "hole": 4,
+        "par": 3,
+        "round": -1,
+        "tot": 2,
+        "score": 3
+      },
+      {
+        "hole": 5,
+        "par": 4,
+        "round": 0,
+        "tot": 3,
+        "score": 5
+      },
+      {
+        "hole": 6,
+        "par": 3,
+        "round": 0,
+        "tot": 3,
+        "score": 3
+      },
+      {
+        "hole": 7,
+        "par": 4,
+        "round": 0,
+        "tot": 3,
+        "score": 4
+      },
+      {
+        "hole": 8,
+        "par": 5,
+        "round": 0,
+        "tot": 3,
+        "score": 5
+      },
+      {
+        "hole": 9,
+        "par": 4,
+        "round": 0,
+        "tot": 3,
+        "score": 4
+      },
+      {
+        "hole": 10,
+        "par": 4,
+        "round": 0,
+        "tot": 3,
+        "score": 4
+      },
+      {
+        "hole": 11,
+        "par": 4,
+        "round": 1,
+        "tot": 4,
+        "score": 5
+      },
+      {
+        "hole": 12,
+        "par": 3,
+        "round": 0,
+        "tot": 3,
+        "score": 2
+      },
+      {
+        "hole": 13,
+        "par": 5,
+        "round": -2,
+        "tot": 1,
+        "score": 3
+      },
+      {
+        "hole": 14,
+        "par": 4,
+        "round": -2,
+        "tot": 1,
+        "score": 4
+      },
+      {
+        "hole": 15,
+        "par": 5,
+        "round": -1,
+        "tot": 2,
+        "score": 6
+      },
+      {
+        "hole": 16,
+        "par": 3,
+        "round": -1,
+        "tot": 2,
+        "score": 3
+      },
+      {
+        "hole": 17,
+        "par": 4,
+        "round": 0,
+        "tot": 3,
+        "score": 5
+      },
+      {
+        "hole": 18,
+        "par": 4,
+        "round": 1,
+        "tot": 4,
+        "score": 5
+      }
+    ],
+    "outTotal": 36,
+    "inTotal": 37,
+    "total": 73
+  },
+  {
+    "playerId": 69,
+    "teeScores": [
+      {
+        "hole": 1,
+        "par": 4,
+        "round": 0,
+        "tot": 0,
+        "score": 4
+      },
+      {
+        "hole": 2,
+        "par": 5,
+        "round": 1,
+        "tot": 1,
+        "score": 6
+      },
+      {
+        "hole": 3,
+        "par": 4,
+        "round": 1,
+        "tot": 1,
+        "score": 4
+      },
+      {
+        "hole": 4,
+        "par": 3,
+        "round": 2,
+        "tot": 2,
+        "score": 4
+      },
+      {
+        "hole": 5,
+        "par": 4,
+        "round": 2,
+        "tot": 2,
+        "score": 4
+      },
+      {
+        "hole": 6,
+        "par": 3,
+        "round": 2,
+        "tot": 2,
+        "score": 3
+      },
+      {
+        "hole": 7,
+        "par": 4,
+        "round": 2,
+        "tot": 2,
+        "score": 4
+      },
+      {
+        "hole": 8,
+        "par": 5,
+        "round": 2,
+        "tot": 2,
+        "score": 5
+      },
+      {
+        "hole": 9,
+        "par": 4,
+        "round": 3,
+        "tot": 3,
+        "score": 5
+      },
+      {
+        "hole": 10,
+        "par": 4,
+        "round": 3,
+        "tot": 3,
+        "score": 4
+      },
+      {
+        "hole": 11,
+        "par": 4,
+        "round": 4,
+        "tot": 4,
+        "score": 5
+      },
+      {
+        "hole": 12,
+        "par": 3,
+        "round": 5,
+        "tot": 5,
+        "score": 4
+      },
+      {
+        "hole": 13,
+        "par": 5,
+        "round": 4,
+        "tot": 4,
+        "score": 4
+      },
+      {
+        "hole": 14,
+        "par": 4,
+        "round": 3,
+        "tot": 3,
+        "score": 3
+      },
+      {
+        "hole": 15,
+        "par": 5,
+        "round": 3,
+        "tot": 3,
+        "score": 5
+      },
+      {
+        "hole": 16,
+        "par": 3,
+        "round": 3,
+        "tot": 3,
+        "score": 3
+      },
+      {
+        "hole": 17,
+        "par": 4,
+        "round": 4,
+        "tot": 4,
+        "score": 5
+      },
+      {
+        "hole": 18,
+        "par": 4,
+        "round": 4,
+        "tot": 4,
+        "score": 4
+      }
+    ],
+    "outTotal": 39,
+    "inTotal": 37,
+    "total": 76
+  },
+  {
+    "playerId": 70,
+    "teeScores": [
+      {
+        "hole": 1,
+        "par": 4,
+        "round": 0,
+        "tot": 3,
+        "score": 4
+      },
+      {
+        "hole": 2,
+        "par": 5,
+        "round": -1,
+        "tot": 2,
+        "score": 4
+      },
+      {
+        "hole": 3,
+        "par": 4,
+        "round": 0,
+        "tot": 3,
+        "score": 5
+      },
+      {
+        "hole": 4,
+        "par": 3,
+        "round": 0,
+        "tot": 3,
+        "score": 3
+      },
+      {
+        "hole": 5,
+        "par": 4,
+        "round": 1,
+        "tot": 4,
+        "score": 5
+      },
+      {
+        "hole": 6,
+        "par": 3,
+        "round": 2,
+        "tot": 5,
+        "score": 4
+      },
+      {
+        "hole": 7,
+        "par": 4,
+        "round": 1,
+        "tot": 4,
+        "score": 3
+      },
+      {
+        "hole": 8,
+        "par": 5,
+        "round": 1,
+        "tot": 4,
+        "score": 5
+      },
+      {
+        "hole": 9,
+        "par": 4,
+        "round": 2,
+        "tot": 5,
+        "score": 5
+      },
+      {
+        "hole": 10,
+        "par": 4,
+        "round": 2,
+        "tot": 5,
+        "score": 4
+      },
+      {
+        "hole": 11,
+        "par": 4,
+        "round": 2,
+        "tot": 5,
+        "score": 4
+      },
+      {
+        "hole": 12,
+        "par": 3,
+        "round": 2,
+        "tot": 5,
+        "score": 3
+      },
+      {
+        "hole": 13,
+        "par": 5,
+        "round": 1,
+        "tot": 4,
+        "score": 4
+      },
+      {
+        "hole": 14,
+        "par": 4,
+        "round": 0,
+        "tot": 3,
+        "score": 3
+      },
+      {
+        "hole": 15,
+        "par": 5,
+        "round": 0,
+        "tot": 3,
+        "score": 5
+      },
+      {
+        "hole": 16,
+        "par": 3,
+        "round": 0,
+        "tot": 3,
+        "score": 3
+      },
+      {
+        "hole": 17,
+        "par": 4,
+        "round": 0,
+        "tot": 3,
+        "score": 4
+      },
+      {
+        "hole": 18,
+        "par": 4,
+        "round": 1,
+        "tot": 4,
+        "score": 5
+      }
+    ],
+    "outTotal": 38,
+    "inTotal": 35,
+    "total": 73
+  },
+  {
+    "playerId": 71,
+    "teeScores": [
+      {
+        "hole": 1,
+        "par": 4,
+        "round": 0,
+        "tot": 1,
+        "score": 4
+      },
+      {
+        "hole": 2,
+        "par": 5,
+        "round": 0,
+        "tot": 1,
+        "score": 5
+      },
+      {
+        "hole": 3,
+        "par": 4,
+        "round": 1,
+        "tot": 2,
+        "score": 5
+      },
+      {
+        "hole": 4,
+        "par": 3,
+        "round": 1,
+        "tot": 2,
+        "score": 3
+      },
+      {
+        "hole": 5,
+        "par": 4,
+        "round": 2,
+        "tot": 3,
+        "score": 5
+      },
+      {
+        "hole": 6,
+        "par": 3,
+        "round": 2,
+        "tot": 3,
+        "score": 3
+      },
+      {
+        "hole": 7,
+        "par": 4,
+        "round": 2,
+        "tot": 3,
+        "score": 4
+      },
+      {
+        "hole": 8,
+        "par": 5,
+        "round": 2,
+        "tot": 3,
+        "score": 5
+      },
+      {
+        "hole": 9,
+        "par": 4,
+        "round": 2,
+        "tot": 3,
+        "score": 4
+      },
+      {
+        "hole": 10,
+        "par": 4,
+        "round": 3,
+        "tot": 4,
+        "score": 5
+      },
+      {
+        "hole": 11,
+        "par": 4,
+        "round": 3,
+        "tot": 4,
+        "score": 4
+      },
+      {
+        "hole": 12,
+        "par": 3,
+        "round": 3,
+        "tot": 4,
+        "score": 3
+      },
+      {
+        "hole": 13,
+        "par": 5,
+        "round": 2,
+        "tot": 3,
+        "score": 4
+      },
+      {
+        "hole": 14,
+        "par": 4,
+        "round": 3,
+        "tot": 4,
+        "score": 5
+      },
+      {
+        "hole": 15,
+        "par": 5,
+        "round": 2,
+        "tot": 3,
+        "score": 4
+      },
+      {
+        "hole": 16,
+        "par": 3,
+        "round": 2,
+        "tot": 3,
+        "score": 3
+      },
+      {
+        "hole": 17,
+        "par": 4,
+        "round": 2,
+        "tot": 3,
+        "score": 4
+      },
+      {
+        "hole": 18,
+        "par": 4,
+        "round": 3,
+        "tot": 4,
+        "score": 5
+      }
+    ],
+    "outTotal": 38,
+    "inTotal": 37,
+    "total": 75
+  },
+  {
+    "playerId": 72,
+    "teeScores": [
+      {
+        "hole": 1,
+        "par": 4,
+        "round": 0,
+        "tot": 1,
+        "score": 4
+      },
+      {
+        "hole": 2,
+        "par": 5,
+        "round": -1,
+        "tot": 0,
+        "score": 4
+      },
+      {
+        "hole": 3,
+        "par": 4,
+        "round": 0,
+        "tot": 1,
+        "score": 5
+      },
+      {
+        "hole": 4,
+        "par": 3,
+        "round": 0,
+        "tot": 1,
+        "score": 3
+      },
+      {
+        "hole": 5,
+        "par": 4,
+        "round": 2,
+        "tot": 3,
+        "score": 6
+      },
+      {
+        "hole": 6,
+        "par": 3,
+        "round": 2,
+        "tot": 3,
+        "score": 3
+      },
+      {
+        "hole": 7,
+        "par": 4,
+        "round": 2,
+        "tot": 3,
+        "score": 4
+      },
+      {
+        "hole": 8,
+        "par": 5,
+        "round": 3,
+        "tot": 4,
+        "score": 6
+      },
+      {
+        "hole": 9,
+        "par": 4,
+        "round": 4,
+        "tot": 5,
+        "score": 5
+      },
+      {
+        "hole": 10,
+        "par": 4,
+        "round": 4,
+        "tot": 5,
+        "score": 4
+      },
+      {
+        "hole": 11,
+        "par": 4,
+        "round": 4,
+        "tot": 5,
+        "score": 4
+      },
+      {
+        "hole": 12,
+        "par": 3,
+        "round": 3,
+        "tot": 4,
+        "score": 2
+      },
+      {
+        "hole": 13,
+        "par": 5,
+        "round": 2,
+        "tot": 3,
+        "score": 4
+      },
+      {
+        "hole": 14,
+        "par": 4,
+        "round": 3,
+        "tot": 4,
+        "score": 5
+      },
+      {
+        "hole": 15,
+        "par": 5,
+        "round": 3,
+        "tot": 4,
+        "score": 5
+      },
+      {
+        "hole": 16,
+        "par": 3,
+        "round": 3,
+        "tot": 4,
+        "score": 3
+      },
+      {
+        "hole": 17,
+        "par": 4,
+        "round": 3,
+        "tot": 4,
+        "score": 4
+      },
+      {
+        "hole": 18,
+        "par": 4,
+        "round": 3,
+        "tot": 4,
+        "score": 4
+      }
+    ],
+    "outTotal": 40,
+    "inTotal": 35,
+    "total": 75
+  },
+  {
+    "playerId": 73,
+    "teeScores": [
+      {
+        "hole": 1,
+        "par": 4,
+        "round": 0,
+        "tot": 3,
+        "score": 4
+      },
+      {
+        "hole": 2,
+        "par": 5,
+        "round": 2,
+        "tot": 5,
+        "score": 7
+      },
+      {
+        "hole": 3,
+        "par": 4,
+        "round": 2,
+        "tot": 5,
+        "score": 4
+      },
+      {
+        "hole": 4,
+        "par": 3,
+        "round": 2,
+        "tot": 5,
+        "score": 3
+      },
+      {
+        "hole": 5,
+        "par": 4,
+        "round": 2,
+        "tot": 5,
+        "score": 4
+      },
+      {
+        "hole": 6,
+        "par": 3,
+        "round": 2,
+        "tot": 5,
+        "score": 3
+      },
+      {
+        "hole": 7,
+        "par": 4,
+        "round": 2,
+        "tot": 5,
+        "score": 4
+      },
+      {
+        "hole": 8,
+        "par": 5,
+        "round": 2,
+        "tot": 5,
+        "score": 5
+      },
+      {
+        "hole": 9,
+        "par": 4,
+        "round": 2,
+        "tot": 5,
+        "score": 4
+      },
+      {
+        "hole": 10,
+        "par": 4,
+        "round": 3,
+        "tot": 6,
+        "score": 5
+      },
+      {
+        "hole": 11,
+        "par": 4,
+        "round": 3,
+        "tot": 6,
+        "score": 4
+      },
+      {
+        "hole": 12,
+        "par": 3,
+        "round": 3,
+        "tot": 6,
+        "score": 3
+      },
+      {
+        "hole": 13,
+        "par": 5,
+        "round": 2,
+        "tot": 5,
+        "score": 4
+      },
+      {
+        "hole": 14,
+        "par": 4,
+        "round": 2,
+        "tot": 5,
+        "score": 4
+      },
+      {
+        "hole": 15,
+        "par": 5,
+        "round": 2,
+        "tot": 5,
+        "score": 5
+      },
+      {
+        "hole": 16,
+        "par": 3,
+        "round": 3,
+        "tot": 6,
+        "score": 4
+      },
+      {
+        "hole": 17,
+        "par": 4,
+        "round": 2,
+        "tot": 5,
+        "score": 3
+      },
+      {
+        "hole": 18,
+        "par": 4,
+        "round": 2,
+        "tot": 5,
+        "score": 4
+      }
+    ],
+    "outTotal": 38,
+    "inTotal": 36,
+    "total": 74
+  },
+  {
+    "playerId": 74,
+    "teeScores": [
+      {
+        "hole": 1,
+        "par": 4,
+        "round": 0,
+        "tot": 3,
+        "score": 4
+      },
+      {
+        "hole": 2,
+        "par": 5,
+        "round": 0,
+        "tot": 3,
+        "score": 5
+      },
+      {
+        "hole": 3,
+        "par": 4,
+        "round": -1,
+        "tot": 2,
+        "score": 3
+      },
+      {
+        "hole": 4,
+        "par": 3,
+        "round": -1,
+        "tot": 2,
+        "score": 3
+      },
+      {
+        "hole": 5,
+        "par": 4,
+        "round": 0,
+        "tot": 3,
+        "score": 5
+      },
+      {
+        "hole": 6,
+        "par": 3,
+        "round": -1,
+        "tot": 2,
+        "score": 2
+      },
+      {
+        "hole": 7,
+        "par": 4,
+        "round": -1,
+        "tot": 2,
+        "score": 4
+      },
+      {
+        "hole": 8,
+        "par": 5,
+        "round": -1,
+        "tot": 2,
+        "score": 5
+      },
+      {
+        "hole": 9,
+        "par": 4,
+        "round": -1,
+        "tot": 2,
+        "score": 4
+      },
+      {
+        "hole": 10,
+        "par": 4,
+        "round": -1,
+        "tot": 2,
+        "score": 4
+      },
+      {
+        "hole": 11,
+        "par": 4,
+        "round": -1,
+        "tot": 2,
+        "score": 4
+      },
+      {
+        "hole": 12,
+        "par": 3,
+        "round": -1,
+        "tot": 2,
+        "score": 3
+      },
+      {
+        "hole": 13,
+        "par": 5,
+        "round": -1,
+        "tot": 2,
+        "score": 5
+      },
+      {
+        "hole": 14,
+        "par": 4,
+        "round": 1,
+        "tot": 4,
+        "score": 6
+      },
+      {
+        "hole": 15,
+        "par": 5,
+        "round": 0,
+        "tot": 3,
+        "score": 4
+      },
+      {
+        "hole": 16,
+        "par": 3,
+        "round": 0,
+        "tot": 3,
+        "score": 3
+      },
+      {
+        "hole": 17,
+        "par": 4,
+        "round": 1,
+        "tot": 4,
+        "score": 5
+      },
+      {
+        "hole": 18,
+        "par": 4,
+        "round": 2,
+        "tot": 5,
+        "score": 5
+      }
+    ],
+    "outTotal": 35,
+    "inTotal": 39,
+    "total": 74
+  },
+  {
+    "playerId": 75,
+    "teeScores": [
+      {
+        "hole": 1,
+        "par": 4,
+        "round": 0,
+        "tot": 6,
+        "score": 4
+      },
+      {
+        "hole": 2,
+        "par": 5,
+        "round": 0,
+        "tot": 6,
+        "score": 5
+      },
+      {
+        "hole": 3,
+        "par": 4,
+        "round": -1,
+        "tot": 5,
+        "score": 3
+      },
+      {
+        "hole": 4,
+        "par": 3,
+        "round": -1,
+        "tot": 5,
+        "score": 3
+      },
+      {
+        "hole": 5,
+        "par": 4,
+        "round": -1,
+        "tot": 5,
+        "score": 4
+      },
+      {
+        "hole": 6,
+        "par": 3,
+        "round": -1,
+        "tot": 5,
+        "score": 3
+      },
+      {
+        "hole": 7,
+        "par": 4,
+        "round": 0,
+        "tot": 6,
+        "score": 5
+      },
+      {
+        "hole": 8,
+        "par": 5,
+        "round": 0,
+        "tot": 6,
+        "score": 5
+      },
+      {
+        "hole": 9,
+        "par": 4,
+        "round": -1,
+        "tot": 5,
+        "score": 3
+      },
+      {
+        "hole": 10,
+        "par": 4,
+        "round": -1,
+        "tot": 5,
+        "score": 4
+      },
+      {
+        "hole": 11,
+        "par": 4,
+        "round": -1,
+        "tot": 5,
+        "score": 4
+      },
+      {
+        "hole": 12,
+        "par": 3,
+        "round": 0,
+        "tot": 6,
+        "score": 4
+      },
+      {
+        "hole": 13,
+        "par": 5,
+        "round": -1,
+        "tot": 5,
+        "score": 4
+      },
+      {
+        "hole": 14,
+        "par": 4,
+        "round": -1,
+        "tot": 5,
+        "score": 4
+      },
+      {
+        "hole": 15,
+        "par": 5,
+        "round": -1,
+        "tot": 5,
+        "score": 5
+      },
+      {
+        "hole": 16,
+        "par": 3,
+        "round": -1,
+        "tot": 5,
+        "score": 3
+      },
+      {
+        "hole": 17,
+        "par": 4,
+        "round": -1,
+        "tot": 5,
+        "score": 4
+      },
+      {
+        "hole": 18,
+        "par": 4,
+        "round": -1,
+        "tot": 5,
+        "score": 4
+      }
+    ],
+    "outTotal": 35,
+    "inTotal": 36,
+    "total": 71
+  },
+  {
+    "playerId": 76,
+    "teeScores": [
+      {
+        "hole": 1,
+        "par": 4,
+        "round": 1,
+        "tot": 6,
+        "score": 5
+      },
+      {
+        "hole": 2,
+        "par": 5,
+        "round": 0,
+        "tot": 5,
+        "score": 4
+      },
+      {
+        "hole": 3,
+        "par": 4,
+        "round": 0,
+        "tot": 5,
+        "score": 4
+      },
+      {
+        "hole": 4,
+        "par": 3,
+        "round": 1,
+        "tot": 6,
+        "score": 4
+      },
+      {
+        "hole": 5,
+        "par": 4,
+        "round": 2,
+        "tot": 7,
+        "score": 5
+      },
+      {
+        "hole": 6,
+        "par": 3,
+        "round": 2,
+        "tot": 7,
+        "score": 3
+      },
+      {
+        "hole": 7,
+        "par": 4,
+        "round": 2,
+        "tot": 7,
+        "score": 4
+      },
+      {
+        "hole": 8,
+        "par": 5,
+        "round": 2,
+        "tot": 7,
+        "score": 5
+      },
+      {
+        "hole": 9,
+        "par": 4,
+        "round": 2,
+        "tot": 7,
+        "score": 4
+      },
+      {
+        "hole": 10,
+        "par": 4,
+        "round": 2,
+        "tot": 7,
+        "score": 4
+      },
+      {
+        "hole": 11,
+        "par": 4,
+        "round": 2,
+        "tot": 7,
+        "score": 4
+      },
+      {
+        "hole": 12,
+        "par": 3,
+        "round": 2,
+        "tot": 7,
+        "score": 3
+      },
+      {
+        "hole": 13,
+        "par": 5,
+        "round": 1,
+        "tot": 6,
+        "score": 4
+      },
+      {
+        "hole": 14,
+        "par": 4,
+        "round": 1,
+        "tot": 6,
+        "score": 4
+      },
+      {
+        "hole": 15,
+        "par": 5,
+        "round": 0,
+        "tot": 5,
+        "score": 4
+      },
+      {
+        "hole": 16,
+        "par": 3,
+        "round": 0,
+        "tot": 5,
+        "score": 3
+      },
+      {
+        "hole": 17,
+        "par": 4,
+        "round": 0,
+        "tot": 5,
+        "score": 4
+      },
+      {
+        "hole": 18,
+        "par": 4,
+        "round": 0,
+        "tot": 5,
+        "score": 4
+      }
+    ],
+    "outTotal": 38,
+    "inTotal": 34,
+    "total": 72
+  },
+  {
+    "playerId": 77,
+    "teeScores": [
+      {
+        "hole": 1,
+        "par": 4,
+        "round": -1,
+        "tot": 3,
+        "score": 3
+      },
+      {
+        "hole": 2,
+        "par": 5,
+        "round": -1,
+        "tot": 3,
+        "score": 5
+      },
+      {
+        "hole": 3,
+        "par": 4,
+        "round": -1,
+        "tot": 3,
+        "score": 4
+      },
+      {
+        "hole": 4,
+        "par": 3,
+        "round": -1,
+        "tot": 3,
+        "score": 3
+      },
+      {
+        "hole": 5,
+        "par": 4,
+        "round": 0,
+        "tot": 4,
+        "score": 5
+      },
+      {
+        "hole": 6,
+        "par": 3,
+        "round": 0,
+        "tot": 4,
+        "score": 3
+      },
+      {
+        "hole": 7,
+        "par": 4,
+        "round": 0,
+        "tot": 4,
+        "score": 4
+      },
+      {
+        "hole": 8,
+        "par": 5,
+        "round": 0,
+        "tot": 4,
+        "score": 5
+      },
+      {
+        "hole": 9,
+        "par": 4,
+        "round": 0,
+        "tot": 4,
+        "score": 4
+      },
+      {
+        "hole": 10,
+        "par": 4,
+        "round": 1,
+        "tot": 5,
+        "score": 5
+      },
+      {
+        "hole": 11,
+        "par": 4,
+        "round": 1,
+        "tot": 5,
+        "score": 4
+      },
+      {
+        "hole": 12,
+        "par": 3,
+        "round": 2,
+        "tot": 6,
+        "score": 4
+      },
+      {
+        "hole": 13,
+        "par": 5,
+        "round": 1,
+        "tot": 5,
+        "score": 4
+      },
+      {
+        "hole": 14,
+        "par": 4,
+        "round": 2,
+        "tot": 6,
+        "score": 5
+      },
+      {
+        "hole": 15,
+        "par": 5,
+        "round": 2,
+        "tot": 6,
+        "score": 5
+      },
+      {
+        "hole": 16,
+        "par": 3,
+        "round": 2,
+        "tot": 6,
+        "score": 3
+      },
+      {
+        "hole": 17,
+        "par": 4,
+        "round": 2,
+        "tot": 6,
+        "score": 4
+      },
+      {
+        "hole": 18,
+        "par": 4,
+        "round": 2,
+        "tot": 6,
+        "score": 4
+      }
+    ],
+    "outTotal": 36,
+    "inTotal": 38,
+    "total": 74
+  },
+  {
+    "playerId": 78,
+    "teeScores": [
+      {
+        "hole": 1,
+        "par": 4,
+        "round": 1,
+        "tot": 6,
+        "score": 5
+      },
+      {
+        "hole": 2,
+        "par": 5,
+        "round": 1,
+        "tot": 6,
+        "score": 5
+      },
+      {
+        "hole": 3,
+        "par": 4,
+        "round": 1,
+        "tot": 6,
+        "score": 4
+      },
+      {
+        "hole": 4,
+        "par": 3,
+        "round": 1,
+        "tot": 6,
+        "score": 3
+      },
+      {
+        "hole": 5,
+        "par": 4,
+        "round": 1,
+        "tot": 6,
+        "score": 4
+      },
+      {
+        "hole": 6,
+        "par": 3,
+        "round": 1,
+        "tot": 6,
+        "score": 3
+      },
+      {
+        "hole": 7,
+        "par": 4,
+        "round": 1,
+        "tot": 6,
+        "score": 4
+      },
+      {
+        "hole": 8,
+        "par": 5,
+        "round": 1,
+        "tot": 6,
+        "score": 5
+      },
+      {
+        "hole": 9,
+        "par": 4,
+        "round": 1,
+        "tot": 6,
+        "score": 4
+      },
+      {
+        "hole": 10,
+        "par": 4,
+        "round": 2,
+        "tot": 7,
+        "score": 5
+      },
+      {
+        "hole": 11,
+        "par": 4,
+        "round": 2,
+        "tot": 7,
+        "score": 4
+      },
+      {
+        "hole": 12,
+        "par": 3,
+        "round": 2,
+        "tot": 7,
+        "score": 3
+      },
+      {
+        "hole": 13,
+        "par": 5,
+        "round": 1,
+        "tot": 6,
+        "score": 4
+      },
+      {
+        "hole": 14,
+        "par": 4,
+        "round": 1,
+        "tot": 6,
+        "score": 4
+      },
+      {
+        "hole": 15,
+        "par": 5,
+        "round": 1,
+        "tot": 6,
+        "score": 5
+      },
+      {
+        "hole": 16,
+        "par": 3,
+        "round": 1,
+        "tot": 6,
+        "score": 3
+      },
+      {
+        "hole": 17,
+        "par": 4,
+        "round": 2,
+        "tot": 7,
+        "score": 5
+      },
+      {
+        "hole": 18,
+        "par": 4,
+        "round": 2,
+        "tot": 7,
+        "score": 4
+      }
+    ],
+    "outTotal": 37,
+    "inTotal": 37,
+    "total": 74
+  },
+  {
+    "playerId": 79,
+    "teeScores": [
+      {
+        "hole": 1,
+        "par": 4,
+        "round": 0,
+        "tot": 6,
+        "score": 4
+      },
+      {
+        "hole": 2,
+        "par": 5,
+        "round": 0,
+        "tot": 6,
+        "score": 5
+      },
+      {
+        "hole": 3,
+        "par": 4,
+        "round": 0,
+        "tot": 6,
+        "score": 4
+      },
+      {
+        "hole": 4,
+        "par": 3,
+        "round": 0,
+        "tot": 6,
+        "score": 3
+      },
+      {
+        "hole": 5,
+        "par": 4,
+        "round": 1,
+        "tot": 7,
+        "score": 5
+      },
+      {
+        "hole": 6,
+        "par": 3,
+        "round": 1,
+        "tot": 7,
+        "score": 3
+      },
+      {
+        "hole": 7,
+        "par": 4,
+        "round": 2,
+        "tot": 8,
+        "score": 5
+      },
+      {
+        "hole": 8,
+        "par": 5,
+        "round": 2,
+        "tot": 8,
+        "score": 5
+      },
+      {
+        "hole": 9,
+        "par": 4,
+        "round": 2,
+        "tot": 8,
+        "score": 4
+      },
+      {
+        "hole": 10,
+        "par": 4,
+        "round": 3,
+        "tot": 9,
+        "score": 5
+      },
+      {
+        "hole": 11,
+        "par": 4,
+        "round": 3,
+        "tot": 9,
+        "score": 4
+      },
+      {
+        "hole": 12,
+        "par": 3,
+        "round": 3,
+        "tot": 9,
+        "score": 3
+      },
+      {
+        "hole": 13,
+        "par": 5,
+        "round": 2,
+        "tot": 8,
+        "score": 4
+      },
+      {
+        "hole": 14,
+        "par": 4,
+        "round": 2,
+        "tot": 8,
+        "score": 4
+      },
+      {
+        "hole": 15,
+        "par": 5,
+        "round": 3,
+        "tot": 9,
+        "score": 6
+      },
+      {
+        "hole": 16,
+        "par": 3,
+        "round": 2,
+        "tot": 8,
+        "score": 2
+      },
+      {
+        "hole": 17,
+        "par": 4,
+        "round": 1,
+        "tot": 7,
+        "score": 3
+      },
+      {
+        "hole": 18,
+        "par": 4,
+        "round": 1,
+        "tot": 7,
+        "score": 4
+      }
+    ],
+    "outTotal": 38,
+    "inTotal": 35,
+    "total": 73
+  },
+  {
+    "playerId": 80,
+    "teeScores": [
+      {
+        "hole": 1,
+        "par": 4,
+        "round": 1,
+        "tot": 4,
+        "score": 5
+      },
+      {
+        "hole": 2,
+        "par": 5,
+        "round": 0,
+        "tot": 3,
+        "score": 4
+      },
+      {
+        "hole": 3,
+        "par": 4,
+        "round": 0,
+        "tot": 3,
+        "score": 4
+      },
+      {
+        "hole": 4,
+        "par": 3,
+        "round": 0,
+        "tot": 3,
+        "score": 3
+      },
+      {
+        "hole": 5,
+        "par": 4,
+        "round": 0,
+        "tot": 3,
+        "score": 4
+      },
+      {
+        "hole": 6,
+        "par": 3,
+        "round": 0,
+        "tot": 3,
+        "score": 3
+      },
+      {
+        "hole": 7,
+        "par": 4,
+        "round": 0,
+        "tot": 3,
+        "score": 4
+      },
+      {
+        "hole": 8,
+        "par": 5,
+        "round": -1,
+        "tot": 2,
+        "score": 4
+      },
+      {
+        "hole": 9,
+        "par": 4,
+        "round": 0,
+        "tot": 3,
+        "score": 5
+      },
+      {
+        "hole": 10,
+        "par": 4,
+        "round": 1,
+        "tot": 4,
+        "score": 5
+      },
+      {
+        "hole": 11,
+        "par": 4,
+        "round": 3,
+        "tot": 6,
+        "score": 6
+      },
+      {
+        "hole": 12,
+        "par": 3,
+        "round": 3,
+        "tot": 6,
+        "score": 3
+      },
+      {
+        "hole": 13,
+        "par": 5,
+        "round": 3,
+        "tot": 6,
+        "score": 5
+      },
+      {
+        "hole": 14,
+        "par": 4,
+        "round": 4,
+        "tot": 7,
+        "score": 5
+      },
+      {
+        "hole": 15,
+        "par": 5,
+        "round": 4,
+        "tot": 7,
+        "score": 5
+      },
+      {
+        "hole": 16,
+        "par": 3,
+        "round": 4,
+        "tot": 7,
+        "score": 3
+      },
+      {
+        "hole": 17,
+        "par": 4,
+        "round": 4,
+        "tot": 7,
+        "score": 4
+      },
+      {
+        "hole": 18,
+        "par": 4,
+        "round": 5,
+        "tot": 8,
+        "score": 5
+      }
+    ],
+    "outTotal": 36,
+    "inTotal": 41,
+    "total": 77
+  },
+  {
+    "playerId": 81,
+    "teeScores": [
+      {
+        "hole": 1,
+        "par": 4,
+        "round": 0,
+        "tot": 4,
+        "score": 4
+      },
+      {
+        "hole": 2,
+        "par": 5,
+        "round": 0,
+        "tot": 4,
+        "score": 5
+      },
+      {
+        "hole": 3,
+        "par": 4,
+        "round": -1,
+        "tot": 3,
+        "score": 3
+      },
+      {
+        "hole": 4,
+        "par": 3,
+        "round": -1,
+        "tot": 3,
+        "score": 3
+      },
+      {
+        "hole": 5,
+        "par": 4,
+        "round": -1,
+        "tot": 3,
+        "score": 4
+      },
+      {
+        "hole": 6,
+        "par": 3,
+        "round": -1,
+        "tot": 3,
+        "score": 3
+      },
+      {
+        "hole": 7,
+        "par": 4,
+        "round": -1,
+        "tot": 3,
+        "score": 4
+      },
+      {
+        "hole": 8,
+        "par": 5,
+        "round": 0,
+        "tot": 4,
+        "score": 6
+      },
+      {
+        "hole": 9,
+        "par": 4,
+        "round": 0,
+        "tot": 4,
+        "score": 4
+      },
+      {
+        "hole": 10,
+        "par": 4,
+        "round": 0,
+        "tot": 4,
+        "score": 4
+      },
+      {
+        "hole": 11,
+        "par": 4,
+        "round": 1,
+        "tot": 5,
+        "score": 5
+      },
+      {
+        "hole": 12,
+        "par": 3,
+        "round": 1,
+        "tot": 5,
+        "score": 3
+      },
+      {
+        "hole": 13,
+        "par": 5,
+        "round": 3,
+        "tot": 7,
+        "score": 7
+      },
+      {
+        "hole": 14,
+        "par": 4,
+        "round": 4,
+        "tot": 8,
+        "score": 5
+      },
+      {
+        "hole": 15,
+        "par": 5,
+        "round": 3,
+        "tot": 7,
+        "score": 4
+      },
+      {
+        "hole": 16,
+        "par": 3,
+        "round": 3,
+        "tot": 7,
+        "score": 3
+      },
+      {
+        "hole": 17,
+        "par": 4,
+        "round": 4,
+        "tot": 8,
+        "score": 5
+      },
+      {
+        "hole": 18,
+        "par": 4,
+        "round": 6,
+        "tot": 10,
+        "score": 6
+      }
+    ],
+    "outTotal": 36,
+    "inTotal": 42,
+    "total": 78
+  },
+  {
+    "playerId": 82,
+    "teeScores": [
+      {
+        "hole": 1,
+        "par": 4,
+        "round": 0,
+        "tot": 9,
+        "score": 4
+      },
+      {
+        "hole": 2,
+        "par": 5,
+        "round": 0,
+        "tot": 9,
+        "score": 5
+      },
+      {
+        "hole": 3,
+        "par": 4,
+        "round": 0,
+        "tot": 9,
+        "score": 4
+      },
+      {
+        "hole": 4,
+        "par": 3,
+        "round": 0,
+        "tot": 9,
+        "score": 3
+      },
+      {
+        "hole": 5,
+        "par": 4,
+        "round": 0,
+        "tot": 9,
+        "score": 4
+      },
+      {
+        "hole": 6,
+        "par": 3,
+        "round": 0,
+        "tot": 9,
+        "score": 3
+      },
+      {
+        "hole": 7,
+        "par": 4,
+        "round": 0,
+        "tot": 9,
+        "score": 4
+      },
+      {
+        "hole": 8,
+        "par": 5,
+        "round": 0,
+        "tot": 9,
+        "score": 5
+      },
+      {
+        "hole": 9,
+        "par": 4,
+        "round": 0,
+        "tot": 9,
+        "score": 4
+      },
+      {
+        "hole": 10,
+        "par": 4,
+        "round": 0,
+        "tot": 9,
+        "score": 4
+      },
+      {
+        "hole": 11,
+        "par": 4,
+        "round": 0,
+        "tot": 9,
+        "score": 4
+      },
+      {
+        "hole": 12,
+        "par": 3,
+        "round": 1,
+        "tot": 10,
+        "score": 4
+      },
+      {
+        "hole": 13,
+        "par": 5,
+        "round": 0,
+        "tot": 9,
+        "score": 4
+      },
+      {
+        "hole": 14,
+        "par": 4,
+        "round": 1,
+        "tot": 10,
+        "score": 5
+      },
+      {
+        "hole": 15,
+        "par": 5,
+        "round": 1,
+        "tot": 10,
+        "score": 5
+      },
+      {
+        "hole": 16,
+        "par": 3,
+        "round": 1,
+        "tot": 10,
+        "score": 3
+      },
+      {
+        "hole": 17,
+        "par": 4,
+        "round": 0,
+        "tot": 9,
+        "score": 3
+      },
+      {
+        "hole": 18,
+        "par": 4,
+        "round": 1,
+        "tot": 10,
+        "score": 5
+      }
+    ],
+    "outTotal": 36,
+    "inTotal": 37,
+    "total": 73
+  },
+  {
+    "playerId": 83,
+    "teeScores": [
+      {
+        "hole": 1,
+        "par": 4,
+        "round": 0,
+        "tot": 8,
+        "score": 4
+      },
+      {
+        "hole": 2,
+        "par": 5,
+        "round": 0,
+        "tot": 8,
+        "score": 5
+      },
+      {
+        "hole": 3,
+        "par": 4,
+        "round": 0,
+        "tot": 8,
+        "score": 4
+      },
+      {
+        "hole": 4,
+        "par": 3,
+        "round": 0,
+        "tot": 8,
+        "score": 3
+      },
+      {
+        "hole": 5,
+        "par": 4,
+        "round": 1,
+        "tot": 9,
+        "score": 5
+      },
+      {
+        "hole": 6,
+        "par": 3,
+        "round": 1,
+        "tot": 9,
+        "score": 3
+      },
+      {
+        "hole": 7,
+        "par": 4,
+        "round": 1,
+        "tot": 9,
+        "score": 4
+      },
+      {
+        "hole": 8,
+        "par": 5,
+        "round": 1,
+        "tot": 9,
+        "score": 5
+      },
+      {
+        "hole": 9,
+        "par": 4,
+        "round": 3,
+        "tot": 11,
+        "score": 6
+      },
+      {
+        "hole": 10,
+        "par": 4,
+        "round": 4,
+        "tot": 12,
+        "score": 5
+      },
+      {
+        "hole": 11,
+        "par": 4,
+        "round": 5,
+        "tot": 13,
+        "score": 5
+      },
+      {
+        "hole": 12,
+        "par": 3,
+        "round": 5,
+        "tot": 13,
+        "score": 3
+      },
+      {
+        "hole": 13,
+        "par": 5,
+        "round": 5,
+        "tot": 13,
+        "score": 5
+      },
+      {
+        "hole": 14,
+        "par": 4,
+        "round": 4,
+        "tot": 12,
+        "score": 3
+      },
+      {
+        "hole": 15,
+        "par": 5,
+        "round": 4,
+        "tot": 12,
+        "score": 5
+      },
+      {
+        "hole": 16,
+        "par": 3,
+        "round": 4,
+        "tot": 12,
+        "score": 3
+      },
+      {
+        "hole": 17,
+        "par": 4,
+        "round": 4,
+        "tot": 12,
+        "score": 4
+      },
+      {
+        "hole": 18,
+        "par": 4,
+        "round": 4,
+        "tot": 12,
+        "score": 4
+      }
+    ],
+    "outTotal": 39,
+    "inTotal": 37,
+    "total": 76
+  },
+  {
+    "playerId": 84,
+    "teeScores": [
+      {
+        "hole": 1,
+        "par": 4,
+        "round": 1,
+        "tot": 9,
+        "score": 5
+      },
+      {
+        "hole": 2,
+        "par": 5,
+        "round": 0,
+        "tot": 8,
+        "score": 4
+      },
+      {
+        "hole": 3,
+        "par": 4,
+        "round": 0,
+        "tot": 8,
+        "score": 4
+      },
+      {
+        "hole": 4,
+        "par": 3,
+        "round": 1,
+        "tot": 9,
+        "score": 4
+      },
+      {
+        "hole": 5,
+        "par": 4,
+        "round": 2,
+        "tot": 10,
+        "score": 5
+      },
+      {
+        "hole": 6,
+        "par": 3,
+        "round": 2,
+        "tot": 10,
+        "score": 3
+      },
+      {
+        "hole": 7,
+        "par": 4,
+        "round": 1,
+        "tot": 9,
+        "score": 3
+      },
+      {
+        "hole": 8,
+        "par": 5,
+        "round": 1,
+        "tot": 9,
+        "score": 5
+      },
+      {
+        "hole": 9,
+        "par": 4,
+        "round": 1,
+        "tot": 9,
+        "score": 4
+      },
+      {
+        "hole": 10,
+        "par": 4,
+        "round": 2,
+        "tot": 10,
+        "score": 5
+      },
+      {
+        "hole": 11,
+        "par": 4,
+        "round": 3,
+        "tot": 11,
+        "score": 5
+      },
+      {
+        "hole": 12,
+        "par": 3,
+        "round": 3,
+        "tot": 11,
+        "score": 3
+      },
+      {
+        "hole": 13,
+        "par": 5,
+        "round": 3,
+        "tot": 11,
+        "score": 5
+      },
+      {
+        "hole": 14,
+        "par": 4,
+        "round": 4,
+        "tot": 12,
+        "score": 5
+      },
+      {
+        "hole": 15,
+        "par": 5,
+        "round": 3,
+        "tot": 11,
+        "score": 4
+      },
+      {
+        "hole": 16,
+        "par": 3,
+        "round": 3,
+        "tot": 11,
+        "score": 3
+      },
+      {
+        "hole": 17,
+        "par": 4,
+        "round": 3,
+        "tot": 11,
+        "score": 4
+      },
+      {
+        "hole": 18,
+        "par": 4,
+        "round": 4,
+        "tot": 12,
+        "score": 5
+      }
+    ],
+    "outTotal": 37,
+    "inTotal": 39,
+    "total": 76
+  },
+  {
+    "playerId": 85,
+    "teeScores": [
+      {
+        "hole": 1,
+        "par": 4,
+        "round": 1,
+        "tot": 7,
+        "score": 5
+      },
+      {
+        "hole": 2,
+        "par": 5,
+        "round": 2,
+        "tot": 8,
+        "score": 6
+      },
+      {
+        "hole": 3,
+        "par": 4,
+        "round": 3,
+        "tot": 9,
+        "score": 5
+      },
+      {
+        "hole": 4,
+        "par": 3,
+        "round": 3,
+        "tot": 9,
+        "score": 3
+      },
+      {
+        "hole": 5,
+        "par": 4,
+        "round": 4,
+        "tot": 10,
+        "score": 5
+      },
+      {
+        "hole": 6,
+        "par": 3,
+        "round": 4,
+        "tot": 10,
+        "score": 3
+      },
+      {
+        "hole": 7,
+        "par": 4,
+        "round": 5,
+        "tot": 11,
+        "score": 5
+      },
+      {
+        "hole": 8,
+        "par": 5,
+        "round": 5,
+        "tot": 11,
+        "score": 5
+      },
+      {
+        "hole": 9,
+        "par": 4,
+        "round": 6,
+        "tot": 12,
+        "score": 5
+      },
+      {
+        "hole": 10,
+        "par": 4,
+        "round": 6,
+        "tot": 12,
+        "score": 4
+      },
+      {
+        "hole": 11,
+        "par": 4,
+        "round": 6,
+        "tot": 12,
+        "score": 4
+      },
+      {
+        "hole": 12,
+        "par": 3,
+        "round": 6,
+        "tot": 12,
+        "score": 3
+      },
+      {
+        "hole": 13,
+        "par": 5,
+        "round": 7,
+        "tot": 13,
+        "score": 6
+      },
+      {
+        "hole": 14,
+        "par": 4,
+        "round": 7,
+        "tot": 13,
+        "score": 4
+      },
+      {
+        "hole": 15,
+        "par": 5,
+        "round": 6,
+        "tot": 12,
+        "score": 4
+      },
+      {
+        "hole": 16,
+        "par": 3,
+        "round": 6,
+        "tot": 12,
+        "score": 3
+      },
+      {
+        "hole": 17,
+        "par": 4,
+        "round": 6,
+        "tot": 12,
+        "score": 4
+      },
+      {
+        "hole": 18,
+        "par": 4,
+        "round": 7,
+        "tot": 13,
+        "score": 5
+      }
+    ],
+    "outTotal": 42,
+    "inTotal": 37,
+    "total": 79
+  },
+  {
+    "playerId": 86,
+    "teeScores": [
+      {
+        "hole": 1,
+        "par": 4,
+        "round": 1,
+        "tot": 11,
+        "score": 5
+      },
+      {
+        "hole": 2,
+        "par": 5,
+        "round": 1,
+        "tot": 11,
+        "score": 5
+      },
+      {
+        "hole": 3,
+        "par": 4,
+        "round": 1,
+        "tot": 11,
+        "score": 4
+      },
+      {
+        "hole": 4,
+        "par": 3,
+        "round": 1,
+        "tot": 11,
+        "score": 3
+      },
+      {
+        "hole": 5,
+        "par": 4,
+        "round": 2,
+        "tot": 12,
+        "score": 5
+      },
+      {
+        "hole": 6,
+        "par": 3,
+        "round": 1,
+        "tot": 11,
+        "score": 2
+      },
+      {
+        "hole": 7,
+        "par": 4,
+        "round": 1,
+        "tot": 11,
+        "score": 4
+      },
+      {
+        "hole": 8,
+        "par": 5,
+        "round": 0,
+        "tot": 10,
+        "score": 4
+      },
+      {
+        "hole": 9,
+        "par": 4,
+        "round": 1,
+        "tot": 11,
+        "score": 5
+      },
+      {
+        "hole": 10,
+        "par": 4,
+        "round": 1,
+        "tot": 11,
+        "score": 4
+      },
+      {
+        "hole": 11,
+        "par": 4,
+        "round": 2,
+        "tot": 12,
+        "score": 5
+      },
+      {
+        "hole": 12,
+        "par": 3,
+        "round": 2,
+        "tot": 12,
+        "score": 3
+      },
+      {
+        "hole": 13,
+        "par": 5,
+        "round": 3,
+        "tot": 13,
+        "score": 6
+      },
+      {
+        "hole": 14,
+        "par": 4,
+        "round": 3,
+        "tot": 13,
+        "score": 4
+      },
+      {
+        "hole": 15,
+        "par": 5,
+        "round": 3,
+        "tot": 13,
+        "score": 5
+      },
+      {
+        "hole": 16,
+        "par": 3,
+        "round": 3,
+        "tot": 13,
+        "score": 3
+      },
+      {
+        "hole": 17,
+        "par": 4,
+        "round": 3,
+        "tot": 13,
+        "score": 4
+      },
+      {
+        "hole": 18,
+        "par": 4,
+        "round": 3,
+        "tot": 13,
+        "score": 4
+      }
+    ],
+    "outTotal": 37,
+    "inTotal": 38,
+    "total": 75
+  }
+]

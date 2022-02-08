@@ -1,0 +1,322 @@
+[
+  {
+    "playerId": 17,
+    "teeTime": "2019-04-14 07:30:00 -0500",
+    "startTee": 1
+  },
+  {
+    "playerId": 50,
+    "teeTime": "2019-04-14 07:30:00 -0500",
+    "startTee": 1
+  },
+  {
+    "playerId": 24,
+    "teeTime": "2019-04-14 07:30:00 -0500",
+    "startTee": 1
+  },
+  {
+    "playerId": 23,
+    "teeTime": "2019-04-14 07:30:00 -0500",
+    "startTee": 10
+  },
+  {
+    "playerId": 35,
+    "teeTime": "2019-04-14 07:30:00 -0500",
+    "startTee": 10
+  },
+  {
+    "playerId": 30,
+    "teeTime": "2019-04-14 07:30:00 -0500",
+    "startTee": 10
+  },
+  {
+    "playerId": 25,
+    "teeTime": "2019-04-14 07:41:00 -0500",
+    "startTee": 1
+  },
+  {
+    "playerId": 40,
+    "teeTime": "2019-04-14 07:41:00 -0500",
+    "startTee": 1
+  },
+  {
+    "playerId": 20,
+    "teeTime": "2019-04-14 07:41:00 -0500",
+    "startTee": 1
+  },
+  {
+    "playerId": 22,
+    "teeTime": "2019-04-14 07:41:00 -0500",
+    "startTee": 10
+  },
+  {
+    "playerId": 29,
+    "teeTime": "2019-04-14 07:41:00 -0500",
+    "startTee": 10
+  },
+  {
+    "playerId": 61,
+    "teeTime": "2019-04-14 07:41:00 -0500",
+    "startTee": 10
+  },
+  {
+    "playerId": 41,
+    "teeTime": "2019-04-14 07:52:00 -0500",
+    "startTee": 1
+  },
+  {
+    "playerId": 34,
+    "teeTime": "2019-04-14 07:52:00 -0500",
+    "startTee": 1
+  },
+  {
+    "playerId": 56,
+    "teeTime": "2019-04-14 07:52:00 -0500",
+    "startTee": 1
+  },
+  {
+    "playerId": 21,
+    "teeTime": "2019-04-14 07:52:00 -0500",
+    "startTee": 10
+  },
+  {
+    "playerId": 45,
+    "teeTime": "2019-04-14 07:52:00 -0500",
+    "startTee": 10
+  },
+  {
+    "playerId": 33,
+    "teeTime": "2019-04-14 07:52:00 -0500",
+    "startTee": 10
+  },
+  {
+    "playerId": 26,
+    "teeTime": "2019-04-14 08:03:00 -0500",
+    "startTee": 1
+  },
+  {
+    "playerId": 42,
+    "teeTime": "2019-04-14 08:03:00 -0500",
+    "startTee": 1
+  },
+  {
+    "playerId": 48,
+    "teeTime": "2019-04-14 08:03:00 -0500",
+    "startTee": 1
+  },
+  {
+    "playerId": 39,
+    "teeTime": "2019-04-14 08:03:00 -0500",
+    "startTee": 10
+  },
+  {
+    "playerId": 66,
+    "teeTime": "2019-04-14 08:03:00 -0500",
+    "startTee": 10
+  },
+  {
+    "playerId": 32,
+    "teeTime": "2019-04-14 08:03:00 -0500",
+    "startTee": 10
+  },
+  {
+    "playerId": 5,
+    "teeTime": "2019-04-14 08:14:00 -0500",
+    "startTee": 1
+  },
+  {
+    "playerId": 12,
+    "teeTime": "2019-04-14 08:14:00 -0500",
+    "startTee": 1
+  },
+  {
+    "playerId": 27,
+    "teeTime": "2019-04-14 08:14:00 -0500",
+    "startTee": 1
+  },
+  {
+    "playerId": 49,
+    "teeTime": "2019-04-14 08:14:00 -0500",
+    "startTee": 10
+  },
+  {
+    "playerId": 47,
+    "teeTime": "2019-04-14 08:14:00 -0500",
+    "startTee": 10
+  },
+  {
+    "playerId": 38,
+    "teeTime": "2019-04-14 08:14:00 -0500",
+    "startTee": 10
+  },
+  {
+    "playerId": 13,
+    "teeTime": "2019-04-14 08:25:00 -0500",
+    "startTee": 1
+  },
+  {
+    "playerId": 18,
+    "teeTime": "2019-04-14 08:25:00 -0500",
+    "startTee": 1
+  },
+  {
+    "playerId": 9,
+    "teeTime": "2019-04-14 08:25:00 -0500",
+    "startTee": 1
+  },
+  {
+    "playerId": 37,
+    "teeTime": "2019-04-14 08:25:00 -0500",
+    "startTee": 10
+  },
+  {
+    "playerId": 44,
+    "teeTime": "2019-04-14 08:25:00 -0500",
+    "startTee": 10
+  },
+  {
+    "playerId": 19,
+    "teeTime": "2019-04-14 08:36:00 -0500",
+    "startTee": 1
+  },
+  {
+    "playerId": 10,
+    "teeTime": "2019-04-14 08:36:00 -0500",
+    "startTee": 1
+  },
+  {
+    "playerId": 28,
+    "teeTime": "2019-04-14 08:36:00 -0500",
+    "startTee": 1
+  },
+  {
+    "playerId": 58,
+    "teeTime": "2019-04-14 08:36:00 -0500",
+    "startTee": 10
+  },
+  {
+    "playerId": 62,
+    "teeTime": "2019-04-14 08:36:00 -0500",
+    "startTee": 10
+  },
+  {
+    "playerId": 46,
+    "teeTime": "2019-04-14 08:36:00 -0500",
+    "startTee": 10
+  },
+  {
+    "playerId": 31,
+    "teeTime": "2019-04-14 08:47:00 -0500",
+    "startTee": 1
+  },
+  {
+    "playerId": 3,
+    "teeTime": "2019-04-14 08:47:00 -0500",
+    "startTee": 1
+  },
+  {
+    "playerId": 11,
+    "teeTime": "2019-04-14 08:47:00 -0500",
+    "startTee": 1
+  },
+  {
+    "playerId": 65,
+    "teeTime": "2019-04-14 08:47:00 -0500",
+    "startTee": 10
+  },
+  {
+    "playerId": 36,
+    "teeTime": "2019-04-14 08:47:00 -0500",
+    "startTee": 10
+  },
+  {
+    "playerId": 54,
+    "teeTime": "2019-04-14 08:47:00 -0500",
+    "startTee": 10
+  },
+  {
+    "playerId": 15,
+    "teeTime": "2019-04-14 08:58:00 -0500",
+    "startTee": 1
+  },
+  {
+    "playerId": 14,
+    "teeTime": "2019-04-14 08:58:00 -0500",
+    "startTee": 1
+  },
+  {
+    "playerId": 2,
+    "teeTime": "2019-04-14 08:58:00 -0500",
+    "startTee": 1
+  },
+  {
+    "playerId": 60,
+    "teeTime": "2019-04-14 08:58:00 -0500",
+    "startTee": 10
+  },
+  {
+    "playerId": 53,
+    "teeTime": "2019-04-14 08:58:00 -0500",
+    "startTee": 10
+  },
+  {
+    "playerId": 43,
+    "teeTime": "2019-04-14 08:58:00 -0500",
+    "startTee": 10
+  },
+  {
+    "playerId": 4,
+    "teeTime": "2019-04-14 09:09:00 -0500",
+    "startTee": 1
+  },
+  {
+    "playerId": 6,
+    "teeTime": "2019-04-14 09:09:00 -0500",
+    "startTee": 1
+  },
+  {
+    "playerId": 16,
+    "teeTime": "2019-04-14 09:09:00 -0500",
+    "startTee": 1
+  },
+  {
+    "playerId": 64,
+    "teeTime": "2019-04-14 09:09:00 -0500",
+    "startTee": 10
+  },
+  {
+    "playerId": 59,
+    "teeTime": "2019-04-14 09:09:00 -0500",
+    "startTee": 10
+  },
+  {
+    "playerId": 57,
+    "teeTime": "2019-04-14 09:09:00 -0500",
+    "startTee": 10
+  },
+  {
+    "playerId": 1,
+    "teeTime": "2019-04-14 09:20:00 -0500",
+    "startTee": 1
+  },
+  {
+    "playerId": 8,
+    "teeTime": "2019-04-14 09:20:00 -0500",
+    "startTee": 1
+  },
+  {
+    "playerId": 7,
+    "teeTime": "2019-04-14 09:20:00 -0500",
+    "startTee": 1
+  },
+  {
+    "playerId": 51,
+    "teeTime": "2019-04-14 09:20:00 -0500",
+    "startTee": 10
+  },
+  {
+    "playerId": 63,
+    "teeTime": "2019-04-14 09:20:00 -0500",
+    "startTee": 10
+  }
+]

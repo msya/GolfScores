@@ -1,0 +1,422 @@
+[
+  {
+    "playerId": 46,
+    "teeTime": "2019-04-11 08:30:00 -0500",
+    "startTee": 1
+  },
+  {
+    "playerId": 73,
+    "teeTime": "2019-04-11 08:30:00 -0500",
+    "startTee": 1
+  },
+  {
+    "playerId": 48,
+    "teeTime": "2019-04-11 08:30:00 -0500",
+    "startTee": 1
+  },
+  {
+    "playerId": 84,
+    "teeTime": "2019-04-11 08:41:00 -0500",
+    "startTee": 1
+  },
+  {
+    "playerId": 44,
+    "teeTime": "2019-04-11 08:41:00 -0500",
+    "startTee": 1
+  },
+  {
+    "playerId": 40,
+    "teeTime": "2019-04-11 08:41:00 -0500",
+    "startTee": 1
+  },
+  {
+    "playerId": 69,
+    "teeTime": "2019-04-11 08:52:00 -0500",
+    "startTee": 1
+  },
+  {
+    "playerId": 79,
+    "teeTime": "2019-04-11 08:52:00 -0500",
+    "startTee": 1
+  },
+  {
+    "playerId": 86,
+    "teeTime": "2019-04-11 09:03:00 -0500",
+    "startTee": 1
+  },
+  {
+    "playerId": 17,
+    "teeTime": "2019-04-11 09:03:00 -0500",
+    "startTee": 1
+  },
+  {
+    "playerId": 14,
+    "teeTime": "2019-04-11 09:03:00 -0500",
+    "startTee": 1
+  },
+  {
+    "playerId": 70,
+    "teeTime": "2019-04-11 09:14:00 -0500",
+    "startTee": 1
+  },
+  {
+    "playerId": 74,
+    "teeTime": "2019-04-11 09:14:00 -0500",
+    "startTee": 1
+  },
+  {
+    "playerId": 61,
+    "teeTime": "2019-04-11 09:14:00 -0500",
+    "startTee": 1
+  },
+  {
+    "playerId": 75,
+    "teeTime": "2019-04-11 09:25:00 -0500",
+    "startTee": 1
+  },
+  {
+    "playerId": 24,
+    "teeTime": "2019-04-11 09:25:00 -0500",
+    "startTee": 1
+  },
+  {
+    "playerId": 66,
+    "teeTime": "2019-04-11 09:25:00 -0500",
+    "startTee": 1
+  },
+  {
+    "playerId": 60,
+    "teeTime": "2019-04-11 09:36:00 -0500",
+    "startTee": 1
+  },
+  {
+    "playerId": 64,
+    "teeTime": "2019-04-11 09:36:00 -0500",
+    "startTee": 1
+  },
+  {
+    "playerId": 27,
+    "teeTime": "2019-04-11 09:36:00 -0500",
+    "startTee": 1
+  },
+  {
+    "playerId": 76,
+    "teeTime": "2019-04-11 09:47:00 -0500",
+    "startTee": 1
+  },
+  {
+    "playerId": 32,
+    "teeTime": "2019-04-11 09:47:00 -0500",
+    "startTee": 1
+  },
+  {
+    "playerId": 54,
+    "teeTime": "2019-04-11 09:47:00 -0500",
+    "startTee": 1
+  },
+  {
+    "playerId": 71,
+    "teeTime": "2019-04-11 09:58:00 -0500",
+    "startTee": 1
+  },
+  {
+    "playerId": 8,
+    "teeTime": "2019-04-11 09:58:00 -0500",
+    "startTee": 1
+  },
+  {
+    "playerId": 41,
+    "teeTime": "2019-04-11 09:58:00 -0500",
+    "startTee": 1
+  },
+  {
+    "playerId": 19,
+    "teeTime": "2019-04-11 10:09:00 -0500",
+    "startTee": 1
+  },
+  {
+    "playerId": 34,
+    "teeTime": "2019-04-11 10:09:00 -0500",
+    "startTee": 1
+  },
+  {
+    "playerId": 23,
+    "teeTime": "2019-04-11 10:09:00 -0500",
+    "startTee": 1
+  },
+  {
+    "playerId": 37,
+    "teeTime": "2019-04-11 10:31:00 -0500",
+    "startTee": 1
+  },
+  {
+    "playerId": 6,
+    "teeTime": "2019-04-11 10:31:00 -0500",
+    "startTee": 1
+  },
+  {
+    "playerId": 35,
+    "teeTime": "2019-04-11 10:31:00 -0500",
+    "startTee": 1
+  },
+  {
+    "playerId": 50,
+    "teeTime": "2019-04-11 10:42:00 -0500",
+    "startTee": 1
+  },
+  {
+    "playerId": 31,
+    "teeTime": "2019-04-11 10:42:00 -0500",
+    "startTee": 1
+  },
+  {
+    "playerId": 42,
+    "teeTime": "2019-04-11 10:53:00 -0500",
+    "startTee": 1
+  },
+  {
+    "playerId": 2,
+    "teeTime": "2019-04-11 10:53:00 -0500",
+    "startTee": 1
+  },
+  {
+    "playerId": 33,
+    "teeTime": "2019-04-11 10:53:00 -0500",
+    "startTee": 1
+  },
+  {
+    "playerId": 1,
+    "teeTime": "2019-04-11 11:04:00 -0500",
+    "startTee": 1
+  },
+  {
+    "playerId": 43,
+    "teeTime": "2019-04-11 11:04:00 -0500",
+    "startTee": 1
+  },
+  {
+    "playerId": 9,
+    "teeTime": "2019-04-11 11:04:00 -0500",
+    "startTee": 1
+  },
+  {
+    "playerId": 56,
+    "teeTime": "2019-04-11 11:15:00 -0500",
+    "startTee": 1
+  },
+  {
+    "playerId": 11,
+    "teeTime": "2019-04-11 11:15:00 -0500",
+    "startTee": 1
+  },
+  {
+    "playerId": 21,
+    "teeTime": "2019-04-11 11:15:00 -0500",
+    "startTee": 1
+  },
+  {
+    "playerId": 72,
+    "teeTime": "2019-04-11 11:26:00 -0500",
+    "startTee": 1
+  },
+  {
+    "playerId": 20,
+    "teeTime": "2019-04-11 11:26:00 -0500",
+    "startTee": 1
+  },
+  {
+    "playerId": 81,
+    "teeTime": "2019-04-11 11:26:00 -0500",
+    "startTee": 1
+  },
+  {
+    "playerId": 51,
+    "teeTime": "2019-04-11 11:37:00 -0500",
+    "startTee": 1
+  },
+  {
+    "playerId": 53,
+    "teeTime": "2019-04-11 11:37:00 -0500",
+    "startTee": 1
+  },
+  {
+    "playerId": 78,
+    "teeTime": "2019-04-11 11:48:00 -0500",
+    "startTee": 1
+  },
+  {
+    "playerId": 39,
+    "teeTime": "2019-04-11 11:48:00 -0500",
+    "startTee": 1
+  },
+  {
+    "playerId": 67,
+    "teeTime": "2019-04-11 11:48:00 -0500",
+    "startTee": 1
+  },
+  {
+    "playerId": 47,
+    "teeTime": "2019-04-11 11:59:00 -0500",
+    "startTee": 1
+  },
+  {
+    "playerId": 28,
+    "teeTime": "2019-04-11 11:59:00 -0500",
+    "startTee": 1
+  },
+  {
+    "playerId": 85,
+    "teeTime": "2019-04-11 11:59:00 -0500",
+    "startTee": 1
+  },
+  {
+    "playerId": 65,
+    "teeTime": "2019-04-11 12:10:00 -0500",
+    "startTee": 1
+  },
+  {
+    "playerId": 80,
+    "teeTime": "2019-04-11 12:10:00 -0500",
+    "startTee": 1
+  },
+  {
+    "playerId": 38,
+    "teeTime": "2019-04-11 12:10:00 -0500",
+    "startTee": 1
+  },
+  {
+    "playerId": 63,
+    "teeTime": "2019-04-11 12:32:00 -0500",
+    "startTee": 1
+  },
+  {
+    "playerId": 45,
+    "teeTime": "2019-04-11 12:32:00 -0500",
+    "startTee": 1
+  },
+  {
+    "playerId": 25,
+    "teeTime": "2019-04-11 12:32:00 -0500",
+    "startTee": 1
+  },
+  {
+    "playerId": 83,
+    "teeTime": "2019-04-11 12:43:00 -0500",
+    "startTee": 1
+  },
+  {
+    "playerId": 57,
+    "teeTime": "2019-04-11 12:43:00 -0500",
+    "startTee": 1
+  },
+  {
+    "playerId": 22,
+    "teeTime": "2019-04-11 12:54:00 -0500",
+    "startTee": 1
+  },
+  {
+    "playerId": 49,
+    "teeTime": "2019-04-11 12:54:00 -0500",
+    "startTee": 1
+  },
+  {
+    "playerId": 77,
+    "teeTime": "2019-04-11 12:54:00 -0500",
+    "startTee": 1
+  },
+  {
+    "playerId": 7,
+    "teeTime": "2019-04-11 13:16:00 -0500",
+    "startTee": 1
+  },
+  {
+    "playerId": 36,
+    "teeTime": "2019-04-11 13:16:00 -0500",
+    "startTee": 1
+  },
+  {
+    "playerId": 58,
+    "teeTime": "2019-04-11 13:16:00 -0500",
+    "startTee": 1
+  },
+  {
+    "playerId": 12,
+    "teeTime": "2019-04-11 13:27:00 -0500",
+    "startTee": 1
+  },
+  {
+    "playerId": 62,
+    "teeTime": "2019-04-11 13:27:00 -0500",
+    "startTee": 1
+  },
+  {
+    "playerId": 10,
+    "teeTime": "2019-04-11 13:27:00 -0500",
+    "startTee": 1
+  },
+  {
+    "playerId": 3,
+    "teeTime": "2019-04-11 13:38:00 -0500",
+    "startTee": 1
+  },
+  {
+    "playerId": 29,
+    "teeTime": "2019-04-11 13:38:00 -0500",
+    "startTee": 1
+  },
+  {
+    "playerId": 5,
+    "teeTime": "2019-04-11 13:38:00 -0500",
+    "startTee": 1
+  },
+  {
+    "playerId": 68,
+    "teeTime": "2019-04-11 13:49:00 -0500",
+    "startTee": 1
+  },
+  {
+    "playerId": 18,
+    "teeTime": "2019-04-11 13:49:00 -0500",
+    "startTee": 1
+  },
+  {
+    "playerId": 26,
+    "teeTime": "2019-04-11 14:00:00 -0500",
+    "startTee": 1
+  },
+  {
+    "playerId": 82,
+    "teeTime": "2019-04-11 14:00:00 -0500",
+    "startTee": 1
+  },
+  {
+    "playerId": 4,
+    "teeTime": "2019-04-11 14:00:00 -0500",
+    "startTee": 1
+  },
+  {
+    "playerId": 30,
+    "teeTime": "2019-04-11 10:42:00 -0500",
+    "startTee": 1
+  },
+  {
+    "playerId": 13,
+    "teeTime": "2019-04-11 13:49:00 -0500",
+    "startTee": 1
+  },
+  {
+    "playerId": 59,
+    "teeTime": "2019-04-11 13:05:00 -0500",
+    "startTee": 1
+  },
+  {
+    "playerId": 16,
+    "teeTime": "2019-04-11 13:05:00 -0500",
+    "startTee": 1
+  },
+  {
+    "playerId": 15,
+    "teeTime": "2019-04-11 13:05:00 -0500",
+    "startTee": 1
+  }
+]

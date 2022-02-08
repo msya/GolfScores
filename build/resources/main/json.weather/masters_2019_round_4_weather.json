@@ -1,0 +1,387 @@
+[
+ {
+   "time": "2019-04-14 10:50:00 -0500",
+   "temperature": "63 °F",
+   "wind_direction": "S",
+   "wind_speed": "7 mph",
+   "condition": "MOSTLY_CLOUDY"
+ },
+ {
+   "time": "2019-04-14 10:53:00 -0500",
+   "temperature": "63 °F",
+   "wind_direction": "S",
+   "wind_speed": "7 mph",
+   "condition": "CLOUDY"
+ },
+ {
+   "time": "2019-04-14 11:53:00 -0500",
+   "temperature": "62 °F",
+   "wind_direction": "S",
+   "wind_speed": "5 mph",
+   "condition": "FAIR"
+ },
+ {
+   "time": "2019-04-14 12:53:00 -0500",
+   "temperature": "61 °F",
+   "wind_direction": "S",
+   "wind_speed": "7 mph",
+   "condition": "FAIR"
+ },
+ {
+   "time": "2019-04-14 1:53:00 -0500",
+   "temperature": "59 °F",
+   "wind_direction": "CALM",
+   "wind_speed": "0 mph",
+   "condition": "FAIR"
+ },
+ {
+   "time": "2019-04-14 1:56:00 -0500",
+   "temperature": "59 °F",
+   "wind_direction": "CALM",
+   "wind_speed": "0 mph",
+   "condition": "FAIR"
+ },
+ {
+   "time": "2019-04-14 2:27:00 -0500",
+   "temperature": "55 °F",
+   "wind_direction": "S",
+   "wind_speed": "5 mph",
+   "condition": "PARTLY_CLOUDY"
+ },
+ {
+   "time": "2019-04-14 2:37:00 -0500",
+   "temperature": "59 °F",
+   "wind_direction": "SSE",
+   "wind_speed": "7 mph",
+   "condition": "MOSTLY_CLOUDY"
+ },
+ {
+   "time": "2019-04-14 2:40:00 -0500",
+   "temperature": "61 °F",
+   "wind_direction": "SSE",
+   "wind_speed": "7 mph",
+   "condition": "MOSTLY_CLOUDY"
+ },
+ {
+   "time": "2019-04-14 2:53:00 -0500",
+   "temperature": "60 °F",
+   "wind_direction": "SSE",
+   "wind_speed": "8 mph",
+   "condition": "CLOUDY"
+ },
+ {
+   "time": "2019-04-14 3:38:00 -0500",
+   "temperature": "61 °F",
+   "wind_direction": "SE",
+   "wind_speed": "6 mph",
+   "condition": "CLOUDY"
+ },
+ {
+   "time": "2019-04-14 3:53:00 -0500",
+   "temperature": "60 °F",
+   "wind_direction": "SSE",
+   "wind_speed": "7 mph",
+   "condition": "CLOUDY"
+ },
+ {
+   "time": "2019-04-14 4:53:00 -0500",
+   "temperature": "60 °F",
+   "wind_direction": "SE",
+   "wind_speed": "6 mph",
+   "condition": "CLOUDY"
+ },
+ {
+   "time": "2019-04-14 5:00:00 -0500",
+   "temperature": "61 °F",
+   "wind_direction": "SE",
+   "wind_speed": "5 mph",
+   "condition": "CLOUDY"
+ },
+ {
+   "time": "2019-04-14 5:16:00 -0500",
+   "temperature": "61 °F",
+   "wind_direction": "SSE",
+   "wind_speed": "5 mph",
+   "condition": "CLOUDY"
+ },
+ {
+   "time": "2019-04-14 5:22:00 -0500",
+   "temperature": "61 °F",
+   "wind_direction": "CALM",
+   "wind_speed": "0 mph",
+   "condition": "CLOUDY"
+ },
+ {
+   "time": "2019-04-14 5:53:00 -0500",
+   "temperature": "61 °F",
+   "wind_direction": "CALM",
+   "wind_speed": "0 mph",
+   "condition": "CLOUDY"
+ },
+ {
+   "time": "2019-04-14 6:14:00 -0500",
+   "temperature": "61 °F",
+   "wind_direction": "CALM",
+   "wind_speed": "0 mph",
+   "condition": "CLOUDY"
+ },
+ {
+   "time": "2019-04-14 6:20:00 -0500",
+   "temperature": "61 °F",
+   "wind_direction": "CALM",
+   "wind_speed": "0 mph",
+   "condition": "CLOUDY"
+ },
+ {
+   "time": "2019-04-14 6:43:00 -0500",
+   "temperature": "61 °F",
+   "wind_direction": "VAR",
+   "wind_speed": "5 mph",
+   "condition": "CLOUDY"
+ },
+ {
+   "time": "2019-04-14 6:53:00 -0500",
+   "temperature": "61 °F",
+   "wind_direction": "S",
+   "wind_speed": "9 mph",
+   "condition": "CLOUDY"
+ },
+ {
+   "time": "2019-04-14 6:56:00 -0500",
+   "temperature": "61 °F",
+   "wind_direction": "S",
+   "wind_speed": "9 mph",
+   "condition": "CLOUDY"
+ },
+ {
+   "time": "2019-04-14 7:07:00 -0500",
+   "temperature": "61 °F",
+   "wind_direction": "CALM",
+   "wind_speed": "0 mph",
+   "condition": "CLOUDY"
+ },
+ {
+   "time": "2019-04-14 7:09:00 -0500",
+   "temperature": "61 °F",
+   "wind_direction": "CALM",
+   "wind_speed": "0 mph",
+   "condition": "CLOUDY"
+ },
+ {
+   "time": "2019-04-14 7:20:00 -0500",
+   "temperature": "61 °F",
+   "wind_direction": "CALM",
+   "wind_speed": "0 mph",
+   "condition": "MOSTLY_CLOUDY"
+ },
+ {
+   "time": "2019-04-14 7:53:00 -0500",
+   "temperature": "62 °F",
+   "wind_direction": "S",
+   "wind_speed": "6 mph",
+   "condition": "MOSTLY_CLOUDY"
+ },
+ {
+   "time": "2019-04-14 8:46:00 -0500",
+   "temperature": "63 °F",
+   "wind_direction": "S",
+   "wind_speed": "7 mph",
+   "condition": "CLOUDY"
+ },
+ {
+   "time": "2019-04-14 8:53:00 -0500",
+   "temperature": "63 °F",
+   "wind_direction": "SSE",
+   "wind_speed": "7 mph",
+   "condition": "CLOUDY"
+ },
+ {
+   "time": "2019-04-14 9:26:00 -0500",
+   "temperature": "64 °F",
+   "wind_direction": "SSW",
+   "wind_speed": "8 mph",
+   "condition": "CLOUDY"
+ },
+ {
+   "time": "2019-04-14 9:48:00 -0500",
+   "temperature": "64 °F",
+   "wind_direction": "SSW",
+   "wind_speed": "6 mph",
+   "condition": "CLOUDY"
+ },
+ {
+   "time": "2019-04-14 9:53:00 -0500",
+   "temperature": "66 °F",
+   "wind_direction": "S",
+   "wind_speed": "8 mph",
+   "condition": "CLOUDY"
+ },
+ {
+   "time": "2019-04-14 10:00:00 -0500",
+   "temperature": "64 °F",
+   "wind_direction": "S",
+   "wind_speed": "7 mph",
+   "condition": "CLOUDY"
+ },
+ {
+   "time": "2019-04-14 10:11:00 -0500",
+   "temperature": "64 °F",
+   "wind_direction": "SSW",
+   "wind_speed": "7 mph",
+   "condition": "CLOUDY"
+ },
+ {
+   "time": "2019-04-14 10:16:00 -0500",
+   "temperature": "64 °F",
+   "wind_direction": "S",
+   "wind_speed": "10 mph",
+   "condition": "CLOUDY"
+ },
+ {
+   "time": "2019-04-14 10:26:00 -0500",
+   "temperature": "64 °F",
+   "wind_direction": "S",
+   "wind_speed": "7 mph",
+   "condition": "CLOUDY"
+ },
+ {
+   "time": "2019-04-14 10:51:00 -0500",
+   "temperature": "66 °F",
+   "wind_direction": "S",
+   "wind_speed": "9 mph",
+   "condition": "CLOUDY"
+ },
+ {
+   "time": "2019-04-14 10:53:00 -0500",
+   "temperature": "66 °F",
+   "wind_direction": "S",
+   "wind_speed": "9 mph",
+   "condition": "CLOUDY"
+ },
+ {
+   "time": "2019-04-14 11:53:00 -0500",
+   "temperature": "67 °F",
+   "wind_direction": "VAR",
+   "wind_speed": "6 mph",
+   "condition": "CLOUDY"
+ },
+ {
+   "time": "2019-04-14 12:53:00 -0500",
+   "temperature": "68 °F",
+   "wind_direction": "SSW",
+   "wind_speed": "9 mph",
+   "condition": "CLOUDY"
+ },
+ {
+   "time": "2019-04-14 1:06:00 -0500",
+   "temperature": "70 °F",
+   "wind_direction": "VAR",
+   "wind_speed": "6 mph",
+   "condition": "CLOUDY"
+ },
+ {
+   "time": "2019-04-14 1:53:00 -0500",
+   "temperature": "73 °F",
+   "wind_direction": "SSW",
+   "wind_speed": "8 mph",
+   "condition": "CLOUDY"
+ },
+ {
+   "time": "2019-04-14 2:00:00 -0500",
+   "temperature": "73 °F",
+   "wind_direction": "SW",
+   "wind_speed": "8 mph",
+   "condition": "MOSTLY_CLOUDY"
+ },
+ {
+   "time": "2019-04-14 2:43:00 -0500",
+   "temperature": "64 °F",
+   "wind_direction": "W",
+   "wind_speed": "17 mph",
+   "condition": "CLOUDY"
+ },
+ {
+   "time": "2019-04-14 2:45:00 -0500",
+   "temperature": "63 °F",
+   "wind_direction": "W",
+   "wind_speed": "15 mph",
+   "condition": "CLOUDY"
+ },
+ {
+   "time": "2019-04-14 2:53:00 -0500",
+   "temperature": "63 °F",
+   "wind_direction": "W",
+   "wind_speed": "9 mph",
+   "condition": "CLOUDY"
+ },
+ {
+   "time": "2019-04-14 2:56:00 -0500",
+   "temperature": "63 °F",
+   "wind_direction": "W",
+   "wind_speed": "8 mph",
+   "condition": "CLOUDY"
+ },
+ {
+   "time": "2019-04-14 2:58:00 -0500",
+   "temperature": "63 °F",
+   "wind_direction": "W",
+   "wind_speed": "7 mph",
+   "condition": "CLOUDY"
+ },
+ {
+   "time": "2019-04-14 3:10:00 -0500",
+   "temperature": "64 °F",
+   "wind_direction": "CALM",
+   "wind_speed": "0 mph",
+   "condition": "CLOUDY"
+ },
+ {
+   "time": "2019-04-14 3:53:00 -0500",
+   "temperature": "65 °F",
+   "wind_direction": "SSW",
+   "wind_speed": "3 mph",
+   "condition": "MOSTLY_CLOUDY"
+ },
+ {
+   "time": "2019-04-14 4:53:00 -0500",
+   "temperature": "67 °F",
+   "wind_direction": "CALM",
+   "wind_speed": "0 mph",
+   "condition": "FAIR"
+ },
+ {
+   "time": "2019-04-14 5:53:00 -0500",
+   "temperature": "68 °F",
+   "wind_direction": "CALM",
+   "wind_speed": "0 mph",
+   "condition": "MOSTLY_CLOUDY"
+ },
+ {
+   "time": "2019-04-14 6:53:00 -0500",
+   "temperature": "67 °F",
+   "wind_direction": "WNW",
+   "wind_speed": "7 mph",
+   "condition": "FAIR"
+ },
+ {
+   "time": "2019-04-14 7:53:00 -0500",
+   "temperature": "64 °F",
+   "wind_direction": "WNW",
+   "wind_speed": "10 mph",
+   "condition": "FAIR"
+ },
+ {
+   "time": "2019-04-14 8:53:00 -0500",
+   "temperature": "62 °F",
+   "wind_direction": "WNW",
+   "wind_speed": "13 mph",
+   "condition": "FAIR"
+ },
+ {
+   "time": "2019-04-14 9:53:00 -0500",
+   "temperature": "60 °F",
+   "wind_direction": "WNW",
+   "wind_speed": "13 mph",
+   "condition": "FAIR"
+ }
+]

@@ -1,0 +1,261 @@
+[
+  {
+    "time": "2019-04-11T10:53",
+    "temperature": "63 °F",
+    "wind_direction": "N",
+    "wind_speed": "20 mph",
+    "condition": "CLOUDY"
+  },
+  {
+    "time": "2019-04-11TT 10:56",
+    "temperature": "63 °F",
+    "wind_direction": "N",
+    "wind_speed": "15 mph",
+    "condition": "CLOUDY"
+  },
+  {
+    "time": "2019-04-11T11:04",
+    "temperature": "63 °F",
+    "wind_direction": "WNW",
+    "wind_speed": "8 mph",
+    "condition": "CLOUDY"
+  },
+  {
+    "time": "2019-04-11T11:11",
+    "temperature": "63 °F",
+    "wind_direction": "CALM",
+    "wind_speed": "0 mph",
+    "condition": "CLOUDY"
+  },
+  {
+    "time": "2019-04-11T11:33",
+    "temperature": "61 °F",
+    "wind_direction": "N",
+    "wind_speed": "9 mph",
+    "condition": "CLOUDY"
+  },
+  {
+    "time": "2019-04-11T11:45",
+    "temperature": "61 °F",
+    "wind_direction": "E",
+    "wind_speed": "9 mph",
+    "condition": "CLOUDY"
+  },
+  {
+    "time": "2019-04-11T11:53",
+    "temperature": "60 °F",
+    "wind_direction": "ESE",
+    "wind_speed": "7 mph",
+    "condition": "CLOUDY"
+  },
+  {
+    "time": "2019-04-11T12:04",
+    "temperature": "61 °F",
+    "wind_direction": "CALM",
+    "wind_speed": "0 mph",
+    "condition": "CLOUDY"
+  },
+  {
+    "time": "2019-04-11T12:20",
+    "temperature": "61 °F",
+    "wind_direction": "SE",
+    "wind_speed": "6 mph",
+    "condition": "CLOUDY"
+  },
+  {
+    "time": "2019-04-11T12:53",
+    "temperature": "60 °F",
+    "wind_direction": "W",
+    "wind_speed": "7 mph",
+    "condition": "CLOUDY"
+  },
+  {
+    "time": "2019-04-11T1:01",
+    "temperature": "61 °F",
+    "wind_direction": "WNW",
+    "wind_speed": "5 mph",
+    "condition": "CLOUDY"
+  },
+  {
+    "time": "2019-04-11T1:41",
+    "temperature": "59 °F",
+    "wind_direction": "CALM",
+    "wind_speed": "0 mph",
+    "condition": "MOSTLY_CLOUDY"
+  },
+  {
+    "time": "2019-04-11T1:50",
+    "temperature": "59 °F",
+    "wind_direction": "CALM",
+    "wind_speed": "0 mph",
+    "condition": "MOSTLY_CLOUDY"
+  },
+  {
+    "time": "2019-04-11T1:53",
+    "temperature": "59 °F",
+    "wind_direction": "CALM",
+    "wind_speed": "0 mph",
+    "condition": "MOSTLY_CLOUDY"
+  },
+  {
+    "time": "2019-04-11T1:58",
+    "temperature": "57 °F",
+    "wind_direction": "CALM",
+    "wind_speed": "0 mph",
+    "condition": "PARTLY_CLOUDY"
+  },
+  {
+    "time": "2019-04-11T2:18",
+    "temperature": "57 °F",
+    "wind_direction": "SW",
+    "wind_speed": "3 mph",
+    "condition": "MOSTLY_CLOUDY"
+  },
+  {
+    "time": "2019-04-11T2:30",
+    "temperature": "59 °F",
+    "wind_direction": "WSW",
+    "wind_speed": "5 mph",
+    "condition": "MOSTLY_CLOUDY"
+  },
+  {
+    "time": "2019-04-11T2:53",
+    "temperature": "60 °F",
+    "wind_direction": "WSW",
+    "wind_speed": "7 mph",
+    "condition": "CLOUDY"
+  },
+  {
+    "time": "2019-04-11T3:53",
+    "temperature": "61 °F",
+    "wind_direction": "W",
+    "wind_speed": "8 mph",
+    "condition": "FAIR"
+  },
+  {
+    "time": "2019-04-11T4:53",
+    "temperature": "58 °F",
+    "wind_direction": "W",
+    "wind_speed": "9 mph",
+    "condition": "FAIR"
+  },
+  {
+    "time": "2019-04-11T5:53",
+    "temperature": "55 °F",
+    "wind_direction": "W",
+    "wind_speed": "9 mph",
+    "condition": "FAIR"
+  },
+  {
+    "time": "2019-04-11T6:53",
+    "temperature": "55 °F",
+    "wind_direction": "W",
+    "wind_speed": "9 mph",
+    "condition": "FAIR"
+  },
+  {
+    "time": "2019-04-11T7:53",
+    "temperature": "58 °F",
+    "wind_direction": "W",
+    "wind_speed": "8 mph",
+    "condition": "FAIR"
+  },
+  {
+    "time": "2019-04-11T8:53",
+    "temperature": "62 °F",
+    "wind_direction": "W",
+    "wind_speed": "14 mph",
+    "condition": "FAIR"
+  },
+  {
+    "time": "2019-04-11T9:53",
+    "temperature": "66 °F",
+    "wind_direction": "NW",
+    "wind_speed": "13 mph",
+    "condition": "FAIR"
+  },
+  {
+    "time": "2019-04-11T10:53",
+    "temperature": "69 °F",
+    "wind_direction": "NW",
+    "wind_speed": "12 mph",
+    "condition": "FAIR"
+  },
+  {
+    "time": "2019-04-11T11:53",
+    "temperature": "70 °F",
+    "wind_direction": "W",
+    "wind_speed": "10 mph",
+    "condition": "FAIR"
+  },
+  {
+    "time": "2019-04-11T12:53",
+    "temperature": "71 °F",
+    "wind_direction": "NW",
+    "wind_speed": "15 mph",
+    "condition": "PARTLY_CLOUDY"
+  },
+  {
+    "time": "2019-04-11T1:53",
+    "temperature": "72 °F",
+    "wind_direction": "NNW",
+    "wind_speed": "12 mph",
+    "condition": "MOSTLY_CLOUDY"
+  },
+  {
+    "time": "2019-04-11T2:53",
+    "temperature": "74 °F",
+    "wind_direction": "WNW",
+    "wind_speed": "10 mph",
+    "condition": "FAIR"
+  },
+  {
+    "time": "2019-04-11T3:53",
+    "temperature": "74 °F",
+    "wind_direction": "NNW",
+    "wind_speed": "14 mph",
+    "condition": "MOSTLY_CLOUDY"
+  },
+  {
+    "time": "2019-04-11T4:53",
+    "temperature": "72 °F",
+    "wind_direction": "NNW",
+    "wind_speed": "13 mph",
+    "condition": "MOSTLY_CLOUDY"
+  },
+  {
+    "time": "2019-04-11T5:53",
+    "temperature": "71 °F",
+    "wind_direction": "NW",
+    "wind_speed": "13 mph",
+    "condition": "FAIR"
+  },
+  {
+    "time": "2019-04-11T6:53",
+    "temperature": "66 °F",
+    "wind_direction": "WNW",
+    "wind_speed": "6 mph",
+    "condition": "FAIR"
+  },
+  {
+    "time": "2019-04-11T7:53",
+    "temperature": "61 °F",
+    "wind_direction": "W",
+    "wind_speed": "3 mph",
+    "condition": "FAIR"
+  },
+  {
+    "time": "2019-04-11T8:53",
+    "temperature": "60 °F",
+    "wind_direction": "W",
+    "wind_speed": "3 mph",
+    "condition": "MOSTLY_CLOUDY"
+  },
+  {
+    "time": "2019-04-11T9:53",
+    "temperature": "61 °F",
+    "wind_direction": "N",
+    "wind_speed": "7 mph",
+    "condition": "CLOUDY"
+  }
+]

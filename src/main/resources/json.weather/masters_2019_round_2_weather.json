@@ -1,0 +1,170 @@
+[
+  {
+    "time": "2019-04-12 10:53:00 -0500",
+    "temperature": "59 °F",
+    "wind_direction": "N",
+    "wind_speed": "9 mph",
+    "condition": "FAIR"
+  },
+  {
+    "time": "2019-04-12 11:53:00 -0500",
+    "temperature": "55 °F",
+    "wind_direction": "N",
+    "wind_speed": "6 mph",
+    "condition": "FAIR"
+  },
+  {
+    "time": "2019-04-12 12:53:00 -0500",
+    "temperature": "54 °F",
+    "wind_direction": "N",
+    "wind_speed": "8 mph",
+    "condition": "FAIR"
+  },
+  {
+    "time": "2019-04-12 1:53:00 -0500",
+    "temperature": "53 °F",
+    "wind_direction": "N",
+    "wind_speed": "7 mph",
+    "condition": "FAIR"
+  },
+  {
+    "time": "2019-04-12 2:53:00 -0500",
+    "temperature": "53 °F",
+    "wind_direction": "N",
+    "wind_speed": "6 mph",
+    "condition": "FAIR"
+  },
+  {
+    "time": "2019-04-12 3:53:00 -0500",
+    "temperature": "52 °F",
+    "wind_direction": "VAR",
+    "wind_speed": "5 mph",
+    "condition": "FAIR"
+  },
+  {
+    "time": "2019-04-12 4:53:00 -0500",
+    "temperature": "51 °F",
+    "wind_direction": "NE",
+    "wind_speed": "5 mph",
+    "condition": "FAIR"
+  },
+  {
+    "time": "2019-04-12 5:53:00 -0500",
+    "temperature": "50 °F",
+    "wind_direction": "VAR",
+    "wind_speed": "3 mph",
+    "condition": "FAIR"
+  },
+  {
+    "time": "2019-04-12 6:53:00 -0500",
+    "temperature": "52 °F",
+    "wind_direction": "ESE",
+    "wind_speed": "5 mph",
+    "condition": "FAIR"
+  },
+  {
+    "time": "2019-04-12 7:53:00 -0500",
+    "temperature": "57 °F",
+    "wind_direction": "E",
+    "wind_speed": "7 mph",
+    "condition": "FAIR"
+  },
+  {
+    "time": "2019-04-12 8:53:00 -0500",
+    "temperature": "62 °F",
+    "wind_direction": "ENE",
+    "wind_speed": "15 mph",
+    "condition": "FAIR"
+  },
+  {
+    "time": "2019-04-12 9:53:00 -0500",
+    "temperature": "63 °F",
+    "wind_direction": "E",
+    "wind_speed": "12 mph",
+    "condition": "FAIR"
+  },
+  {
+    "time": "2019-04-12 10:53:00 -0500",
+    "temperature": "66 °F",
+    "wind_direction": "VAR",
+    "wind_speed": "7 mph",
+    "condition": "FAIR"
+  },
+  {
+    "time": "2019-04-12 11:53:00 -0500",
+    "temperature": "66 °F",
+    "wind_direction": "E",
+    "wind_speed": "5 mph",
+    "condition": "FAIR"
+  },
+  {
+    "time": "2019-04-12 12:53:00 -0500",
+    "temperature": "71 °F",
+    "wind_direction": "ENE",
+    "wind_speed": "9 mph",
+    "condition": "FAIR"
+  },
+  {
+    "time": "2019-04-12 1:53:00 -0500",
+    "temperature": "71 °F",
+    "wind_direction": "VAR",
+    "wind_speed": "7 mph",
+    "condition": "FAIR"
+  },
+  {
+    "time": "2019-04-12 2:53:00 -0500",
+    "temperature": "71 °F",
+    "wind_direction": "S",
+    "wind_speed": "6 mph",
+    "condition": "FAIR"
+  },
+  {
+    "time": "2019-04-12 3:53:00 -0500",
+    "temperature": "73 °F",
+    "wind_direction": "E",
+    "wind_speed": "8 mph",
+    "condition": "FAIR"
+  },
+  {
+    "time": "2019-04-12 4:53:00 -0500",
+    "temperature": "72 °F",
+    "wind_direction": "E",
+    "wind_speed": "7 mph",
+    "condition": "FAIR"
+  },
+  {
+    "time": "2019-04-12 5:53:00 -0500",
+    "temperature": "69 °F",
+    "wind_direction": "SE",
+    "wind_speed": "7 mph",
+    "condition": "FAIR"
+  },
+  {
+    "time": "2019-04-12 6:53:00 -0500",
+    "temperature": "64 °F",
+    "wind_direction": "E",
+    "wind_speed": "6 mph",
+    "condition": "FAIR"
+  },
+  {
+    "time": "2019-04-12 7:53:00 -0500",
+    "temperature": "60 °F",
+    "wind_direction": "E",
+    "wind_speed": "6 mph",
+    "condition": "FAIR"
+  },
+  {
+    "time": "2019-04-12 8:53:00 -0500",
+    "temperature": "58 °F",
+    "wind_direction": "SE",
+    "wind_speed": "6 mph",
+    "condition": "FAIR"
+  },
+  {
+    "time": "2019-04-12 9:53:00 -0500",
+    "temperature": "59 °F",
+    "wind_direction": "SE",
+    "wind_speed": "7 mph",
+    "condition": "FAIR"
+  }
+]
